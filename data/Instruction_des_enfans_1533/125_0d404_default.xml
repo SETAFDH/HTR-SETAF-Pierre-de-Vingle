@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>125_0d404_default.jpg</fileName>
+      <fileIdentifier>https://www.e-rara.ch/gep_g/i3f/v20/1971636/full/full/0/default.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT742" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT743" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT744" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT745" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT746" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT747" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT748" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT749" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT750" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT794" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT795" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT800" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT4" LABEL="Signature" DESCRIPTION="line type Signature"/><OtherTag ID="LT251" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT252" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT253" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1171"
+          HEIGHT="1706"
+          PHYSICAL_IMG_NR="125"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1171"
+                  HEIGHT="1706">
+        
+        <TextBlock HPOS="279"
+                   VPOS="153"
+                   WIDTH="827"
+                   HEIGHT="1243"
+                   ID="eSc_textblock_4ac99482"
+                   TAGREFS="BT744">
+          <Shape><Polygon POINTS="279 153 279 1396 1106 1396 1106 153"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_9f68d1f4"
+                    TAGREFS="LT252"
+                    BASELINE="320 224 1064 213" 
+                    HPOS="317"
+                    VPOS="156"
+                    WIDTH="745"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="318 227 364 234 365 234 408 227 412 227 418 227 469 233 470 233 560 226 597 224 1062 224 1062 211 1060 164 882 156 880 156 879 156 852 164 843 156 842 156 840 156 803 156 802 156 801 156 778 164 728 157 727 157 725 157 724 157 715 164 688 157 687 157 685 157 684 157 657 170 655 170 647 170 529 162 527 162 526 162 525 162 516 170 496 164 495 164 493 164 441 173 439 173 414 162 412 162 411 162 317 174 318 223"/></Shape>
+	    <String CONTENT="¶Les noms des liures Canoniques"
+                    HPOS="317"
+                    VPOS="156"
+                    WIDTH="745"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1cfbffc8"
+                    TAGREFS="LT252"
+                    BASELINE="486 277 883 271" 
+                    HPOS="486"
+                    VPOS="214"
+                    WIDTH="397"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="832 216 793 224 785 217 785 216 783 216 782 216 781 216 756 217 755 217 741 224 735 227 680 223 599 217 597 217 596 217 594 217 589 221 579 228 550 221 546 220 544 220 543 220 542 220 539 221 507 230 486 220 486 277 486 287 651 290 653 290 654 290 655 290 660 287 667 281 681 287 688 288 690 288 691 288 709 285 749 280 769 285 779 288 781 288 782 288 783 288 789 285 803 278 882 284 883 271 882 227 845 214 840 216"/></Shape>
+	    <String CONTENT="de la saincte Bible."
+                    HPOS="486"
+                    VPOS="214"
+                    WIDTH="397"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ffc11863"
+                    TAGREFS="LT251"
+                    BASELINE="313 338 1030 329" 
+                    HPOS="311"
+                    VPOS="284"
+                    WIDTH="719"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="1025 295 997 295 990 288 980 287 966 285 961 284 899 287 897 287 879 295 788 287 786 287 785 287 783 287 766 298 746 298 734 287 734 285 732 285 731 285 729 285 673 294 550 287 549 287 547 287 497 299 470 288 469 288 431 288 429 288 428 288 426 288 415 298 379 290 372 290 352 302 315 302 311 308 313 338 313 344 1028 335 1030 329 1027 295 1025 295"/></Shape>
+	    <String CONTENT="1.Moyse, autremẽt Genese, cõtient Chap̃.50."
+                    HPOS="311"
+                    VPOS="284"
+                    WIDTH="719"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e42cf068"
+                    TAGREFS="LT251"
+                    BASELINE="314 379 1071 371" 
+                    HPOS="313"
+                    VPOS="331"
+                    WIDTH="758"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="981 331 978 331 973 336 956 331 953 331 943 331 916 336 902 331 896 332 889 332 883 338 793 332 785 332 778 339 752 334 739 334 725 334 724 334 692 339 684 334 682 334 668 335 667 335 653 339 553 335 540 336 526 336 512 336 503 336 486 341 466 336 455 336 445 336 436 342 394 338 384 338 369 338 358 338 351 344 351 345 313 345 314 379 314 383 1069 379 1071 371 1067 338 1005 338 991 331 981 331"/></Shape>
+	    <String CONTENT="2.Moyse, autrement Exode, contient Chap̃.40."
+                    HPOS="313"
+                    VPOS="331"
+                    WIDTH="758"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_954c30a6"
+                    TAGREFS="LT251"
+                    BASELINE="315 420 1071 415" 
+                    HPOS="314"
+                    VPOS="372"
+                    WIDTH="757"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="940 373 926 373 912 373 897 373 883 373 869 373 855 373 850 373 795 379 785 379 779 379 751 375 741 375 727 375 712 375 698 375 684 376 674 376 617 381 611 381 610 381 589 376 584 376 570 376 563 376 553 381 544 378 542 378 527 378 523 378 520 381 488 378 485 378 470 378 456 378 442 378 428 379 424 379 405 382 389 379 385 379 371 379 357 379 342 379 314 383 315 420 315 430 1069 420 1071 415 1068 376 947 372 940 373"/></Shape>
+	    <String CONTENT="3.Moyse, autrement Leuitique, cõtiẽt Chap̃.27."
+                    HPOS="314"
+                    VPOS="372"
+                    WIDTH="757"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5fd68d2f"
+                    TAGREFS="LT251"
+                    BASELINE="317 460 1071 454" 
+                    HPOS="315"
+                    VPOS="416"
+                    WIDTH="756"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="1041 416 1027 416 1013 416 998 416 984 416 970 416 956 416 941 416 936 416 690 423 681 419 671 419 657 419 643 419 628 419 624 419 554 423 529 419 529 419 515 419 500 420 490 425 419 420 415 420 401 420 387 420 372 420 358 420 354 420 315 426 317 460 317 466 1069 462 1071 454 1069 422 1048 416 1041 416"/></Shape>
+	    <String CONTENT="4.Moyse, autremẽt Nombres, cõtient Chap̃.36."
+                    HPOS="315"
+                    VPOS="416"
+                    WIDTH="756"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a61c9ed5"
+                    TAGREFS="LT251"
+                    BASELINE="317 501 1071 497" 
+                    HPOS="315"
+                    VPOS="456"
+                    WIDTH="756"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="998 456 984 456 970 456 956 456 941 456 927 456 913 456 899 456 885 456 870 457 856 457 842 457 832 457 815 463 783 457 771 457 756 457 742 457 692 463 681 459 671 459 657 459 643 459 628 459 614 459 600 459 586 459 571 459 557 459 554 459 546 466 499 466 488 460 486 460 472 460 458 460 443 460 429 460 415 460 315 466 317 501 317 511 1071 506 1071 497 1068 463 1000 456 998 456"/></Shape>
+	    <String CONTENT="5.Moyse, autremẽt Deuterono. cõtiẽt Chap̃.34."
+                    HPOS="315"
+                    VPOS="456"
+                    WIDTH="756"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6d38f19b"
+                    TAGREFS="LT251"
+                    BASELINE="318 547 1023 538" 
+                    HPOS="317"
+                    VPOS="499"
+                    WIDTH="706"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="971 499 957 499 943 499 931 499 926 501 920 499 914 499 902 499 899 501 833 499 829 499 815 500 801 500 791 500 778 504 717 500 715 500 701 500 687 500 673 500 670 500 664 506 653 500 644 500 637 500 601 506 579 500 573 500 560 500 544 507 404 501 402 501 401 501 399 501 389 508 332 501 331 501 330 501 328 501 317 507 318 547 318 560 553 550 1021 551 1023 538 1020 503 983 499 971 499"/></Shape>
+	    <String CONTENT="Iehosue, autrement Iosue, contient Chap̃.24."
+                    HPOS="317"
+                    VPOS="499"
+                    WIDTH="706"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_db52a559"
+                    TAGREFS="LT251"
+                    BASELINE="318 587 715 581" 
+                    HPOS="317"
+                    VPOS="543"
+                    WIDTH="398"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="658 544 644 544 634 544 627 547 623 544 616 544 601 544 587 544 573 544 559 544 544 545 530 545 516 545 502 545 490 545 369 553 355 547 345 547 331 547 317 553 318 587 318 591 714 588 715 581 712 550 674 550 663 543 658 544"/></Shape>
+	    <String CONTENT="Iuges, contient Chap̃.21."
+                    HPOS="317"
+                    VPOS="543"
+                    WIDTH="398"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1e8cbce5"
+                    TAGREFS="LT251"
+                    BASELINE="318 628 715 624" 
+                    HPOS="317"
+                    VPOS="582"
+                    WIDTH="398"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="673 582 658 582 644 582 630 582 616 582 601 584 587 584 573 584 571 585 570 588 557 585 547 584 544 584 530 584 516 584 502 585 489 585 446 589 381 587 374 587 359 587 345 587 331 587 317 587 318 628 318 634 714 629 715 624 712 588 678 582 673 582"/></Shape>
+	    <String CONTENT="Ruth, contient Chap̃.4."
+                    HPOS="317"
+                    VPOS="582"
+                    WIDTH="398"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d4cb3f21"
+                    TAGREFS="LT251"
+                    BASELINE="318 671 1075 663" 
+                    HPOS="317"
+                    VPOS="619"
+                    WIDTH="758"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="1071 635 1057 634 1042 634 1028 632 1014 631 1000 631 986 629 971 628 957 626 943 626 929 625 914 624 886 629 832 619 830 619 829 619 801 629 772 619 771 619 769 619 768 619 752 626 712 624 701 625 687 625 673 625 658 625 653 625 645 631 631 625 630 625 616 625 606 625 587 632 562 626 559 626 544 626 530 626 523 626 488 631 480 626 473 626 466 626 461 632 453 626 445 628 438 628 398 634 379 628 374 628 359 628 345 628 317 635 318 671 318 675 1074 668 1075 663 1072 635 1071 635"/></Shape>
+	    <String CONTENT="1.Semuel, autremẽt .1. des Roix, cõtient Chap̃.31."
+                    HPOS="317"
+                    VPOS="619"
+                    WIDTH="758"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_faab49f4"
+                    TAGREFS="LT251"
+                    BASELINE="320 710 1075 705" 
+                    HPOS="318"
+                    VPOS="665"
+                    WIDTH="757"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="958 665 944 665 930 665 916 666 902 666 887 666 873 666 859 666 856 666 833 671 826 671 819 671 792 666 788 666 774 666 759 668 745 668 731 668 717 668 711 668 685 671 660 672 647 671 634 668 631 668 617 669 603 669 589 669 584 669 577 671 571 671 570 671 569 669 560 669 546 669 532 669 526 669 519 671 505 672 497 671 493 669 489 669 475 669 461 671 446 671 443 671 418 673 402 671 389 671 375 671 365 671 355 673 318 671 320 710 320 716 1075 716 1075 705 1072 671 967 665 958 665"/></Shape>
+	    <String CONTENT="2.Semuel, autremẽt .2. des Roix, cõtiẽt Chap̃.24."
+                    HPOS="318"
+                    VPOS="665"
+                    WIDTH="757"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_83d1a9f6"
+                    TAGREFS="LT251"
+                    BASELINE="320 752 1004 746" 
+                    HPOS="318"
+                    VPOS="706"
+                    WIDTH="686"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="887 706 873 707 859 707 845 707 830 707 816 707 802 707 788 707 774 707 759 707 745 707 744 707 623 713 581 709 574 709 560 709 546 709 542 709 526 713 507 709 503 710 489 710 475 710 461 710 446 710 432 710 424 710 318 716 320 752 320 759 1003 756 1004 746 1001 712 892 706 887 706"/></Shape>
+	    <String CONTENT="1.des Roix, autrement 3. contient Chap̃.22."
+                    HPOS="318"
+                    VPOS="706"
+                    WIDTH="686"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8f112460"
+                    TAGREFS="LT251"
+                    BASELINE="320 794 1004 786" 
+                    HPOS="318"
+                    VPOS="747"
+                    WIDTH="686"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="930 747 916 747 902 747 887 747 886 747 869 753 866 753 865 753 856 747 845 747 830 749 823 749 785 753 759 756 677 756 673 753 668 749 660 750 645 750 631 750 617 750 603 750 601 750 599 753 594 756 571 753 554 750 546 750 539 750 536 753 526 757 318 753 320 794 320 800 889 800 889 798 897 798 950 791 1001 797 1004 786 1001 753 933 747 930 747"/></Shape>
+	    <String CONTENT="2.des Roix, autrement 4. contient Chap̃.25."
+                    HPOS="318"
+                    VPOS="747"
+                    WIDTH="686"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_95f98f0f"
+                    TAGREFS="LT251"
+                    BASELINE="320 835 1077 827" 
+                    HPOS="318"
+                    VPOS="787"
+                    WIDTH="759"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="1058 798 1048 791 993 787 987 787 973 787 958 787 957 787 951 793 880 789 873 789 859 789 845 789 830 789 825 789 811 796 754 790 745 790 731 790 717 790 702 790 692 790 616 797 607 791 603 791 594 791 567 798 519 793 517 793 503 793 489 793 483 793 465 798 452 793 446 793 432 794 425 794 405 800 367 794 361 794 347 794 337 794 318 801 320 835 320 841 1077 834 1077 827 1067 804 1058 798"/></Shape>
+	    <String CONTENT="1.des Croniq̃s, autre. Paralipome. cõtiẽt Cha.29."
+                    HPOS="318"
+                    VPOS="787"
+                    WIDTH="759"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e97d403a"
+                    TAGREFS="LT251"
+                    BASELINE="321 875 1074 870" 
+                    HPOS="320"
+                    VPOS="828"
+                    WIDTH="754"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="946 830 931 830 917 830 903 830 889 830 875 830 862 835 818 831 803 831 789 831 775 831 764 831 758 835 748 831 746 831 732 831 718 831 704 831 690 833 677 833 633 837 626 833 618 833 604 833 590 833 576 833 562 834 547 834 539 834 483 838 462 834 448 834 433 835 419 835 412 835 401 838 387 835 377 835 362 835 348 835 337 835 320 840 321 875 321 881 1072 875 1074 870 1071 835 953 828 946 830"/></Shape>
+	    <String CONTENT="2.des Croniq̃s, autre Paralipome. ꝯtiẽt Chap̃.36."
+                    HPOS="320"
+                    VPOS="828"
+                    WIDTH="754"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0d48ccb1"
+                    TAGREFS="LT251"
+                    BASELINE="321 918 994 909" 
+                    HPOS="320"
+                    VPOS="871"
+                    WIDTH="674"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="931 871 917 871 903 871 889 871 875 872 863 872 853 880 798 872 789 872 775 872 769 872 762 880 752 872 746 872 742 872 725 881 624 874 618 874 604 874 597 874 590 881 580 874 576 874 567 874 525 882 482 875 476 875 463 875 396 885 364 875 362 875 361 875 359 875 320 887 321 918 321 922 994 915 994 909 991 880 947 880 937 871 931 871"/></Shape>
+	    <String CONTENT="1.Ezra, autremẽt Esdras, contient Chap̃.10."
+                    HPOS="320"
+                    VPOS="871"
+                    WIDTH="674"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_39f20ff5"
+                    TAGREFS="LT251"
+                    BASELINE="324 962 1079 953" 
+                    HPOS="322"
+                    VPOS="907"
+                    WIDTH="757"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="963 911 951 911 940 916 883 911 877 912 863 912 849 912 835 912 829 912 820 918 764 912 764 914 749 914 735 914 721 914 707 914 701 914 695 919 665 914 664 914 650 915 636 915 621 915 593 919 587 915 579 915 564 915 554 915 525 921 507 916 493 916 479 916 476 916 468 921 461 916 451 916 442 916 435 922 389 918 379 918 365 918 351 918 337 918 334 918 322 922 324 962 324 968 1078 959 1079 953 1077 916 1040 916 1030 907 1028 907 1027 907 1025 907 1024 907 988 915 976 911 963 911"/></Shape>
+	    <String CONTENT="Nehemiah, autremẽt .2. Esdras, cõtient Chap̃.13."
+                    HPOS="322"
+                    VPOS="907"
+                    WIDTH="757"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ff4a86f6"
+                    TAGREFS="LT251"
+                    BASELINE="322 1002 738 995" 
+                    HPOS="321"
+                    VPOS="959"
+                    WIDTH="417"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="677 959 663 959 651 959 648 962 643 959 634 959 620 959 606 959 591 959 577 959 563 961 549 961 534 961 520 961 506 961 492 961 483 961 436 963 431 962 421 962 406 962 392 962 378 962 364 962 350 962 335 962 334 959 321 965 322 1002 322 1009 731 1009 731 1007 732 1007 734 1007 734 1006 735 1006 738 1002 738 995 734 961 682 961 681 961 678 959 677 959"/></Shape>
+	    <String CONTENT="Esther, contient Chap̃.10."
+                    HPOS="321"
+                    VPOS="959"
+                    WIDTH="417"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d2cfb647"
+                    TAGREFS="LT251"
+                    BASELINE="327 1042 695 1036" 
+                    HPOS="325"
+                    VPOS="998"
+                    WIDTH="370"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="610 998 608 998 600 1003 599 1005 597 1003 586 998 584 998 583 998 579 998 567 999 560 999 495 1003 486 1003 485 1003 482 1000 468 1000 462 1000 456 1003 452 1005 445 1003 433 1000 425 1000 411 1000 405 1000 401 1003 396 1005 325 1003 327 1042 327 1052 694 1043 695 1036 692 1005 637 1005 636 1003 624 998 610 998"/></Shape>
+	    <String CONTENT="Iob, contient Chap̃.42."
+                    HPOS="325"
+                    VPOS="998"
+                    WIDTH="370"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3c64a215"
+                    TAGREFS="LT251"
+                    BASELINE="325 1083 882 1076" 
+                    HPOS="324"
+                    VPOS="1039"
+                    WIDTH="558"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="865 1043 850 1042 836 1040 829 1039 414 1040 409 1042 395 1042 381 1042 367 1042 352 1042 338 1042 337 1040 324 1040 325 1083 325 1088 880 1080 882 1076 877 1044 865 1043"/></Shape>
+	    <String CONTENT="Le liure des Psalmes, contient.150."
+                    HPOS="324"
+                    VPOS="1039"
+                    WIDTH="558"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2c5ac422"
+                    TAGREFS="LT251"
+                    BASELINE="325 1124 1081 1121" 
+                    HPOS="324"
+                    VPOS="1074"
+                    WIDTH="757"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="1021 1083 1007 1083 993 1081 978 1081 964 1081 950 1080 936 1080 922 1077 917 1074 880 1074 879 1077 865 1077 850 1077 836 1077 822 1077 808 1077 793 1077 779 1077 765 1079 751 1079 737 1079 722 1079 708 1079 697 1079 668 1086 667 1086 664 1086 620 1080 608 1080 594 1080 580 1080 579 1080 543 1086 542 1087 472 1087 472 1086 466 1081 466 1081 452 1081 438 1081 424 1083 409 1083 377 1086 369 1083 367 1083 352 1083 338 1083 334 1083 324 1086 325 1124 325 1128 1079 1130 1081 1121 1078 1086 1025 1086 1023 1083 1021 1083"/></Shape>
+	    <String CONTENT="Prouerbes ou sentẽces de Solomõ, cõtiẽt Cha.31."
+                    HPOS="324"
+                    VPOS="1074"
+                    WIDTH="757"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_60c21cb9"
+                    TAGREFS="LT251"
+                    BASELINE="327 1165 1079 1162" 
+                    HPOS="325"
+                    VPOS="1123"
+                    WIDTH="754"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="1067 1125 1045 1123 1037 1123 1023 1123 1008 1123 1007 1123 1001 1125 994 1123 994 1123 980 1123 966 1123 958 1123 943 1125 917 1123 909 1123 894 1123 880 1123 866 1123 852 1123 838 1123 828 1123 796 1125 791 1123 781 1123 766 1123 752 1123 738 1123 724 1123 709 1123 695 1124 687 1124 681 1127 678 1124 667 1124 653 1124 638 1124 624 1124 610 1124 596 1124 581 1124 574 1124 512 1127 493 1124 482 1124 468 1124 458 1124 455 1127 402 1124 396 1124 382 1124 368 1124 354 1124 340 1124 338 1124 325 1128 327 1165 327 1177 701 1177 701 1175 702 1175 719 1168 1077 1174 1079 1162 1075 1147 1067 1125"/></Shape>
+	    <String CONTENT="Ecclesiaste, autremẽt le prescheur, cõtiẽt Chap̃.12."
+                    HPOS="325"
+                    VPOS="1123"
+                    WIDTH="754"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a9885eee"
+                    TAGREFS="LT251"
+                    BASELINE="328 1208 1051 1202" 
+                    HPOS="327"
+                    VPOS="1164"
+                    WIDTH="724"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="995 1164 981 1164 967 1164 953 1164 939 1164 924 1164 910 1164 896 1164 882 1164 867 1164 853 1164 849 1164 823 1167 779 1164 768 1164 754 1164 739 1164 725 1164 711 1164 700 1164 697 1167 695 1165 682 1165 671 1165 664 1168 661 1165 654 1165 640 1165 626 1165 611 1165 597 1165 583 1165 569 1165 554 1165 540 1165 526 1165 512 1165 497 1165 496 1165 465 1170 371 1165 369 1165 355 1165 341 1165 334 1165 327 1170 328 1208 328 1214 1051 1209 1051 1202 1048 1167 998 1164 995 1164"/></Shape>
+	    <String CONTENT="Les Cantiques de Solomon, contient Chap̃.8."
+                    HPOS="327"
+                    VPOS="1164"
+                    WIDTH="724"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cf24b095"
+                    TAGREFS="LT251"
+                    BASELINE="330 1249 1031 1242" 
+                    HPOS="328"
+                    VPOS="1204"
+                    WIDTH="703"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="954 1204 940 1204 926 1204 912 1204 897 1204 883 1204 872 1204 860 1208 852 1209 835 1208 815 1205 812 1205 798 1205 783 1205 769 1205 755 1205 751 1206 739 1211 727 1206 721 1205 712 1205 698 1205 684 1206 670 1206 655 1206 641 1206 627 1206 624 1206 603 1212 589 1206 584 1206 574 1206 566 1211 547 1206 542 1206 527 1206 513 1206 506 1214 461 1214 453 1208 442 1208 428 1208 425 1208 404 1214 392 1208 385 1208 371 1208 357 1208 342 1208 328 1208 330 1249 330 1261 1030 1248 1031 1242 1028 1209 964 1204 954 1204"/></Shape>
+	    <String CONTENT="Iesaiah, autrement Esaie, contient Chap̃.66."
+                    HPOS="328"
+                    VPOS="1204"
+                    WIDTH="703"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_111704ef"
+                    TAGREFS="LT251"
+                    BASELINE="330 1292 1042 1285" 
+                    HPOS="328"
+                    VPOS="1243"
+                    WIDTH="714"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="968 1243 957 1243 950 1249 931 1243 926 1243 912 1243 906 1243 873 1251 870 1251 865 1251 809 1245 798 1245 783 1245 769 1245 766 1245 739 1251 732 1252 719 1251 674 1246 670 1246 655 1246 641 1246 638 1246 633 1252 620 1246 613 1246 599 1246 589 1252 583 1253 576 1252 560 1248 556 1248 542 1248 527 1248 513 1248 499 1248 485 1248 470 1248 461 1248 456 1252 452 1255 443 1252 432 1249 428 1249 414 1249 399 1249 328 1252 330 1292 330 1297 1041 1289 1042 1285 1040 1251 976 1243 968 1243"/></Shape>
+	    <String CONTENT="Ieremiah, autrement Ieremie, cõtient Chap̃.52."
+                    HPOS="328"
+                    VPOS="1243"
+                    WIDTH="714"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_323e4d4e"
+                    TAGREFS="LT251"
+                    BASELINE="331 1332 1079 1326" 
+                    HPOS="330"
+                    VPOS="1289"
+                    WIDTH="749"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="1069 1307 1062 1290 700 1289 685 1289 671 1289 657 1289 643 1289 628 1289 614 1289 600 1290 586 1290 571 1290 557 1290 543 1290 529 1290 515 1290 500 1290 486 1290 446 1295 399 1292 387 1292 372 1292 358 1292 344 1292 341 1292 330 1296 331 1332 332 1349 361 1339 405 1349 411 1349 412 1349 414 1349 415 1349 415 1347 425 1339 507 1347 519 1347 520 1347 522 1347 523 1347 536 1337 658 1337 681 1344 682 1344 684 1344 688 1344 745 1336 756 1343 765 1350 766 1350 768 1350 769 1352 892 1352 892 1350 893 1350 926 1342 927 1342 931 1342 1020 1349 1021 1349 1023 1349 1024 1349 1037 1340 1040 1339 1078 1339 1079 1326 1075 1315 1069 1307"/></Shape>
+	    <String CONTENT="Lamentations de leremie, autrement Threnes,"
+                    HPOS="330"
+                    VPOS="1289"
+                    WIDTH="749"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_36f062c3"
+                    TAGREFS="LT251"
+                    BASELINE="372 1373 727 1370" 
+                    HPOS="371"
+                    VPOS="1330"
+                    WIDTH="356"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="613 1330 601 1330 579 1336 560 1330 556 1330 542 1330 539 1330 522 1337 453 1332 442 1332 428 1332 415 1332 408 1339 371 1339 372 1373 372 1391 727 1388 727 1370 724 1337 645 1337 624 1330 613 1330"/></Shape>
+	    <String CONTENT="contient Chapitres.5."
+                    HPOS="371"
+                    VPOS="1330"
+                    WIDTH="356"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
