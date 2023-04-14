@@ -14,4 +14,4 @@ Transcriptions are open source, not the images which belong to libraries.
 
 ## Citation
 
-Sonia Solfrini, Data for the SETAF project, université de Genève, 2023.
+Data for the SETAF project, université de Genève, 2023.
