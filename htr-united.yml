@@ -2,49 +2,49 @@ schema: https://htr-united.github.io/schema/2022-04-15/schema.json
 title: HTR-SETAF-Pierre-de-Vingle
 url: https://github.com/SETAFDH/HTR-SETAF-Pierre-de-Vingle
 authors:
-  - name: Sonia
-    surname: Solfrini
-    orcid: 0009-0009-7367-048X
-    roles:
-      - transcriber
-      - project-manager
-      - quality-control
-  - name: Simon
-    surname: Gabay
-    orcid: 0000-0001-9094-4475
-    roles:
-      - support
-  - name: Geneviève
-    surname: Gross
-    orcid: 0009-0006-5367-4262
-    roles:
-      - transcriber
-      - project-manager
-      - quality-control
-  - name: Pierre-Olivier
-    surname: Beaulnes
-    orcid: 0009-0009-2475-6017
-    roles:
-      - transcriber
-      - quality-control
-  - name: Aurélia
-    surname: Marques Oliveira
-    orcid: 0009-0009-9678-9811
-    roles:
-      - transcriber
-      - quality-control
-  - name: Daniela
-    surname: Solfaroli Camillocci
-    roles:
-      - project-manager
+- name: Sonia
+  surname: Solfrini
+  orcid: 0009-0009-7367-048X
+  roles:
+  - transcriber
+  - project-manager
+  - quality-control
+- name: Simon
+  surname: Gabay
+  orcid: 0000-0001-9094-4475
+  roles:
+  - support
+- name: "Genevi\xE8ve"
+  surname: Gross
+  orcid: 0009-0006-5367-4262
+  roles:
+  - transcriber
+  - project-manager
+  - quality-control
+- name: Pierre-Olivier
+  surname: Beaulnes
+  orcid: 0009-0009-2475-6017
+  roles:
+  - transcriber
+  - quality-control
+- name: "Aur\xE9lia"
+  surname: Marques Oliveira
+  orcid: 0009-0009-9678-9811
+  roles:
+  - transcriber
+  - quality-control
+- name: Daniela
+  surname: Solfaroli Camillocci
+  roles:
+  - project-manager
 institutions: []
 description: Data for the SETAF project
 project-name: SETAF project
 language:
-  - fra
+- fra
 production-software: eScriptorium + Kraken
 script:
-  - iso: Latn
+- iso: Latn
 script-type: only-typed
 time:
   notBefore: '1500'
@@ -53,6 +53,85 @@ hands:
   count: '1'
   precision: exact
 license:
-  - name: CC-BY 4.0
-    url: https://creativecommons.org/licenses/by/4.0/
+- name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
 format: Alto-XML
+volume:
+- metric: characters
+  count: 29920
+- metric: files
+  count: 56
+- metric: lines
+  count: 1216
+- metric: regions
+  count: 102
+characters:
+  mode: NFD
+  members:
+  - e
+  - u
+  - s
+  - n
+  - o
+  - a
+  - t
+  - r
+  - i
+  - l
+  - c
+  - d
+  - ','
+  - p
+  - m
+  - y
+  - "\u0303"
+  - h
+  - f
+  - g
+  - .
+  - z
+  - b
+  - "\xB6"
+  - q
+  - ;
+  - C
+  - E
+  - "\u204A"
+  - A
+  - x
+  - D
+  - P
+  - N
+  - I
+  - L
+  - S
+  - T
+  - Q
+  - M
+  - O
+  - U
+  - F
+  - R
+  - "\u036C"
+  - G
+  - B
+  - H
+  - "\uA770"
+  - '?'
+  - "\u0365"
+  - '1'
+  - (
+  - "\uA753"
+  - )
+  - "\uA751"
+  - '-'
+  - '9'
+  - '6'
+  - '2'
+  - '3'
+  - '4'
+  - J
+  - '8'
+  - v
+  - Y
+  - V
