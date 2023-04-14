@@ -25,40 +25,13 @@
                   WIDTH="1146"
                   HEIGHT="1519">
         
-        <TextBlock HPOS="208"
-                   VPOS="171"
-                   WIDTH="632"
-                   HEIGHT="119"
-                   ID="eSc_textblock_bad89ba9"
-                   TAGREFS="BT737">
-          <Shape><Polygon POINTS="208 171 208 290 835 290 840 171"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_b7ce042b"
-                    TAGREFS="LT249"
-                    BASELINE="227 249 823 254" 
-                    HPOS="225"
-                    VPOS="179"
-                    WIDTH="596"
-                    HEIGHT="96">
-            <Shape><Polygon POINTS="225 268 819 275 821 253 821 198 782 197 766 183 764 183 763 183 762 183 711 194 701 196 674 194 673 193 661 182 659 182 658 182 657 182 655 182 624 192 612 194 605 191 586 182 585 182 583 182 528 188 484 193 465 187 457 183 455 183 454 183 440 186 415 191 377 183 353 179 226 179 226 248"/></Shape>
-	    <String CONTENT="¶Noelz nouueaulx."
-                    HPOS="225"
-                    VPOS="179"
-                    WIDTH="596"
-                    HEIGHT="96"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
         <TextBlock HPOS="125"
-                   VPOS="326"
+                   VPOS="164"
                    WIDTH="802"
-                   HEIGHT="802"
+                   HEIGHT="964"
                    ID="eSc_textblock_9e81e813"
-                   TAGREFS="BT734">
-          <Shape><Polygon POINTS="125 326 125 1128 927 1128 927 326"/></Shape>
+                   TAGREFS="BT930">
+          <Shape><Polygon POINTS="128 165 125 1128 927 1128 918 164 737 164"/></Shape>
           
           
           <TextLine ID="eSc_line_9c8bcf30"
@@ -137,7 +110,7 @@
                     WIDTH="748"
                     HEIGHT="52">
             <Shape><Polygon POINTS="146 508 140 512 141 551 141 559 887 559 888 549 885 510 882 507"/></Shape>
-	    <String CONTENT="Ne chãtez point brayãt cõme noz ueaulx,"
+	    <String CONTENT="Ne point brayãt cõme noz ueaulx,"
                     HPOS="140"
                     VPOS="507"
                     WIDTH="748"
@@ -283,33 +256,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="381"
-                   VPOS="74"
-                   WIDTH="258"
-                   HEIGHT="58"
-                   ID="eSc_textblock_d8fa0e02"
-                   >
-          <Shape><Polygon POINTS="381 74 381 132 639 132 639 74"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_9458a39b"
-                    TAGREFS="LT352"
-                    BASELINE="365 113 642 113" 
-                    HPOS="364"
-                    VPOS="67"
-                    WIDTH="276"
-                    HEIGHT="60">
-            <Shape><Polygon POINTS="364 118 390 127 391 127 392 127 517 120 619 127 620 127 621 127 640 118 640 112 640 79 616 67 615 67 614 67 612 67 593 73 529 67 528 67 526 67 525 67 503 81 502 82 429 82 429 81 403 69 402 69 401 69 400 69 398 69 382 81 382 82 364 82 364 112"/></Shape>
-	    <String CONTENT=""
-                    HPOS="364"
-                    VPOS="67"
-                    WIDTH="276"
-                    HEIGHT="60"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
         <TextBlock HPOS="1005"
                    VPOS="47"
                    WIDTH="59"
@@ -320,7 +266,38 @@
           
         </TextBlock>
         
+        <TextBlock HPOS="381"
+                   VPOS="74"
+                   WIDTH="258"
+                   HEIGHT="58"
+                   ID="eSc_textblock_d8fa0e02"
+                   TAGREFS="BT735">
+          <Shape><Polygon POINTS="381 74 381 132 639 132 639 74"/></Shape>
+          
+        </TextBlock>
+        
 
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_b7ce042b"
+                    TAGREFS="LT249"
+                    BASELINE="227 249 823 254" 
+                    HPOS="225"
+                    VPOS="179"
+                    WIDTH="596"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="225 268 819 275 821 253 821 198 782 197 766 183 764 183 763 183 762 183 711 194 701 196 674 194 673 193 661 182 659 182 658 182 657 182 655 182 624 192 612 194 605 191 586 182 585 182 583 182 528 188 484 193 465 187 457 183 455 183 454 183 440 186 415 191 377 183 353 179 226 179 226 248"/></Shape>
+	    <String CONTENT="¶Noelz nouueaulx."
+                    HPOS="225"
+                    VPOS="179"
+                    WIDTH="596"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+        </TextBlock>
         
       </PrintSpace>
     </Page>
