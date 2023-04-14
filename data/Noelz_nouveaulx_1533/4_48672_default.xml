@@ -34,6 +34,23 @@
           <Shape><Polygon POINTS="128 165 125 1128 927 1128 918 164 737 164"/></Shape>
           
           
+          <TextLine ID="eSc_line_b7ce042b"
+                    TAGREFS="LT249"
+                    BASELINE="227 249 823 254" 
+                    HPOS="225"
+                    VPOS="179"
+                    WIDTH="596"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="225 268 819 275 821 253 821 198 782 197 766 183 764 183 763 183 762 183 711 194 701 196 674 194 673 193 661 182 659 182 658 182 657 182 655 182 624 192 612 194 605 191 586 182 585 182 583 182 528 188 484 193 465 187 457 183 455 183 454 183 440 186 415 191 377 183 353 179 226 179 226 248"/></Shape>
+	    <String CONTENT="¶Noelz nouueaulx."
+                    HPOS="225"
+                    VPOS="179"
+                    WIDTH="596"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
           <TextLine ID="eSc_line_9c8bcf30"
                     TAGREFS="LT248"
                     BASELINE="150 362 849 362" 
@@ -170,23 +187,6 @@
 
           
           
-          <TextLine ID="eSc_line_7c891192"
-                    TAGREFS="LT249"
-                    BASELINE="358 918 640 915" 
-                    HPOS="355"
-                    VPOS="867"
-                    WIDTH="284"
-                    HEIGHT="65">
-            <Shape><Polygon POINTS="358 932 382 925 410 930 417 931 419 931 430 930 463 924 520 925 624 929 625 929 626 929 628 929 639 921 639 913 635 873 577 877 568 872 560 867 559 867 558 867 557 867 555 867 554 867 548 872 538 879 505 879 465 870 448 868 447 868 433 870 398 878 388 870 387 869 386 869 384 869 383 869 355 869 357 917"/></Shape>
-	    <String CONTENT="Psalme.112."
-                    HPOS="355"
-                    VPOS="867"
-                    WIDTH="284"
-                    HEIGHT="65"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_febac15a"
                     TAGREFS="LT248"
                     BASELINE="138 962 878 965" 
@@ -200,6 +200,23 @@
                     VPOS="917"
                     WIDTH="742"
                     HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7c891192"
+                    TAGREFS="LT249"
+                    BASELINE="358 918 640 915" 
+                    HPOS="355"
+                    VPOS="867"
+                    WIDTH="284"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="358 932 382 925 410 930 417 931 419 931 430 930 463 924 520 925 624 929 625 929 626 929 628 929 639 921 639 913 635 873 577 877 568 872 560 867 559 867 558 867 557 867 555 867 554 867 548 872 538 879 505 879 465 870 448 868 447 868 433 870 398 878 388 870 387 869 386 869 384 869 383 869 355 869 357 917"/></Shape>
+	    <String CONTENT="Psalme.112."
+                    HPOS="355"
+                    VPOS="867"
+                    WIDTH="284"
+                    HEIGHT="65"></String>
           </TextLine>
 
           
@@ -277,27 +294,6 @@
         </TextBlock>
         
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="eSc_line_b7ce042b"
-                    TAGREFS="LT249"
-                    BASELINE="227 249 823 254" 
-                    HPOS="225"
-                    VPOS="179"
-                    WIDTH="596"
-                    HEIGHT="96">
-            <Shape><Polygon POINTS="225 268 819 275 821 253 821 198 782 197 766 183 764 183 763 183 762 183 711 194 701 196 674 194 673 193 661 182 659 182 658 182 657 182 655 182 624 192 612 194 605 191 586 182 585 182 583 182 528 188 484 193 465 187 457 183 455 183 454 183 440 186 415 191 377 183 353 179 226 179 226 248"/></Shape>
-	    <String CONTENT="¶Noelz nouueaulx."
-                    HPOS="225"
-                    VPOS="179"
-                    WIDTH="596"
-                    HEIGHT="96"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
       </PrintSpace>
     </Page>
