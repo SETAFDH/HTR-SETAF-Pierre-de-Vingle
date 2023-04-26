@@ -477,6 +477,33 @@
           
         </TextBlock>
         
+        <TextBlock HPOS="680"
+                   VPOS="1347"
+                   WIDTH="134"
+                   HEIGHT="50"
+                   ID="eSc_textblock_c4e04ae5"
+                   TAGREFS="BT1010">
+          <Shape><Polygon POINTS="680 1397 680 1347 814 1347 814 1397"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_43668846"
+                    TAGREFS="LT236"
+                    BASELINE="696 1385 784 1381" 
+                    HPOS="693"
+                    VPOS="1341"
+                    WIDTH="91"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="770 1346 764 1342 756 1342 752 1341 741 1351 726 1341 725 1341 723 1341 722 1341 721 1341 693 1351 696 1385 696 1401 784 1397 784 1381 781 1366 770 1346"/></Shape>
+	    <String CONTENT="F ii"
+                    HPOS="693"
+                    VPOS="1341"
+                    WIDTH="91"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
 
         
       </PrintSpace>

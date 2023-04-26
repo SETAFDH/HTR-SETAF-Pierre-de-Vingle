@@ -511,6 +511,33 @@
           
         </TextBlock>
         
+        <TextBlock HPOS="665"
+                   VPOS="1350"
+                   WIDTH="118"
+                   HEIGHT="47"
+                   ID="eSc_textblock_80acd724"
+                   TAGREFS="BT1010">
+          <Shape><Polygon POINTS="665 1397 665 1350 783 1350 783 1397"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f522227e"
+                    TAGREFS="LT236"
+                    BASELINE="678 1385 776 1387" 
+                    HPOS="677"
+                    VPOS="1347"
+                    WIDTH="99"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="678 1382 678 1385 677 1410 716 1416 717 1416 718 1416 775 1400 776 1387 776 1356 765 1347 764 1347 762 1347 738 1347 737 1347 736 1347 707 1361 706 1362 684 1362 678 1382"/></Shape>
+	    <String CONTENT="F iii"
+                    HPOS="677"
+                    VPOS="1347"
+                    WIDTH="99"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
         <TextBlock HPOS="751"
                    VPOS="706"
                    WIDTH="163"

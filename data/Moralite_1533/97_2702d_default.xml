@@ -25,13 +25,13 @@
                   WIDTH="1140"
                   HEIGHT="1507">
         
-        <TextBlock HPOS="218"
+        <TextBlock HPOS="210"
                    VPOS="115"
-                   WIDTH="798"
-                   HEIGHT="1312"
+                   WIDTH="824"
+                   HEIGHT="1302"
                    ID="eSc_textblock_96afb3e5"
                    TAGREFS="BT702">
-          <Shape><Polygon POINTS="218 115 218 1427 1016 1427 1016 115"/></Shape>
+          <Shape><Polygon POINTS="215 139 210 1417 1034 1411 1016 115"/></Shape>
           
           
           <TextLine ID="eSc_line_97f82425"
@@ -325,34 +325,17 @@
           
           <TextLine ID="eSc_line_0c14b667"
                     TAGREFS="LT237"
-                    BASELINE="439 983 683 979" 
-                    HPOS="438"
-                    VPOS="934"
-                    WIDTH="245"
-                    HEIGHT="59">
-            <Shape><Polygon POINTS="610 934 609 934 581 943 556 935 551 935 539 936 531 936 512 946 482 938 476 938 463 938 453 938 438 945 439 983 441 993 466 987 491 992 501 993 502 993 683 983 683 979 681 949 642 949 642 948 613 934 612 934"/></Shape>
-	    <String CONTENT="Chrestiente."
-                    HPOS="438"
-                    VPOS="934"
-                    WIDTH="245"
-                    HEIGHT="59"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_aa74fbcf"
-                    TAGREFS="LT236"
-                    BASELINE="868 977 1001 974" 
-                    HPOS="867"
-                    VPOS="928"
-                    WIDTH="134"
-                    HEIGHT="57">
-            <Shape><Polygon POINTS="992 938 969 928 967 928 966 928 965 928 947 936 942 939 937 936 917 928 916 928 915 928 913 928 912 928 902 934 894 928 893 928 892 928 891 928 867 931 868 977 868 982 1000 985 1001 974 1000 965 992 938"/></Shape>
-	    <String CONTENT="Pausa."
-                    HPOS="867"
-                    VPOS="928"
-                    WIDTH="134"
-                    HEIGHT="57"></String>
+                    BASELINE="439 983 1013 982" 
+                    HPOS="437"
+                    VPOS="931"
+                    WIDTH="574"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="600 933 588 933 575 934 563 934 550 934 537 935 530 935 526 938 512 945 496 936 493 935 487 936 475 936 462 936 449 936 437 936 438 982 438 989 1011 987 1011 980 1010 951 971 931 970 931 969 931 967 931 941 941 925 931 923 931 922 931 879 931 878 931 877 931 876 931 876 933 860 946 848 960 657 960 637 943 637 941 635 941 633 940 604 933 600 933"/></Shape>
+	    <String CONTENT="Chrestiente. Pausa."
+                    HPOS="437"
+                    VPOS="931"
+                    WIDTH="574"
+                    HEIGHT="58"></String>
           </TextLine>
 
           
@@ -491,16 +474,6 @@
                     HEIGHT="83"></String>
           </TextLine>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="863"
-                   VPOS="939"
-                   WIDTH="147"
-                   HEIGHT="47"
-                   ID="eSc_textblock_c0c5a889"
-                   TAGREFS="BT702">
-          <Shape><Polygon POINTS="863 939 863 986 1008 986 1010 939"/></Shape>
           
         </TextBlock>
         
