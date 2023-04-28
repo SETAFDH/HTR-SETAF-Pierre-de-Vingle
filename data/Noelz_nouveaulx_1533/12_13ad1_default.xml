@@ -25,13 +25,13 @@
                   WIDTH="1146"
                   HEIGHT="1520">
         
-        <TextBlock HPOS="150"
-                   VPOS="129"
-                   WIDTH="713"
-                   HEIGHT="1178"
+        <TextBlock HPOS="122"
+                   VPOS="119"
+                   WIDTH="747"
+                   HEIGHT="1216"
                    ID="eSc_textblock_8749d1d6"
                    TAGREFS="BT734">
-          <Shape><Polygon POINTS="150 129 150 1307 863 1307 863 129"/></Shape>
+          <Shape><Polygon POINTS="141 119 122 1335 869 1325 867 125"/></Shape>
           
           
           <TextLine ID="eSc_line_0d58e256"
@@ -136,53 +136,53 @@
 
           
           
-          <TextLine ID="eSc_line_70a01bd7"
-                    TAGREFS="LT250"
-                    BASELINE="166 541 257 541" 
-                    HPOS="164"
-                    VPOS="453"
-                    WIDTH="92"
-                    HEIGHT="95">
-            <Shape><Polygon POINTS="164 545 254 548 256 540 254 453 164 458 164 540"/></Shape>
-	    <String CONTENT="C"
-                    HPOS="164"
-                    VPOS="453"
-                    WIDTH="92"
-                    HEIGHT="95"></String>
+          <TextLine ID="eSc_line_ed079145"
+                    TAGREFS="LT248"
+                    BASELINE="265 502 839 498" 
+                    HPOS="263"
+                    VPOS="458"
+                    WIDTH="574"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="264 501 264 507 836 510 837 497 835 458 263 458 264 501"/></Shape>
+	    <String CONTENT="Hantons Noel par uoix seraine,"
+                    HPOS="263"
+                    VPOS="458"
+                    WIDTH="574"
+                    HEIGHT="52"></String>
           </TextLine>
 
           
           
-          <TextLine ID="eSc_line_ed079145"
-                    TAGREFS="LT248"
-                    BASELINE="262 500 843 496" 
-                    HPOS="259"
-                    VPOS="457"
-                    WIDTH="582"
-                    HEIGHT="57">
-            <Shape><Polygon POINTS="261 499 261 514 754 514 754 513 755 513 756 513 769 505 840 511 841 495 839 457 259 457 261 499"/></Shape>
-	    <String CONTENT="Hantons Noel par uoix seraine,"
-                    HPOS="259"
-                    VPOS="457"
-                    WIDTH="582"
-                    HEIGHT="57"></String>
+          <TextLine ID="eSc_line_70a01bd7"
+                    TAGREFS="LT250"
+                    BASELINE="166 541 257 541" 
+                    HPOS="162"
+                    VPOS="462"
+                    WIDTH="100"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="164 545 254 548 262 540 256 462 170 473 162 515"/></Shape>
+	    <String CONTENT="C"
+                    HPOS="162"
+                    VPOS="462"
+                    WIDTH="100"
+                    HEIGHT="86"></String>
           </TextLine>
 
           
           
           <TextLine ID="eSc_line_9f925d8a"
                     TAGREFS="LT248"
-                    BASELINE="266 540 810 544" 
-                    HPOS="263"
-                    VPOS="505"
-                    WIDTH="545"
-                    HEIGHT="56">
-            <Shape><Polygon POINTS="264 539 263 556 806 561 808 543 806 505 264 505 264 539"/></Shape>
+                    BASELINE="268 540 806 544" 
+                    HPOS="266"
+                    VPOS="500"
+                    WIDTH="538"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="444 535 436 511 406 511 399 506 391 500 390 500 389 500 387 500 267 505 267 539 266 554 802 562 804 543 802 506 688 513 674 506 668 502 666 502 665 502 664 502 654 506 631 513 621 506 616 501 614 501 613 501 612 501 611 501 593 506 569 511 510 506 488 504 486 504 485 504 481 506 470 511 457 511 444 535"/></Shape>
 	    <String CONTENT="Le filz de Dieu; nostre sauueur"
-                    HPOS="263"
-                    VPOS="505"
-                    WIDTH="545"
-                    HEIGHT="56"></String>
+                    HPOS="266"
+                    VPOS="500"
+                    WIDTH="538"
+                    HEIGHT="62"></String>
           </TextLine>
 
           
@@ -211,7 +211,7 @@
                     VPOS="595"
                     WIDTH="686"
                     HEIGHT="61">
-            <Shape><Polygon POINTS="158 638 158 648 271 648 311 656 313 656 352 648 404 648 415 656 417 656 418 656 419 656 420 656 422 656 434 648 462 656 463 656 465 656 466 656 496 647 499 647 502 647 523 654 524 654 526 656 825 656 825 654 826 654 843 647 843 635 840 602 797 595 796 595 794 595 775 601 774 602 614 602 608 600 588 595 586 595 585 595 532 600 498 602 488 599 477 596 476 596 475 596 474 596 472 596 470 599 465 602 450 599 434 596 433 596 418 599 398 602 375 599 361 596 360 596 329 599 270 602 259 597 257 596 256 596 254 596 157 596 158 638"/></Shape>
+            <Shape><Polygon POINTS="158 648 271 648 311 656 313 656 352 648 404 648 415 656 417 656 418 656 419 656 420 656 422 656 434 648 462 656 463 656 465 656 466 656 496 647 499 647 502 647 523 654 524 654 526 656 825 656 825 654 826 654 843 647 843 635 840 602 797 595 796 595 794 595 775 601 774 602 614 602 608 600 588 595 586 595 585 595 532 600 498 602 488 599 477 596 476 596 475 596 474 596 472 596 470 599 465 602 450 599 434 596 433 596 418 599 398 602 375 599 361 596 360 596 329 599 270 602 259 597 257 596 256 596 254 596 157 596 158 638"/></Shape>
 	    <String CONTENT="A prins poͬ noꝰ nature humaine. bis"
                     HPOS="157"
                     VPOS="595"
@@ -460,13 +460,13 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="160"
-                   VPOS="460"
-                   WIDTH="97"
-                   HEIGHT="86"
+        <TextBlock HPOS="155"
+                   VPOS="458"
+                   WIDTH="109"
+                   HEIGHT="97"
                    ID="eSc_textblock_0e90f553"
                    TAGREFS="BT739">
-          <Shape><Polygon POINTS="160 460 160 546 257 546 257 460"/></Shape>
+          <Shape><Polygon POINTS="155 458 158 555 264 553 259 460"/></Shape>
           
         </TextBlock>
         
