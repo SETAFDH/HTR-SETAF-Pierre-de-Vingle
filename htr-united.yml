@@ -58,84 +58,90 @@ license:
 format: Alto-XML
 volume:
 - metric: characters
-  count: 87497
+  count: 136039
 - metric: files
-  count: 160
+  count: 270
 - metric: lines
-  count: 3735
+  count: 5974
 - metric: regions
-  count: 234
+  count: 637
 characters:
   mode: NFD
   members:
   - e
-  - u
   - s
+  - u
   - a
-  - n
-  - r
   - i
+  - n
   - t
+  - r
   - o
   - l
   - c
   - d
-  - ','
   - p
   - m
-  - y
+  - ','
   - .
-  - f
-  - h
-  - g
-  - b
-  - z
-  - q
-  - ;
   - "\u0303"
+  - y
+  - f
+  - g
+  - h
+  - b
+  - q
+  - z
+  - "\u204A"
+  - ;
   - C
   - E
-  - "\u204A"
-  - L
-  - I
-  - D
-  - P
   - x
+  - D
+  - L
+  - '-'
+  - I
+  - P
   - A
   - S
   - "\xB6"
   - Q
-  - M
   - N
+  - M
   - T
-  - U
   - O
+  - U
   - B
-  - H
-  - '?'
-  - F
   - G
+  - H
   - R
-  - "\u036C"
+  - '?'
+  - "\u0365"
+  - F
   - "\uA770"
+  - "\u036C"
+  - "\uA753"
   - (
   - )
-  - '-'
-  - "\u0365"
-  - '1'
   - "\uA751"
-  - "\uA753"
+  - '1'
+  - ':'
+  - "\u1DD1"
+  - v
+  - '2'
   - V
+  - ''''
+  - "\uA76F"
   - '3'
   - J
-  - v
-  - ''''
   - '9'
   - '6'
-  - ':'
-  - Y
-  - '2'
-  - '4'
-  - "\uA76F"
-  - '5'
+  - "\u1DE4"
+  - "\u033E"
   - '8'
+  - Y
+  - '4'
+  - '7'
+  - k
+  - "\xF7"
+  - '5'
