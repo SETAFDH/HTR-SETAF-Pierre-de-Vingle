@@ -24,3 +24,13 @@ Les données se trouvent au chemin ‘./data//.xml‘. Elles sont au format ALTO
 ## Infrastructure
 
 Les données pour l'HTR sont produites à l'aide de l’instance genevoise FoNDUE (https://www.unige.ch/lettres/humanites-numeriques/recherche/projets-de-la-chaire/fondue) d'eScriptorium (https://gitlab.com/scripta/escriptorium).
+
+
+## Licence
+
+Les transcriptions sont open source, mais les images appartiennent aux bibliothèques.
+
+
+## Citer le projet
+
+à venir
