@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT1073" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1074" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1075" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1076" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1077" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1078" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT1079" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/><OtherTag ID="BT1080" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1081" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="BT1073" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1074" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1075" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1076" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1077" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1080" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1081" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1115" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/>
     <OtherTag ID="LT399" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT400" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT401" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/>
   </Tags>
   
@@ -377,53 +377,26 @@
         
         <TextBlock HPOS="386"
                    VPOS="1279"
-                   WIDTH="149"
+                   WIDTH="408"
                    HEIGHT="61"
                    ID="eSc_textblock_b6024463"
-                   TAGREFS="BT1078">
-          <Shape><Polygon POINTS="386 1279 386 1340 535 1340 535 1279"/></Shape>
+                   TAGREFS="BT1115">
+          <Shape><Polygon POINTS="386 1279 386 1340 787 1340 794 1286"/></Shape>
           
           
           <TextLine ID="eSc_line_ae986c2e"
                     TAGREFS="LT399"
-                    BASELINE="393 1325 535 1328" 
+                    BASELINE="393 1325 770 1328" 
                     HPOS="390"
-                    VPOS="1262"
-                    WIDTH="144"
-                    HEIGHT="79">
-            <Shape><Polygon POINTS="392 1324 390 1341 533 1340 534 1326 534 1274 486 1264 484 1264 483 1264 466 1272 464 1274 462 1272 445 1262 444 1262 443 1262 442 1262 392 1271 392 1324"/></Shape>
-	    <String CONTENT="Cin"
+                    VPOS="1280"
+                    WIDTH="379"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="745 1285 744 1285 742 1285 730 1285 717 1284 705 1284 692 1284 680 1284 667 1284 662 1282 641 1286 612 1282 605 1282 592 1282 587 1281 567 1300 532 1300 516 1284 516 1282 514 1282 513 1282 499 1280 492 1280 488 1280 452 1299 451 1299 392 1299 392 1324 390 1343 466 1344 467 1344 468 1344 478 1340 492 1336 504 1340 518 1344 519 1344 521 1344 522 1344 523 1344 523 1343 528 1339 537 1331 578 1331 617 1336 680 1345 681 1345 682 1345 704 1334 714 1340 715 1340 716 1340 717 1340 767 1331 769 1326 769 1300 746 1285 745 1285"/></Shape>
+	    <String CONTENT="D ili ces sines"
                     HPOS="390"
-                    VPOS="1262"
-                    WIDTH="144"
-                    HEIGHT="79"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="566"
-                   VPOS="1281"
-                   WIDTH="201"
-                   HEIGHT="59"
-                   ID="eSc_textblock_caea853a"
-                   TAGREFS="BT1079">
-          <Shape><Polygon POINTS="566 1281 566 1340 767 1340 767 1281"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_bc9ced2c"
-                    TAGREFS="LT399"
-                    BASELINE="574 1328 760 1326" 
-                    HPOS="572"
-                    VPOS="1276"
-                    WIDTH="187"
-                    HEIGHT="67">
-            <Shape><Polygon POINTS="573 1326 573 1333 630 1333 632 1334 645 1343 646 1343 647 1343 648 1343 759 1334 759 1325 756 1286 652 1276 651 1276 650 1276 648 1276 648 1277 640 1285 595 1279 593 1279 592 1279 572 1286 573 1326"/></Shape>
-	    <String CONTENT="ces sines"
-                    HPOS="572"
-                    VPOS="1276"
-                    WIDTH="187"
-                    HEIGHT="67"></String>
+                    VPOS="1280"
+                    WIDTH="379"
+                    HEIGHT="65"></String>
           </TextLine>
 
           

@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT1073" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1074" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1075" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1076" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1077" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1078" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT1079" LABEL="QuireMarksZone:catchwords" DESCRIPTION="block type QuireMarksZone:catchwords"/><OtherTag ID="BT1080" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1081" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="BT1073" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1074" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1075" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1076" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1077" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1080" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1081" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1115" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/>
     <OtherTag ID="LT399" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT400" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT401" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/>
   </Tags>
   
@@ -376,54 +376,27 @@
         </TextBlock>
         
         <TextBlock HPOS="383"
-                   VPOS="1276"
-                   WIDTH="186"
-                   HEIGHT="52"
+                   VPOS="1269"
+                   WIDTH="435"
+                   HEIGHT="68"
                    ID="eSc_textblock_62e0e2a9"
-                   TAGREFS="BT1078">
-          <Shape><Polygon POINTS="383 1281 386 1325 569 1328 569 1276"/></Shape>
+                   TAGREFS="BT1115">
+          <Shape><Polygon POINTS="383 1281 386 1337 807 1323 818 1269"/></Shape>
           
           
           <TextLine ID="eSc_line_39fb7f6b"
                     TAGREFS="LT399"
-                    BASELINE="407 1322 571 1319" 
+                    BASELINE="407 1322 790 1317" 
                     HPOS="405"
-                    VPOS="1264"
-                    WIDTH="165"
-                    HEIGHT="76">
-            <Shape><Polygon POINTS="406 1320 406 1340 436 1340 437 1340 439 1340 441 1339 458 1328 496 1333 541 1339 543 1339 544 1339 570 1325 570 1318 569 1277 545 1264 544 1264 543 1264 498 1267 496 1267 495 1267 495 1268 486 1275 484 1278 456 1278 454 1274 445 1267 445 1265 444 1265 442 1265 441 1265 405 1273 406 1320"/></Shape>
-	    <String CONTENT="S iiii"
+                    VPOS="1270"
+                    WIDTH="384"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="755 1270 743 1270 730 1270 718 1272 712 1272 694 1279 675 1273 674 1273 673 1273 672 1273 670 1273 659 1282 648 1273 643 1273 630 1274 618 1274 605 1274 599 1274 588 1285 586 1288 565 1288 564 1287 554 1277 543 1277 530 1277 518 1277 505 1278 493 1278 488 1278 454 1289 405 1289 406 1320 407 1343 455 1330 505 1332 520 1339 525 1342 526 1342 528 1342 529 1342 535 1339 555 1329 604 1329 615 1335 625 1340 626 1340 628 1340 732 1334 733 1334 739 1332 752 1327 788 1329 789 1315 788 1282 764 1270 755 1270"/></Shape>
+	    <String CONTENT="S iiii ilz perse-"
                     HPOS="405"
-                    VPOS="1264"
-                    WIDTH="165"
-                    HEIGHT="76"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="584"
-                   VPOS="1271"
-                   WIDTH="204"
-                   HEIGHT="72"
-                   ID="eSc_textblock_32afc43b"
-                   TAGREFS="BT1079">
-          <Shape><Polygon POINTS="587 1271 586 1291 584 1343 788 1338 788 1276"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_76e81024"
-                    TAGREFS="LT399"
-                    BASELINE="595 1319 783 1315" 
-                    HPOS="591"
-                    VPOS="1264"
-                    WIDTH="191"
-                    HEIGHT="80">
-            <Shape><Polygon POINTS="594 1318 594 1330 654 1344 655 1344 782 1324 782 1314 779 1277 730 1264 729 1264 728 1264 727 1264 705 1277 682 1269 680 1269 679 1269 678 1269 655 1278 640 1267 639 1267 638 1267 611 1267 610 1267 609 1267 608 1267 591 1277 594 1318"/></Shape>
-	    <String CONTENT="ilz perse-"
-                    HPOS="591"
-                    VPOS="1264"
-                    WIDTH="191"
-                    HEIGHT="80"></String>
+                    VPOS="1270"
+                    WIDTH="384"
+                    HEIGHT="73"></String>
           </TextLine>
 
           
