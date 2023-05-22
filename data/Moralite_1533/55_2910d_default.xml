@@ -29,9 +29,15 @@
                    VPOS="115"
                    WIDTH="764"
                    HEIGHT="1229"
-                   ID="eSc_textblock_11ee509c"
+                   ID="eSc_textblock_2b612011"
                    TAGREFS="BT702">
           <Shape><Polygon POINTS="231 115 231 1344 995 1344 995 115"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
           
           
           <TextLine ID="eSc_line_3db2c055"
@@ -476,18 +482,6 @@
 
           
         </TextBlock>
-        
-        <TextBlock HPOS="231"
-                   VPOS="115"
-                   WIDTH="764"
-                   HEIGHT="1229"
-                   ID="eSc_textblock_2b612011"
-                   >
-          <Shape><Polygon POINTS="231 115 231 1344 995 1344 995 115"/></Shape>
-          
-        </TextBlock>
-        
-
         
       </PrintSpace>
     </Page>
