@@ -58,7 +58,7 @@ license:
 format: Alto-XML
 volume:
 - metric: characters
-  count: 106126
+  count: 131201
 - metric: files
   count: 271
 - metric: lines
@@ -73,9 +73,9 @@ characters:
   - u
   - a
   - i
-  - n
-  - t
   - r
+  - t
+  - n
   - o
   - l
   - c
@@ -85,19 +85,19 @@ characters:
   - ','
   - .
   - "\u0303"
-  - f
   - g
-  - y
+  - f
   - q
+  - y
   - b
   - h
   - "\u204A"
   - z
-  - ;
   - '-'
+  - ;
+  - x
   - C
   - E
-  - x
   - L
   - I
   - D
@@ -107,36 +107,36 @@ characters:
   - Q
   - M
   - N
-  - U
-  - B
   - O
+  - B
+  - U
   - T
   - G
+  - "\u0365"
   - H
   - '?'
-  - "\u0365"
   - R
   - "\xB6"
-  - F
   - "\uA770"
+  - F
   - "\u036C"
   - "\uA753"
-  - (
-  - "\uA751"
-  - )
-  - ':'
   - "\u1DD1"
+  - "\uA751"
+  - (
+  - ':'
+  - )
   - v
   - ''''
   - "\uA76F"
   - V
-  - '2'
+  - J
   - "\u1DE4"
+  - '3'
+  - '2'
+  - '7'
   - "\u033E"
   - '1'
-  - J
-  - '3'
-  - '7'
   - k
   - "\xF7"
   - '8'
