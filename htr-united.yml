@@ -60,11 +60,11 @@ volume:
 - metric: characters
   count: 106126
 - metric: files
-  count: 214
+  count: 271
 - metric: lines
-  count: 4759
+  count: 5759
 - metric: regions
-  count: 536
+  count: 683
 characters:
   mode: NFD
   members:
