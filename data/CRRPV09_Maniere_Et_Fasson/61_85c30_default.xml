@@ -434,6 +434,23 @@
           </TextLine>
 
           
+          
+          <TextLine ID="eSc_line_2069c878"
+                    
+                    BASELINE="402 1273 404 1274" 
+                    HPOS="401"
+                    VPOS="1254"
+                    WIDTH="1"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="401 1269 401 1272 401 1280 402 1280 402 1272 402 1254 401 1254 401 1269"/></Shape>
+	    <String CONTENT="S"
+                    HPOS="401"
+                    VPOS="1254"
+                    WIDTH="1"
+                    HEIGHT="26"></String>
+          </TextLine>
+
+          
         </TextBlock>
         
         <TextBlock HPOS="247"
@@ -613,27 +630,6 @@
         </TextBlock>
         
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="eSc_line_2069c878"
-                    
-                    BASELINE="402 1273 404 1274" 
-                    HPOS="401"
-                    VPOS="1254"
-                    WIDTH="1"
-                    HEIGHT="26">
-            <Shape><Polygon POINTS="401 1269 401 1272 401 1280 402 1280 402 1272 402 1254 401 1254 401 1269"/></Shape>
-	    <String CONTENT="S"
-                    HPOS="401"
-                    VPOS="1254"
-                    WIDTH="1"
-                    HEIGHT="26"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
       </PrintSpace>
     </Page>

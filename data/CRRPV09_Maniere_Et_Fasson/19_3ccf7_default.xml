@@ -25,13 +25,13 @@
                   WIDTH="1080"
                   HEIGHT="1660">
         
-        <TextBlock HPOS="363"
-                   VPOS="131"
-                   WIDTH="647"
-                   HEIGHT="1161"
+        <TextBlock HPOS="365"
+                   VPOS="129"
+                   WIDTH="645"
+                   HEIGHT="1163"
                    ID="eSc_textblock_2c3705aa"
                    TAGREFS="BT1028">
-          <Shape><Polygon POINTS="363 131 373 1292 1010 1288 1010 131"/></Shape>
+          <Shape><Polygon POINTS="365 129 373 1292 1010 1288 1010 131"/></Shape>
           
           
           <TextLine ID="eSc_line_8e738796"
@@ -375,33 +375,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="785"
-                   VPOS="1294"
-                   WIDTH="217"
-                   HEIGHT="55"
-                   ID="eSc_textblock_75102c95"
-                   TAGREFS="BT1031">
-          <Shape><Polygon POINTS="789 1297 785 1349 998 1349 1002 1294"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_afa40f79"
-                    TAGREFS="LT386"
-                    BASELINE="800 1337 992 1337" 
-                    HPOS="800"
-                    VPOS="1293"
-                    WIDTH="192"
-                    HEIGHT="59">
-            <Shape><Polygon POINTS="800 1337 800 1345 888 1352 890 1352 891 1352 918 1345 927 1352 929 1352 930 1352 931 1352 992 1344 992 1337 991 1293 800 1294 800 1337"/></Shape>
-	    <String CONTENT="ne prenne"
-                    HPOS="800"
-                    VPOS="1293"
-                    WIDTH="192"
-                    HEIGHT="59"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
         <TextBlock HPOS="218"
                    VPOS="391"
                    WIDTH="139"
@@ -485,6 +458,33 @@
                     VPOS="1052"
                     WIDTH="119"
                     HEIGHT="60"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="785"
+                   VPOS="1294"
+                   WIDTH="217"
+                   HEIGHT="55"
+                   ID="eSc_textblock_75102c95"
+                   TAGREFS="BT1031">
+          <Shape><Polygon POINTS="789 1297 785 1349 998 1349 1002 1294"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_afa40f79"
+                    TAGREFS="LT386"
+                    BASELINE="800 1337 992 1337" 
+                    HPOS="800"
+                    VPOS="1293"
+                    WIDTH="192"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="800 1345 888 1352 890 1352 891 1352 918 1345 927 1352 929 1352 930 1352 931 1352 992 1344 992 1337 991 1293 800 1294 800 1337"/></Shape>
+	    <String CONTENT="ne prenne"
+                    HPOS="800"
+                    VPOS="1293"
+                    WIDTH="192"
+                    HEIGHT="59"></String>
           </TextLine>
 
           

@@ -95,23 +95,6 @@
           <Shape><Polygon POINTS="393 1305 393 125 1024 149 1024 1303"/></Shape>
           
           
-          <TextLine ID="eSc_line_db1179e6"
-                    TAGREFS="LT386"
-                    BASELINE="570 186 826 189" 
-                    HPOS="569"
-                    VPOS="132"
-                    WIDTH="257"
-                    HEIGHT="74">
-            <Shape><Polygon POINTS="805 142 792 142 778 141 764 141 750 139 736 139 722 138 708 141 699 136 695 136 681 136 667 135 653 135 639 134 625 134 612 134 598 132 584 132 570 153 570 186 569 196 697 206 699 206 825 196 826 189 825 152 819 142"/></Shape>
-	    <String CONTENT="La maniere"
-                    HPOS="569"
-                    VPOS="132"
-                    WIDTH="257"
-                    HEIGHT="74"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_85973183"
                     TAGREFS="LT386"
                     BASELINE="402 314 1019 316" 
@@ -125,6 +108,23 @@
                     VPOS="264"
                     WIDTH="617"
                     HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_db1179e6"
+                    TAGREFS="LT387"
+                    BASELINE="570 186 826 189" 
+                    HPOS="569"
+                    VPOS="132"
+                    WIDTH="257"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="805 142 792 142 778 141 764 141 750 139 736 139 722 138 708 141 699 136 695 136 681 136 667 135 653 135 639 134 625 134 612 134 598 132 584 132 570 153 570 186 569 196 697 206 699 206 825 196 826 189 825 152 819 142"/></Shape>
+	    <String CONTENT="La maniere"
+                    HPOS="569"
+                    VPOS="132"
+                    WIDTH="257"
+                    HEIGHT="74"></String>
           </TextLine>
 
           
@@ -214,23 +214,6 @@
 
           
           
-          <TextLine ID="eSc_line_6bf191a2"
-                    TAGREFS="LT386"
-                    BASELINE="391 657 1021 661" 
-                    HPOS="390"
-                    VPOS="604"
-                    WIDTH="631"
-                    HEIGHT="73">
-            <Shape><Polygon POINTS="391 657 390 672 432 666 450 673 454 675 455 675 456 675 458 675 459 675 461 673 474 666 520 666 528 673 530 675 531 675 533 675 600 676 602 676 603 676 616 672 632 668 659 672 682 676 684 676 743 672 794 668 800 672 808 677 810 677 811 677 812 677 1020 669 1021 661 1019 607 952 616 931 607 930 607 929 607 927 607 926 607 890 618 868 618 858 608 858 607 857 607 855 607 854 607 846 607 783 615 749 608 740 607 739 607 738 607 735 608 720 616 603 616 594 610 588 604 587 604 585 604 540 604 538 604 537 604 535 604 528 610 522 615 497 615 492 610 487 605 487 604 486 604 484 604 483 604 455 610 436 614 391 611 391 657"/></Shape>
-	    <String CONTENT="nostre seigneur cõmande, lequel"
-                    HPOS="390"
-                    VPOS="604"
-                    WIDTH="631"
-                    HEIGHT="73"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_97674d9e"
                     TAGREFS="LT386"
                     BASELINE="404 606 450 603 1021 600" 
@@ -244,6 +227,23 @@
                     VPOS="549"
                     WIDTH="621"
                     HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6bf191a2"
+                    TAGREFS="LT386"
+                    BASELINE="391 657 1021 661" 
+                    HPOS="390"
+                    VPOS="604"
+                    WIDTH="631"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="391 657 390 672 432 666 450 673 454 675 455 675 456 675 458 675 459 675 461 673 474 666 520 666 528 673 530 675 531 675 533 675 600 676 602 676 603 676 616 672 632 668 659 672 682 676 684 676 743 672 794 668 800 672 808 677 810 677 811 677 812 677 1020 669 1021 661 1019 607 952 616 931 607 930 607 929 607 927 607 926 607 890 618 868 618 858 608 858 607 857 607 855 607 854 607 846 607 783 615 749 608 740 607 739 607 738 607 735 608 720 616 603 616 594 610 588 604 587 604 585 604 540 604 538 604 537 604 535 604 528 610 522 615 497 615 492 610 487 605 487 604 486 604 484 604 483 604 455 610 436 614 391 611 391 657"/></Shape>
+	    <String CONTENT="nostre seigneur cõmande, lequel"
+                    HPOS="390"
+                    VPOS="604"
+                    WIDTH="631"
+                    HEIGHT="73"></String>
           </TextLine>
 
           
@@ -266,7 +266,7 @@
           
           
           <TextLine ID="eSc_line_9384cd63"
-                    
+                    TAGREFS="LT386"
                     BASELINE="397 770 1016 776" 
                     HPOS="396"
                     VPOS="717"
@@ -283,7 +283,7 @@
           
           
           <TextLine ID="eSc_line_55eb9294"
-                    
+                    TAGREFS="LT386"
                     BASELINE="393 824 1019 832" 
                     HPOS="391"
                     VPOS="773"
@@ -300,7 +300,7 @@
           
           
           <TextLine ID="eSc_line_1974c7f9"
-                    
+                    TAGREFS="LT386"
                     BASELINE="397 891 495 888 1021 890" 
                     HPOS="395"
                     VPOS="835"
@@ -317,7 +317,7 @@
           
           
           <TextLine ID="eSc_line_95cf8cef"
-                    
+                    TAGREFS="LT386"
                     BASELINE="397 939 1021 946" 
                     HPOS="396"
                     VPOS="890"
@@ -334,7 +334,7 @@
           
           
           <TextLine ID="eSc_line_4ff02b23"
-                    
+                    TAGREFS="LT386"
                     BASELINE="393 1002 1019 1007" 
                     HPOS="391"
                     VPOS="948"
@@ -351,7 +351,7 @@
           
           
           <TextLine ID="eSc_line_47689259"
-                    
+                    TAGREFS="LT386"
                     BASELINE="396 1061 1021 1061" 
                     HPOS="396"
                     VPOS="1013"
@@ -368,7 +368,7 @@
           
           
           <TextLine ID="eSc_line_40e22d23"
-                    
+                    TAGREFS="LT386"
                     BASELINE="404 1119 1024 1117" 
                     HPOS="403"
                     VPOS="1063"
@@ -385,7 +385,7 @@
           
           
           <TextLine ID="eSc_line_c7d3769c"
-                    
+                    TAGREFS="LT386"
                     BASELINE="394 1173 1024 1173" 
                     HPOS="394"
                     VPOS="1124"
@@ -402,7 +402,7 @@
           
           
           <TextLine ID="eSc_line_e4f6c801"
-                    
+                    TAGREFS="LT386"
                     BASELINE="394 1229 1021 1232" 
                     HPOS="393"
                     VPOS="1179"
@@ -419,7 +419,7 @@
           
           
           <TextLine ID="eSc_line_87624b73"
-                    
+                    TAGREFS="LT386"
                     BASELINE="396 1289 1024 1289" 
                     HPOS="396"
                     VPOS="1235"
@@ -507,7 +507,7 @@
           
           
           <TextLine ID="eSc_line_12659aea"
-                    
+                    TAGREFS="LT386"
                     BASELINE="253 856 389 853" 
                     HPOS="252"
                     VPOS="813"
@@ -524,7 +524,7 @@
           
           
           <TextLine ID="eSc_line_71186562"
-                    
+                    TAGREFS="LT386"
                     BASELINE="253 895 393 891" 
                     HPOS="252"
                     VPOS="852"
@@ -541,7 +541,7 @@
           
           
           <TextLine ID="eSc_line_0a9e81b9"
-                    
+                    TAGREFS="LT386"
                     BASELINE="256 937 393 939" 
                     HPOS="254"
                     VPOS="895"
@@ -568,7 +568,7 @@
           
           
           <TextLine ID="eSc_line_a60fe73c"
-                    
+                    TAGREFS="LT386"
                     BASELINE="254 1120 395 1119" 
                     HPOS="254"
                     VPOS="1066"
