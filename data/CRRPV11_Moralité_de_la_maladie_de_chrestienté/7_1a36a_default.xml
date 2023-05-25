@@ -25,19 +25,13 @@
                   WIDTH="1141"
                   HEIGHT="1507">
         
-        <TextBlock HPOS="198"
+        <TextBlock HPOS="197"
                    VPOS="105"
-                   WIDTH="858"
-                   HEIGHT="1288"
+                   WIDTH="859"
+                   HEIGHT="1286"
                    ID="eSc_textblock_a1d6c980"
                    TAGREFS="BT702">
-          <Shape><Polygon POINTS="215 105 198 1391 1050 1393 1056 105"/></Shape>
-          
-        </TextBlock>
-        
-
-        
-        <TextBlock ID="eSc_dummyblock_">
+          <Shape><Polygon POINTS="197 107 198 1391 1056 1384 1056 105"/></Shape>
           
           
           <TextLine ID="eSc_line_8056ab04"
@@ -98,7 +92,7 @@
                     VPOS="270"
                     WIDTH="491"
                     HEIGHT="55">
-            <Shape><Polygon POINTS="256 317 256 325 746 322 746 313 745 278 715 270 713 270 712 270 711 270 692 277 541 271 540 271 539 271 537 271 529 278 527 280 497 280 491 278 452 271 451 271 449 271 448 271 437 278 436 278 434 278 417 272 415 272 414 272 379 278 366 280 354 278 324 272 322 272 255 277 256 317"/></Shape>
+            <Shape><Polygon POINTS="256 325 746 322 746 313 745 278 715 270 713 270 712 270 711 270 692 277 541 271 540 271 539 271 537 271 529 278 527 280 497 280 491 278 452 271 451 271 449 271 448 271 437 278 436 278 434 278 417 272 415 272 414 272 379 278 366 280 354 278 324 272 322 272 255 277 256 317"/></Shape>
 	    <String CONTENT="Certes il est predit ⁊ decrete"
                     HPOS="255"
                     VPOS="270"
@@ -482,6 +476,8 @@
 
           
         </TextBlock>
+        
+
         
       </PrintSpace>
     </Page>
