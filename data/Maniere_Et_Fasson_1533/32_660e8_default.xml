@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT1024" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT1025" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1026" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1027" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1028" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1029" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1030" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1031" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1032" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT1033" LABEL="QuireMarksZone:catchword" DESCRIPTION="block type QuireMarksZone:catchword"/><OtherTag ID="BT1035" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1036" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1037" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT1038" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
-    <OtherTag ID="LT386" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT387" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT388" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/>
+    <OtherTag ID="LT386" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT387" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT388" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT411" LABEL="InterlinearLine:correction" DESCRIPTION="line type InterlinearLine:correction"/><OtherTag ID="LT412" LABEL="CustomLine:handwrittenNote" DESCRIPTION="line type CustomLine:handwrittenNote"/>
   </Tags>
   
   <Layout>
@@ -222,7 +222,7 @@
           
           
           <TextLine ID="eSc_line_1a3b4941"
-                    
+                    TAGREFS="LT386"
                     BASELINE="708 835 839 842" 
                     HPOS="707"
                     VPOS="769"
@@ -273,7 +273,7 @@
           
           
           <TextLine ID="eSc_line_3a06bf7a"
-                    
+                    TAGREFS="LT386"
                     BASELINE="708 899 715 901 843 904" 
                     HPOS="706"
                     VPOS="857"
@@ -290,7 +290,7 @@
           
           
           <TextLine ID="eSc_line_22b10263"
-                    
+                    TAGREFS="LT386"
                     BASELINE="708 944 847 943" 
                     HPOS="706"
                     VPOS="901"
@@ -324,7 +324,7 @@
           
           
           <TextLine ID="eSc_line_2af40662"
-                    
+                    TAGREFS="LT386"
                     BASELINE="708 992 715 989 843 984" 
                     HPOS="704"
                     VPOS="946"
@@ -357,8 +357,25 @@
 
           
           
+          <TextLine ID="eSc_line_19362d5d"
+                    TAGREFS="LT386"
+                    BASELINE="70 1062 693 1065" 
+                    HPOS="67"
+                    VPOS="1009"
+                    WIDTH="625"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="69 1061 67 1076 310 1072 318 1076 325 1079 326 1079 328 1079 353 1076 369 1073 372 1076 378 1080 379 1080 380 1080 382 1081 555 1081 555 1080 690 1072 692 1063 689 1011 659 1019 560 1019 549 1011 548 1011 546 1011 545 1011 541 1011 502 1018 492 1011 491 1011 490 1011 488 1011 484 1011 455 1018 429 1011 425 1011 423 1011 422 1011 416 1011 387 1018 339 1012 326 1011 325 1011 324 1011 319 1012 304 1016 299 1012 297 1011 297 1009 296 1009 294 1009 293 1009 69 1012 69 1061"/></Shape>
+	    <String CONTENT="saĩct esperit, n ay de la uierge ma"
+                    HPOS="67"
+                    VPOS="1009"
+                    WIDTH="625"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
           <TextLine ID="eSc_line_ff21e5d5"
-                    
+                    TAGREFS="LT386"
                     BASELINE="708 1065 843 1066" 
                     HPOS="706"
                     VPOS="1023"
@@ -375,7 +392,7 @@
           
           
           <TextLine ID="eSc_line_1a9102da"
-                    
+                    TAGREFS="LT386"
                     BASELINE="708 1114 841 1109" 
                     HPOS="704"
                     VPOS="1067"
@@ -426,7 +443,7 @@
           
           
           <TextLine ID="eSc_line_39ba2cf8"
-                    
+                    TAGREFS="LT386"
                     BASELINE="708 1232 841 1231" 
                     HPOS="706"
                     VPOS="1192"
@@ -460,7 +477,7 @@
           
           
           <TextLine ID="eSc_line_cc732734"
-                    
+                    TAGREFS="LT386"
                     BASELINE="708 1280 724 1276 841 1272" 
                     HPOS="704"
                     VPOS="1236"
@@ -472,23 +489,6 @@
                     VPOS="1236"
                     WIDTH="136"
                     HEIGHT="47"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_19362d5d"
-                    TAGREFS="LT386"
-                    BASELINE="70 1062 693 1065" 
-                    HPOS="67"
-                    VPOS="1009"
-                    WIDTH="625"
-                    HEIGHT="72">
-            <Shape><Polygon POINTS="69 1061 67 1076 310 1072 318 1076 325 1079 326 1079 328 1079 353 1076 369 1073 372 1076 378 1080 379 1080 380 1080 382 1081 555 1081 555 1080 690 1072 692 1063 689 1011 659 1019 560 1019 549 1011 548 1011 546 1011 545 1011 541 1011 502 1018 492 1011 491 1011 490 1011 488 1011 484 1011 455 1018 429 1011 425 1011 423 1011 422 1011 416 1011 387 1018 339 1012 326 1011 325 1011 324 1011 319 1012 304 1016 299 1012 297 1011 297 1009 296 1009 294 1009 293 1009 69 1012 69 1061"/></Shape>
-	    <String CONTENT="saĩct esperit, n ay de la uierge ma"
-                    HPOS="67"
-                    VPOS="1009"
-                    WIDTH="625"
-                    HEIGHT="72"></String>
           </TextLine>
 
           
@@ -591,70 +591,26 @@
         
         <TextBlock HPOS="328"
                    VPOS="1303"
-                   WIDTH="168"
+                   WIDTH="385"
                    HEIGHT="71"
                    ID="eSc_textblock_2378e78b"
-                   TAGREFS="BT1032">
-          <Shape><Polygon POINTS="333 1303 328 1374 496 1374 496 1308"/></Shape>
+                   TAGREFS="BT1031">
+          <Shape><Polygon POINTS="333 1303 328 1374 713 1374 707 1306"/></Shape>
           
           
           <TextLine ID="eSc_line_5f0d8494"
                     TAGREFS="LT386"
-                    BASELINE="340 1354 487 1354" 
-                    HPOS="340"
-                    VPOS="1296"
-                    WIDTH="147"
-                    HEIGHT="85">
-            <Shape><Polygon POINTS="382 1296 368 1296 358 1296 340 1301 340 1354 340 1365 360 1365 364 1368 380 1379 382 1379 383 1379 384 1379 386 1379 401 1372 418 1365 484 1381 487 1354 487 1303 384 1296 382 1296"/></Shape>
-	    <String CONTENT="S iii"
-                    HPOS="340"
-                    VPOS="1296"
-                    WIDTH="147"
-                    HEIGHT="85"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="533"
-                   VPOS="1303"
-                   WIDTH="170"
-                   HEIGHT="71"
-                   ID="eSc_textblock_90803a71"
-                   TAGREFS="BT1033">
-          <Shape><Polygon POINTS="540 1310 533 1374 700 1374 703 1303"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_9579b0c6"
-                    TAGREFS="LT386"
-                    BASELINE="544 1354 693 1357" 
-                    HPOS="541"
+                    BASELINE="340 1354 693 1352" 
+                    HPOS="337"
                     VPOS="1303"
-                    WIDTH="151"
-                    HEIGHT="76">
-            <Shape><Polygon POINTS="667 1304 653 1304 639 1304 625 1305 623 1305 616 1307 610 1305 598 1307 584 1307 570 1307 569 1310 564 1312 542 1312 542 1352 541 1362 600 1377 602 1377 603 1377 618 1372 632 1366 689 1379 692 1355 688 1303 679 1311 668 1304 667 1303 667 1304"/></Shape>
-	    <String CONTENT="cieulx"
-                    HPOS="541"
+                    WIDTH="355"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="656 1305 642 1305 628 1305 624 1305 620 1307 616 1308 613 1307 609 1305 600 1305 587 1305 576 1304 573 1307 559 1316 499 1316 488 1307 484 1304 476 1304 462 1304 448 1303 434 1303 420 1303 407 1303 393 1303 379 1303 365 1303 351 1303 339 1303 337 1303 339 1352 339 1363 360 1363 361 1363 379 1376 380 1376 382 1376 383 1376 405 1375 407 1375 408 1375 408 1373 416 1365 419 1363 425 1366 452 1376 454 1376 455 1376 494 1368 517 1363 551 1370 560 1372 562 1372 563 1372 564 1372 566 1370 574 1365 585 1372 594 1376 595 1376 596 1376 598 1376 609 1372 628 1365 650 1373 656 1376 657 1376 659 1376 692 1375 692 1351 685 1307 679 1312 671 1307 668 1305 656 1305"/></Shape>
+	    <String CONTENT="Siiii cieulx"
+                    HPOS="337"
                     VPOS="1303"
-                    WIDTH="151"
-                    HEIGHT="76"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_e6ddb2bd"
-                    
-                    BASELINE="708 1357 826 1359" 
-                    HPOS="706"
-                    VPOS="1316"
-                    WIDTH="119"
-                    HEIGHT="71">
-            <Shape><Polygon POINTS="707 1355 706 1372 822 1387 825 1358 823 1322 707 1316 707 1355"/></Shape>
-	    <String CONTENT="et ...S"
-                    HPOS="706"
-                    VPOS="1316"
-                    WIDTH="119"
-                    HEIGHT="71"></String>
+                    WIDTH="355"
+                    HEIGHT="73"></String>
           </TextLine>
 
           
@@ -671,6 +627,27 @@
         </TextBlock>
         
 
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_e6ddb2bd"
+                    TAGREFS="LT386"
+                    BASELINE="708 1357 826 1359" 
+                    HPOS="706"
+                    VPOS="1316"
+                    WIDTH="119"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="707 1355 706 1372 822 1387 825 1358 823 1322 707 1316 707 1355"/></Shape>
+	    <String CONTENT="et ...S"
+                    HPOS="706"
+                    VPOS="1316"
+                    WIDTH="119"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+        </TextBlock>
         
       </PrintSpace>
     </Page>

@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT1024" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT1025" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1026" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1027" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1028" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1029" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1030" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1031" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1032" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT1033" LABEL="QuireMarksZone:catchword" DESCRIPTION="block type QuireMarksZone:catchword"/><OtherTag ID="BT1035" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1036" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1037" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT1038" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
-    <OtherTag ID="LT386" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT387" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT388" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/>
+    <OtherTag ID="LT386" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT387" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT388" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT411" LABEL="InterlinearLine:correction" DESCRIPTION="line type InterlinearLine:correction"/><OtherTag ID="LT412" LABEL="CustomLine:handwrittenNote" DESCRIPTION="line type CustomLine:handwrittenNote"/>
   </Tags>
   
   <Layout>
@@ -153,19 +153,19 @@
 
           
           
-          <TextLine ID="eSc_line_fc2c8003"
+          <TextLine ID="eSc_line_dafd9ff1"
                     TAGREFS="LT386"
-                    BASELINE="49 598 674 586" 
-                    HPOS="673"
-                    VPOS="540"
-                    WIDTH="6"
-                    HEIGHT="67">
-            <Shape><Polygon POINTS="673 540 677 540 679 607 678 607 674 607"/></Shape>
+                    BASELINE="45 600 678 589" 
+                    HPOS="45"
+                    VPOS="589"
+                    WIDTH="633"
+                    HEIGHT="11">
+            
 	    <String CONTENT=""
-                    HPOS="673"
-                    VPOS="540"
-                    WIDTH="6"
-                    HEIGHT="67"></String>
+                    HPOS="45"
+                    VPOS="589"
+                    WIDTH="633"
+                    HEIGHT="11"></String>
           </TextLine>
 
           
@@ -375,60 +375,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="573"
-                   VPOS="1290"
-                   WIDTH="114"
-                   HEIGHT="62"
-                   ID="eSc_textblock_8381973a"
-                   TAGREFS="BT1033">
-          <Shape><Polygon POINTS="573 1296 573 1352 687 1352 687 1290"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_a21ba43f"
-                    TAGREFS="LT386"
-                    BASELINE="578 1337 689 1334" 
-                    HPOS="564"
-                    VPOS="1283"
-                    WIDTH="125"
-                    HEIGHT="74">
-            <Shape><Polygon POINTS="679 1285 679 1283 678 1283 677 1283 642 1283 641 1283 639 1283 638 1283 621 1296 594 1293 592 1293 591 1293 564 1301 566 1337 566 1345 589 1345 592 1347 610 1357 612 1357 613 1357 688 1348 689 1334 688 1333 682 1287"/></Shape>
-	    <String CONTENT="ainst"
-                    HPOS="564"
-                    VPOS="1283"
-                    WIDTH="125"
-                    HEIGHT="74"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="432"
-                   VPOS="1290"
-                   WIDTH="87"
-                   HEIGHT="53"
-                   ID="eSc_textblock_7ff7b90c"
-                   TAGREFS="BT1032">
-          <Shape><Polygon POINTS="432 1290 432 1343 515 1343 519 1290"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_52c74d27"
-                    TAGREFS="LT386"
-                    BASELINE="445 1337 518 1337" 
-                    HPOS="462"
-                    VPOS="1280"
-                    WIDTH="68"
-                    HEIGHT="83">
-            <Shape><Polygon POINTS="487 1280 486 1280 462 1282 462 1337 462 1363 530 1354 530 1337 530 1305 513 1305 506 1297 490 1282 490 1280 488 1280"/></Shape>
-	    <String CONTENT="S"
-                    HPOS="462"
-                    VPOS="1280"
-                    WIDTH="68"
-                    HEIGHT="83"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
         <TextBlock HPOS="684"
                    VPOS="506"
                    WIDTH="150"
@@ -468,6 +414,33 @@
                     VPOS="540"
                     WIDTH="135"
                     HEIGHT="63"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="432"
+                   VPOS="1288"
+                   WIDTH="279"
+                   HEIGHT="62"
+                   ID="eSc_textblock_7ff7b90c"
+                   TAGREFS="BT1031">
+          <Shape><Polygon POINTS="432 1290 432 1343 711 1350 693 1288"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_52c74d27"
+                    TAGREFS="LT386"
+                    BASELINE="445 1337 699 1335" 
+                    HPOS="443"
+                    VPOS="1289"
+                    WIDTH="254"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="692 1296 678 1289 664 1289 650 1289 636 1289 630 1289 625 1293 620 1296 594 1294 592 1294 591 1294 589 1294 589 1296 576 1308 516 1308 497 1289 484 1289 470 1289 456 1289 443 1289 444 1336 444 1351 512 1358 513 1358 515 1358 516 1358 524 1351 531 1345 587 1345 600 1350 631 1358 632 1358 634 1358 635 1358 661 1348 670 1345 695 1347 697 1334 696 1310 692 1296"/></Shape>
+	    <String CONTENT="S ainst"
+                    HPOS="443"
+                    VPOS="1289"
+                    WIDTH="254"
+                    HEIGHT="69"></String>
           </TextLine>
 
           

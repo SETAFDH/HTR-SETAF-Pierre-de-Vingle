@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT1024" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT1025" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1026" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1027" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1028" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1029" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1030" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1031" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1032" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT1033" LABEL="QuireMarksZone:catchword" DESCRIPTION="block type QuireMarksZone:catchword"/><OtherTag ID="BT1035" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1036" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1037" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT1038" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
-    <OtherTag ID="LT386" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT387" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT388" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/>
+    <OtherTag ID="LT386" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT387" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT388" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT411" LABEL="InterlinearLine:correction" DESCRIPTION="line type InterlinearLine:correction"/><OtherTag ID="LT412" LABEL="CustomLine:handwrittenNote" DESCRIPTION="line type CustomLine:handwrittenNote"/>
   </Tags>
   
   <Layout>
@@ -358,33 +358,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="453"
-                   VPOS="1306"
-                   WIDTH="199"
-                   HEIGHT="68"
-                   ID="eSc_textblock_c7f57195"
-                   TAGREFS="BT1033">
-          <Shape><Polygon POINTS="453 1306 453 1374 652 1374 652 1306"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_85528111"
-                    TAGREFS="LT386"
-                    BASELINE="459 1359 650 1362" 
-                    HPOS="458"
-                    VPOS="1304"
-                    WIDTH="192"
-                    HEIGHT="73">
-            <Shape><Polygon POINTS="639 1312 625 1308 616 1305 584 1305 582 1305 581 1305 559 1315 541 1304 540 1304 538 1304 537 1304 535 1304 505 1321 465 1321 459 1350 459 1359 458 1376 498 1377 499 1377 501 1377 502 1377 504 1376 515 1369 541 1376 546 1376 548 1376 649 1373 650 1362 650 1329 639 1312"/></Shape>
-	    <String CONTENT="Puis dit."
-                    HPOS="458"
-                    VPOS="1304"
-                    WIDTH="192"
-                    HEIGHT="73"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
         <TextBlock HPOS="677"
                    VPOS="214"
                    WIDTH="146"
@@ -412,30 +385,40 @@
           
         </TextBlock>
         
+        <TextBlock HPOS="453"
+                   VPOS="1306"
+                   WIDTH="199"
+                   HEIGHT="68"
+                   ID="eSc_textblock_c7f57195"
+                   TAGREFS="BT1031">
+          <Shape><Polygon POINTS="453 1306 453 1374 652 1374 652 1306"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_85528111"
+                    TAGREFS="LT386"
+                    BASELINE="459 1359 650 1362" 
+                    HPOS="458"
+                    VPOS="1304"
+                    WIDTH="192"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="639 1312 625 1308 616 1305 584 1305 582 1305 581 1305 559 1315 541 1304 540 1304 538 1304 537 1304 535 1304 505 1321 465 1321 459 1350 459 1359 458 1376 498 1377 499 1377 501 1377 502 1377 504 1376 515 1369 541 1376 546 1376 548 1376 649 1373 650 1362 650 1329 639 1312"/></Shape>
+	    <String CONTENT="Puis dit."
+                    HPOS="458"
+                    VPOS="1304"
+                    WIDTH="192"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
         <TextBlock HPOS="673"
                    VPOS="1181"
                    WIDTH="100"
                    HEIGHT="67"
                    ID="eSc_textblock_e415d471"
-                   TAGREFS="BT1029">
+                   TAGREFS="BT1026">
           <Shape><Polygon POINTS="673 1181 673 1248 773 1248 773 1181"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_8f92b7b6"
-                    TAGREFS="LT386"
-                    BASELINE="679 1231 764 1235" 
-                    HPOS="679"
-                    VPOS="1231"
-                    WIDTH="85"
-                    HEIGHT="4">
-            
-	    <String CONTENT=""
-                    HPOS="679"
-                    VPOS="1231"
-                    WIDTH="85"
-                    HEIGHT="4"></String>
-          </TextLine>
-
           
         </TextBlock>
         

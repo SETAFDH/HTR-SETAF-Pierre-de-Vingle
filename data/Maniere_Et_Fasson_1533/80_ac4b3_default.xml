@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT1024" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT1025" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1026" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1027" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1028" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1029" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1030" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1031" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1032" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT1033" LABEL="QuireMarksZone:catchword" DESCRIPTION="block type QuireMarksZone:catchword"/><OtherTag ID="BT1035" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1036" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1037" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT1038" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
-    <OtherTag ID="LT386" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT387" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT388" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/>
+    <OtherTag ID="LT386" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT387" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT388" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT411" LABEL="InterlinearLine:correction" DESCRIPTION="line type InterlinearLine:correction"/><OtherTag ID="LT412" LABEL="CustomLine:handwrittenNote" DESCRIPTION="line type CustomLine:handwrittenNote"/>
   </Tags>
   
   <Layout>
@@ -525,54 +525,27 @@
         </TextBlock>
         
         <TextBlock HPOS="381"
-                   VPOS="1306"
-                   WIDTH="149"
-                   HEIGHT="61"
+                   VPOS="1300"
+                   WIDTH="333"
+                   HEIGHT="69"
                    ID="eSc_textblock_1100cc2a"
-                   TAGREFS="BT1032">
-          <Shape><Polygon POINTS="381 1306 381 1367 530 1367 530 1306"/></Shape>
+                   TAGREFS="BT1031">
+          <Shape><Polygon POINTS="381 1306 381 1367 711 1369 714 1300"/></Shape>
           
           
           <TextLine ID="eSc_line_784038c2"
                     TAGREFS="LT386"
-                    BASELINE="391 1351 514 1352" 
-                    HPOS="390"
-                    VPOS="1293"
-                    WIDTH="125"
-                    HEIGHT="79">
-            <Shape><Polygon POINTS="510 1372 508 1372 390 1363 391 1351 391 1307 423 1296 426 1296 456 1301 498 1293 501 1293 515 1298 514 1371"/></Shape>
-	    <String CONTENT="Eiii"
-                    HPOS="390"
-                    VPOS="1293"
-                    WIDTH="125"
-                    HEIGHT="79"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="562"
-                   VPOS="1303"
-                   WIDTH="145"
-                   HEIGHT="71"
-                   ID="eSc_textblock_facf1e8a"
-                   TAGREFS="BT1033">
-          <Shape><Polygon POINTS="566 1308 562 1374 705 1374 707 1303"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_c50d7c6c"
-                    TAGREFS="LT386"
-                    BASELINE="564 1353 707 1354" 
-                    HPOS="564"
-                    VPOS="1294"
-                    WIDTH="143"
-                    HEIGHT="79">
-            <Shape><Polygon POINTS="602 1294 666 1297 668 1297 682 1308 689 1303 696 1303 707 1308 707 1354 706 1361 700 1368 700 1369 697 1369 697 1370 696 1369 693 1369 693 1368 686 1362 628 1362 591 1373 587 1373 564 1366 565 1311 576 1311 577 1310 598 1294"/></Shape>
-	    <String CONTENT="fidele-"
-                    HPOS="564"
-                    VPOS="1294"
-                    WIDTH="143"
-                    HEIGHT="79"></String>
+                    BASELINE="396 1351 699 1350" 
+                    HPOS="394"
+                    VPOS="1300"
+                    WIDTH="303"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="643 1301 630 1301 616 1301 602 1301 588 1301 585 1301 578 1307 574 1310 537 1310 534 1307 526 1303 519 1303 505 1304 491 1304 477 1304 463 1304 450 1304 436 1305 422 1305 408 1305 398 1305 394 1307 396 1350 396 1365 696 1368 697 1348 695 1305 652 1300 643 1301"/></Shape>
+	    <String CONTENT="Eiiii fidele-"
+                    HPOS="394"
+                    VPOS="1300"
+                    WIDTH="303"
+                    HEIGHT="68"></String>
           </TextLine>
 
           

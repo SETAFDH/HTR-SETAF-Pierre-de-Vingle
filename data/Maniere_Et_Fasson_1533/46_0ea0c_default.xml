@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT1024" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT1025" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1026" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1027" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1028" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1029" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1030" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1031" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1032" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT1033" LABEL="QuireMarksZone:catchword" DESCRIPTION="block type QuireMarksZone:catchword"/><OtherTag ID="BT1035" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1036" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1037" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT1038" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
-    <OtherTag ID="LT386" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT387" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT388" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/>
+    <OtherTag ID="LT386" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT387" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT388" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT411" LABEL="InterlinearLine:correction" DESCRIPTION="line type InterlinearLine:correction"/><OtherTag ID="LT412" LABEL="CustomLine:handwrittenNote" DESCRIPTION="line type CustomLine:handwrittenNote"/>
   </Tags>
   
   <Layout>
@@ -375,60 +375,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="523"
-                   VPOS="1287"
-                   WIDTH="173"
-                   HEIGHT="57"
-                   ID="eSc_textblock_9612fa46"
-                   TAGREFS="BT1033">
-          <Shape><Polygon POINTS="527 1290 523 1344 696 1344 696 1287"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_5518ea16"
-                    TAGREFS="LT386"
-                    BASELINE="532 1332 696 1330" 
-                    HPOS="530"
-                    VPOS="1282"
-                    WIDTH="165"
-                    HEIGHT="63">
-            <Shape><Polygon POINTS="531 1330 531 1345 695 1343 695 1329 692 1290 530 1282 531 1330"/></Shape>
-	    <String CONTENT="dõcques"
-                    HPOS="530"
-                    VPOS="1282"
-                    WIDTH="165"
-                    HEIGHT="63"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="346"
-                   VPOS="1283"
-                   WIDTH="142"
-                   HEIGHT="63"
-                   ID="eSc_textblock_a13dc90f"
-                   TAGREFS="BT1032">
-          <Shape><Polygon POINTS="353 1283 346 1344 488 1346 488 1283"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_dbe90eb3"
-                    TAGREFS="LT386"
-                    BASELINE="353 1334 480 1333" 
-                    HPOS="350"
-                    VPOS="1272"
-                    WIDTH="129"
-                    HEIGHT="91">
-            <Shape><Polygon POINTS="351 1333 351 1344 414 1344 429 1355 437 1363 438 1363 440 1363 441 1363 479 1362 479 1332 473 1272 433 1283 412 1279 389 1274 387 1274 386 1274 350 1285 351 1333"/></Shape>
-	    <String CONTENT="Ciii"
-                    HPOS="350"
-                    VPOS="1272"
-                    WIDTH="129"
-                    HEIGHT="91"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
         <TextBlock HPOS="693"
                    VPOS="705"
                    WIDTH="139"
@@ -478,6 +424,33 @@
                     VPOS="907"
                     WIDTH="133"
                     HEIGHT="59"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="346"
+                   VPOS="1283"
+                   WIDTH="358"
+                   HEIGHT="61"
+                   ID="eSc_textblock_a13dc90f"
+                   TAGREFS="BT1031">
+          <Shape><Polygon POINTS="353 1283 346 1344 702 1344 704 1290"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_dbe90eb3"
+                    TAGREFS="LT386"
+                    BASELINE="353 1334 694 1331" 
+                    HPOS="350"
+                    VPOS="1283"
+                    WIDTH="343"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="682 1289 668 1289 654 1289 641 1289 627 1287 613 1287 599 1287 585 1287 571 1287 558 1286 553 1286 544 1286 530 1286 517 1286 516 1287 469 1285 461 1285 447 1285 433 1285 419 1283 405 1283 391 1283 378 1283 364 1283 362 1283 350 1296 351 1333 351 1344 383 1341 389 1344 396 1350 397 1350 398 1350 400 1350 401 1350 412 1344 414 1343 415 1344 432 1358 433 1358 434 1358 436 1359 519 1359 519 1358 520 1358 522 1358 542 1343 548 1340 600 1341 602 1343 610 1351 612 1351 613 1351 614 1351 693 1341 693 1330 690 1289 682 1289"/></Shape>
+	    <String CONTENT="Gui dõcques"
+                    HPOS="350"
+                    VPOS="1283"
+                    WIDTH="343"
+                    HEIGHT="76"></String>
           </TextLine>
 
           

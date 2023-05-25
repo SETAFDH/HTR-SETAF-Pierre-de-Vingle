@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT1024" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT1025" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1026" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1027" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1028" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1029" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1030" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1031" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1032" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT1033" LABEL="QuireMarksZone:catchword" DESCRIPTION="block type QuireMarksZone:catchword"/><OtherTag ID="BT1035" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1036" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1037" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT1038" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
-    <OtherTag ID="LT386" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT387" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT388" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/>
+    <OtherTag ID="LT386" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT387" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT388" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT411" LABEL="InterlinearLine:correction" DESCRIPTION="line type InterlinearLine:correction"/><OtherTag ID="LT412" LABEL="CustomLine:handwrittenNote" DESCRIPTION="line type CustomLine:handwrittenNote"/>
   </Tags>
   
   <Layout>
@@ -437,54 +437,27 @@
         </TextBlock>
         
         <TextBlock HPOS="429"
-                   VPOS="1299"
-                   WIDTH="121"
-                   HEIGHT="73"
+                   VPOS="1305"
+                   WIDTH="275"
+                   HEIGHT="67"
                    ID="eSc_textblock_004bcd05"
-                   TAGREFS="BT1032">
-          <Shape><Polygon POINTS="429 1313 429 1372 550 1372 550 1299"/></Shape>
+                   TAGREFS="BT1031">
+          <Shape><Polygon POINTS="429 1313 429 1372 704 1368 703 1305"/></Shape>
           
           
           <TextLine ID="eSc_line_c0589cca"
                     TAGREFS="LT386"
-                    BASELINE="433 1355 537 1353" 
-                    HPOS="432"
-                    VPOS="1298"
-                    WIDTH="106"
+                    BASELINE="433 1355 690 1352" 
+                    HPOS="430"
+                    VPOS="1305"
+                    WIDTH="259"
                     HEIGHT="74">
-            <Shape><Polygon POINTS="433 1368 433 1355 432 1310 445 1301 450 1301 487 1308 494 1310 502 1308 530 1298 534 1298 536 1299 538 1372"/></Shape>
-	    <String CONTENT="G n"
-                    HPOS="432"
-                    VPOS="1298"
-                    WIDTH="106"
+            <Shape><Polygon POINTS="652 1307 638 1307 624 1307 610 1307 596 1308 588 1308 584 1311 551 1311 546 1310 541 1310 527 1310 513 1311 501 1311 499 1311 486 1311 472 1312 458 1312 444 1312 430 1312 430 1312 432 1354 432 1368 492 1368 498 1372 505 1377 506 1377 508 1377 509 1377 534 1373 562 1368 686 1379 689 1351 686 1311 654 1305 652 1307"/></Shape>
+	    <String CONTENT="Ei bien"
+                    HPOS="430"
+                    VPOS="1305"
+                    WIDTH="259"
                     HEIGHT="74"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="584"
-                   VPOS="1308"
-                   WIDTH="109"
-                   HEIGHT="55"
-                   ID="eSc_textblock_7e23901c"
-                   TAGREFS="BT1033">
-          <Shape><Polygon POINTS="584 1308 584 1363 693 1363 693 1308"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_266f0a39"
-                    TAGREFS="LT386"
-                    BASELINE="589 1352 690 1350" 
-                    HPOS="588"
-                    VPOS="1296"
-                    WIDTH="102"
-                    HEIGHT="81">
-            <Shape><Polygon POINTS="646 1296 648 1298 657 1305 685 1296 690 1350 689 1377 590 1374 588 1303 610 1300 642 1296"/></Shape>
-	    <String CONTENT="bien"
-                    HPOS="588"
-                    VPOS="1296"
-                    WIDTH="102"
-                    HEIGHT="81"></String>
           </TextLine>
 
           

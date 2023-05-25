@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT1024" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT1025" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1026" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1027" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1028" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1029" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1030" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1031" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1032" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT1033" LABEL="QuireMarksZone:catchword" DESCRIPTION="block type QuireMarksZone:catchword"/><OtherTag ID="BT1035" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1036" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1037" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT1038" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
-    <OtherTag ID="LT386" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT387" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT388" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/>
+    <OtherTag ID="LT386" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT387" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT388" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT411" LABEL="InterlinearLine:correction" DESCRIPTION="line type InterlinearLine:correction"/><OtherTag ID="LT412" LABEL="CustomLine:handwrittenNote" DESCRIPTION="line type CustomLine:handwrittenNote"/>
   </Tags>
   
   <Layout>
@@ -357,23 +357,6 @@
 
           
           
-          <TextLine ID="eSc_line_dc0833ec"
-                    TAGREFS="LT386"
-                    BASELINE="473 1178 599 1177" 
-                    HPOS="473"
-                    VPOS="1126"
-                    WIDTH="126"
-                    HEIGHT="60">
-            <Shape><Polygon POINTS="474 1145 484 1138 502 1126 509 1126 527 1137 569 1131 571 1131 598 1139 599 1177 596 1186 473 1184 473 1145"/></Shape>
-	    <String CONTENT="Ouy."
-                    HPOS="473"
-                    VPOS="1126"
-                    WIDTH="126"
-                    HEIGHT="60"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_0dc5b2d1"
                     TAGREFS="LT387"
                     BASELINE="105 1225 587 1221" 
@@ -387,6 +370,23 @@
                     VPOS="1174"
                     WIDTH="484"
                     HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dc0833ec"
+                    TAGREFS="LT386"
+                    BASELINE="473 1178 599 1177" 
+                    HPOS="473"
+                    VPOS="1126"
+                    WIDTH="126"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="474 1145 484 1138 502 1126 509 1126 527 1137 569 1131 571 1131 598 1139 599 1177 596 1186 473 1184 473 1145"/></Shape>
+	    <String CONTENT="Ouy."
+                    HPOS="473"
+                    VPOS="1126"
+                    WIDTH="126"
+                    HEIGHT="60"></String>
           </TextLine>
 
           
@@ -409,55 +409,28 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="584"
-                   VPOS="1288"
-                   WIDTH="103"
-                   HEIGHT="54"
-                   ID="eSc_textblock_eec5ca70"
-                   TAGREFS="BT1033">
-          <Shape><Polygon POINTS="584 1288 584 1342 687 1342 687 1288"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_116d8098"
-                    TAGREFS="LT386"
-                    BASELINE="595 1333 685 1330" 
-                    HPOS="593"
-                    VPOS="1275"
-                    WIDTH="92"
-                    HEIGHT="70">
-            <Shape><Polygon POINTS="598 1275 634 1285 681 1285 685 1330 684 1343 595 1345 593 1275"/></Shape>
-	    <String CONTENT="dieu"
-                    HPOS="593"
-                    VPOS="1275"
-                    WIDTH="92"
-                    HEIGHT="70"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
         <TextBlock HPOS="413"
                    VPOS="1288"
-                   WIDTH="121"
+                   WIDTH="294"
                    HEIGHT="66"
                    ID="eSc_textblock_ce8b0d61"
-                   TAGREFS="BT1032">
-          <Shape><Polygon POINTS="413 1288 413 1354 534 1354 534 1288"/></Shape>
+                   TAGREFS="BT1031">
+          <Shape><Polygon POINTS="413 1288 413 1354 707 1344 693 1290"/></Shape>
           
           
           <TextLine ID="eSc_line_6fe1ac0b"
                     TAGREFS="LT386"
-                    BASELINE="418 1339 530 1335" 
-                    HPOS="415"
-                    VPOS="1276"
-                    WIDTH="116"
-                    HEIGHT="72">
-            <Shape><Polygon POINTS="418 1348 418 1339 415 1286 470 1278 473 1278 491 1286 497 1289 504 1286 522 1276 526 1276 528 1277 531 1346"/></Shape>
-	    <String CONTENT="C i"
-                    HPOS="415"
-                    VPOS="1276"
-                    WIDTH="116"
-                    HEIGHT="72"></String>
+                    BASELINE="418 1339 688 1330" 
+                    HPOS="414"
+                    VPOS="1289"
+                    WIDTH="272"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="664 1289 650 1289 636 1289 623 1289 609 1289 594 1289 581 1289 571 1296 564 1289 553 1289 544 1293 538 1289 538 1289 524 1289 510 1289 497 1289 492 1289 468 1303 463 1305 414 1305 416 1337 416 1348 492 1354 494 1354 685 1341 686 1329 684 1290 666 1289 664 1289"/></Shape>
+	    <String CONTENT="L i dieu"
+                    HPOS="414"
+                    VPOS="1289"
+                    WIDTH="272"
+                    HEIGHT="65"></String>
           </TextLine>
 
           
