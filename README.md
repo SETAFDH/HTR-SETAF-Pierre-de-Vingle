@@ -7,6 +7,7 @@ Données HTR pour le projet SETAF
 ## Projet SETAF
 
 GitHub du projet : https://github.com/SETAFDH 
+
 Site du projet : https://www.unige.ch/setaf
 
 
@@ -27,7 +28,7 @@ Les données pour l'HTR sont produites à l'aide de l’instance genevoise FoNDU
 
 ## Licence
 
-Les transcriptions sont [CC-BY](https://creativecommons.org/licenses/by/4.0), et les images suivent les règles de différentes bibliothèques numòriques :
+Les transcriptions sont [CC-BY](https://creativecommons.org/licenses/by/4.0), et les images suivent les règles de différentes bibliothèques numériques :
 - e-rara: https://www.e-rara.ch/wiki/termsOfUse?lang=en
 - Österreichischen Nationalbibliothek: https://www.onb.ac.at/en/library/departments/picture-archives-and-graphics-department/about-the-picture-archives/using-the-picture-archives
 
@@ -37,8 +38,8 @@ Les transcriptions sont [CC-BY](https://creativecommons.org/licenses/by/4.0), et
 - Version `0.9`: Sonia Solfrini, Geneviève Gross, Pierre-Olivier Beaulnes, Aurélia Marques Oliveira et Daniela Solfaroli Camillocci _Données HTR et segmentation des imprimés de Pierre de Vingle (projet SETAF)_, version `0.9`, Genève, université de Genève, 2023, https://github.com/SETAFDH/HTR-SETAF-Pierre-de-Vingle.
 
 ```bibtex
-@misc{solfrini_SETAF_2023,
-  author={Solfrini, Sonia and Gross, Geneviève and Beaulnes, Pierre-Olivier and Marques Oliveira, Aurelia, and Solfaroli Camillocci, Daniela},
+@misc{solfrini_VingleSETAF_2023,
+  author={Solfrini, Sonia and Gross, Geneviève and Beaulnes, Pierre-Olivier and Marques Oliveira, Aurélia, and Solfaroli Camillocci, Daniela},
   title={Données HTR et segmentation des imprimés de Pierre de Vingle (projet SETAF)},
   version={0.9},
   address={Genève},
@@ -61,7 +62,7 @@ Sonia Solfrini, Geneviève Gross, Brigitte Roux, Nathalie Szczech et Daniela Sol
   address={Genève},
   publisher={université de Genève},
   year={2023},
-  url={https://www.unige.ch/setaf},
+  url={https://github.com/SETAFDH},
   note={numéro de projet FNS : 205056},
 }
 ```
