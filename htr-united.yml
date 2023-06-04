@@ -58,13 +58,13 @@ license:
 format: Alto-XML
 volume:
 - metric: characters
-  count: 131338
+  count: 131316
 - metric: files
   count: 271
 - metric: lines
-  count: 5740
+  count: 5732
 - metric: regions
-  count: 649
+  count: 647
 characters:
   mode: NFD
   members:
