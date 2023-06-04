@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT1024" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT1025" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1026" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1027" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1028" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1029" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1030" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1031" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1032" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT1033" LABEL="QuireMarksZone:catchword" DESCRIPTION="block type QuireMarksZone:catchword"/><OtherTag ID="BT1035" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1036" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1037" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT1038" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="BT1024" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT1025" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1026" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1027" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1028" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1029" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1030" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1031" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1032" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT1033" LABEL="QuireMarksZone:catchword" DESCRIPTION="block type QuireMarksZone:catchword"/><OtherTag ID="BT1035" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1036" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1037" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT1038" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1133" LABEL="MarginTextZone:handwrittenAddition" DESCRIPTION="block type MarginTextZone:handwrittenAddition"/>
     <OtherTag ID="LT386" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT387" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT388" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT411" LABEL="InterlinearLine:correction" DESCRIPTION="line type InterlinearLine:correction"/><OtherTag ID="LT412" LABEL="CustomLine:handwrittenNote" DESCRIPTION="line type CustomLine:handwrittenNote"/>
   </Tags>
   
@@ -25,13 +25,13 @@
                   WIDTH="1080"
                   HEIGHT="1660">
         
-        <TextBlock HPOS="365"
-                   VPOS="129"
-                   WIDTH="645"
-                   HEIGHT="1163"
+        <TextBlock HPOS="359"
+                   VPOS="127"
+                   WIDTH="651"
+                   HEIGHT="1167"
                    ID="eSc_textblock_2c3705aa"
                    TAGREFS="BT1028">
-          <Shape><Polygon POINTS="365 129 373 1292 1010 1288 1010 131"/></Shape>
+          <Shape><Polygon POINTS="359 127 371 1294 1010 1288 1010 131"/></Shape>
           
           
           <TextLine ID="eSc_line_8e738796"
@@ -104,33 +104,33 @@
           
           <TextLine ID="eSc_line_908607e3"
                     TAGREFS="LT386"
-                    BASELINE="368 426 995 428" 
-                    HPOS="366"
+                    BASELINE="374 426 995 428" 
+                    HPOS="372"
                     VPOS="370"
-                    WIDTH="629"
-                    HEIGHT="68">
-            <Shape><Polygon POINTS="368 426 366 430 992 438 995 428 994 381 951 381 951 380 942 373 942 372 941 372 940 372 938 372 893 380 888 380 887 380 869 372 868 372 866 372 754 379 724 380 707 379 671 373 670 373 598 377 567 379 563 377 551 370 549 370 548 370 368 374 368 426"/></Shape>
+                    WIDTH="622"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="373 424 372 431 393 438 394 438 396 438 599 434 682 432 700 435 722 439 724 441 992 441 994 427 992 381 951 381 951 380 942 373 942 372 941 372 940 372 938 372 893 380 888 380 887 380 869 372 868 372 866 372 761 379 724 380 703 377 671 373 670 373 610 376 567 379 562 376 551 370 549 370 548 370 373 373 373 424"/></Shape>
 	    <String CONTENT="baptise deaue pure ⁊ nette, cõme"
-                    HPOS="366"
+                    HPOS="372"
                     VPOS="370"
-                    WIDTH="629"
-                    HEIGHT="68"></String>
+                    WIDTH="622"
+                    HEIGHT="71"></String>
           </TextLine>
 
           
           
           <TextLine ID="eSc_line_577dc905"
                     TAGREFS="LT386"
-                    BASELINE="366 481 995 484" 
-                    HPOS="366"
+                    BASELINE="376 481 995 484" 
+                    HPOS="373"
                     VPOS="427"
-                    WIDTH="629"
+                    WIDTH="621"
                     HEIGHT="71">
-            <Shape><Polygon POINTS="929 428 994 431 995 484 992 498 916 491 818 496 782 498 780 498 753 495 695 489 650 493 625 496 623 496 613 493 599 489 594 493 589 496 584 496 573 493 560 489 366 489 366 437 383 427 393 427 407 435 408 437 409 435 432 427 444 427 474 435 487 438 520 435 570 430 573 430 584 434 589 437 592 434 602 427 606 427 653 428 654 428 664 434 672 438 678 434 684 427 686 428 699 428 729 432 740 434 758 432 803 428 805 428 814 432 828 439 850 431 859 428 864 428 872 431 890 438 915 431 926 428"/></Shape>
+            <Shape><Polygon POINTS="375 480 373 486 409 495 411 495 412 495 430 488 454 495 455 495 456 495 668 488 679 488 681 488 713 496 714 496 715 496 765 489 776 496 778 496 779 496 780 498 970 498 970 496 972 496 992 488 994 482 992 432 375 427 375 480"/></Shape>
 	    <String CONTENT="le sauueur a este baptise, ⁊les apo"
-                    HPOS="366"
+                    HPOS="373"
                     VPOS="427"
-                    WIDTH="629"
+                    WIDTH="621"
                     HEIGHT="71"></String>
           </TextLine>
 
@@ -403,17 +403,17 @@
           
           <TextLine ID="eSc_line_32a5d861"
                     TAGREFS="LT386"
-                    BASELINE="229 480 356 481" 
-                    HPOS="228"
-                    VPOS="438"
-                    WIDTH="128"
-                    HEIGHT="51">
-            <Shape><Polygon POINTS="228 489 229 480 234 459 243 439 312 439 326 438 356 438 356 489"/></Shape>
+                    BASELINE="229 480 350 481" 
+                    HPOS="227"
+                    VPOS="437"
+                    WIDTH="121"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="311 438 297 438 283 438 270 438 256 438 242 438 228 438 228 478 227 488 312 486 346 493 348 480 347 438 314 437 311 438"/></Shape>
 	    <String CONTENT="Act̾.s. g"
-                    HPOS="228"
-                    VPOS="438"
-                    WIDTH="128"
-                    HEIGHT="51"></String>
+                    HPOS="227"
+                    VPOS="437"
+                    WIDTH="121"
+                    HEIGHT="56"></String>
           </TextLine>
 
           
@@ -447,17 +447,17 @@
           
           <TextLine ID="eSc_line_95f1f8df"
                     TAGREFS="LT386"
-                    BASELINE="232 1085 359 1083" 
-                    HPOS="231"
-                    VPOS="1052"
-                    WIDTH="119"
-                    HEIGHT="60">
-            <Shape><Polygon POINTS="258 1083 245 1080 231 1077 232 1085 232 1112 350 1106 350 1083 343 1055 336 1059 333 1056 329 1054 329 1052 328 1052 326 1052 297 1052 296 1052 294 1052 293 1052 282 1062 276 1065 272 1081"/></Shape>
+                    BASELINE="232 1085 363 1083" 
+                    HPOS="229"
+                    VPOS="1041"
+                    WIDTH="133"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="340 1041 326 1041 312 1041 301 1041 292 1045 254 1041 243 1041 229 1041 231 1084 231 1112 362 1101 362 1081 360 1045 342 1041 340 1041"/></Shape>
 	    <String CONTENT="Dit ."
-                    HPOS="231"
-                    VPOS="1052"
-                    WIDTH="119"
-                    HEIGHT="60"></String>
+                    HPOS="229"
+                    VPOS="1041"
+                    WIDTH="133"
+                    HEIGHT="71"></String>
           </TextLine>
 
           

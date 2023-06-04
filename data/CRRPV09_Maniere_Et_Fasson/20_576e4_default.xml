@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT1024" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT1025" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1026" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1027" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1028" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1029" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1030" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1031" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1032" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT1033" LABEL="QuireMarksZone:catchword" DESCRIPTION="block type QuireMarksZone:catchword"/><OtherTag ID="BT1035" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1036" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1037" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT1038" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="BT1024" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT1025" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1026" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1027" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1028" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1029" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1030" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1031" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1032" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT1033" LABEL="QuireMarksZone:catchword" DESCRIPTION="block type QuireMarksZone:catchword"/><OtherTag ID="BT1035" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1036" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1037" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT1038" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1133" LABEL="MarginTextZone:handwrittenAddition" DESCRIPTION="block type MarginTextZone:handwrittenAddition"/>
     <OtherTag ID="LT386" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT387" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT388" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT411" LABEL="InterlinearLine:correction" DESCRIPTION="line type InterlinearLine:correction"/><OtherTag ID="LT412" LABEL="CustomLine:handwrittenNote" DESCRIPTION="line type CustomLine:handwrittenNote"/>
   </Tags>
   
@@ -25,13 +25,13 @@
                   WIDTH="1080"
                   HEIGHT="1660">
         
-        <TextBlock HPOS="52"
+        <TextBlock HPOS="46"
                    VPOS="140"
-                   WIDTH="637"
-                   HEIGHT="1157"
+                   WIDTH="643"
+                   HEIGHT="1161"
                    ID="eSc_textblock_85152c5c"
                    TAGREFS="BT1028">
-          <Shape><Polygon POINTS="52 140 52 1297 678 1297 689 140"/></Shape>
+          <Shape><Polygon POINTS="52 140 46 1301 678 1297 689 140"/></Shape>
           
           
           <TextLine ID="eSc_line_6583f2df"
@@ -272,23 +272,6 @@
 
           
           
-          <TextLine ID="eSc_line_7ff18642"
-                    TAGREFS="LT388"
-                    BASELINE="70 1105 207 1105" 
-                    HPOS="62"
-                    VPOS="945"
-                    WIDTH="151"
-                    HEIGHT="183">
-            <Shape><Polygon POINTS="69 1126 204 1128 206 1103 213 945 62 960 69 1103"/></Shape>
-	    <String CONTENT="M"
-                    HPOS="62"
-                    VPOS="945"
-                    WIDTH="151"
-                    HEIGHT="183"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_2b60048c"
                     TAGREFS="LT386"
                     BASELINE="217 1058 649 1056 677 1047" 
@@ -402,6 +385,33 @@
           
         </TextBlock>
         
+        <TextBlock HPOS="54"
+                   VPOS="951"
+                   WIDTH="168"
+                   HEIGHT="174"
+                   ID="eSc_textblock_095b35ab"
+                   TAGREFS="BT1027">
+          <Shape><Polygon POINTS="56 951 54 1125 222 1123 222 951"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_7ff18642"
+                    TAGREFS="LT388"
+                    BASELINE="70 1105 207 1105" 
+                    HPOS="62"
+                    VPOS="945"
+                    WIDTH="151"
+                    HEIGHT="183">
+            <Shape><Polygon POINTS="69 1126 204 1128 206 1103 213 945 62 960 69 1103"/></Shape>
+	    <String CONTENT="M"
+                    HPOS="62"
+                    VPOS="945"
+                    WIDTH="151"
+                    HEIGHT="183"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
         <TextBlock HPOS="680"
                    VPOS="1003"
                    WIDTH="136"
@@ -480,16 +490,6 @@
                     HEIGHT="68"></String>
           </TextLine>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="56"
-                   VPOS="951"
-                   WIDTH="166"
-                   HEIGHT="172"
-                   ID="eSc_textblock_095b35ab"
-                   TAGREFS="BT1027">
-          <Shape><Polygon POINTS="56 951 56 1123 222 1123 222 951"/></Shape>
           
         </TextBlock>
         
