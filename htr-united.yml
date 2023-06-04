@@ -58,7 +58,7 @@ license:
 format: Alto-XML
 volume:
 - metric: characters
-  count: 131316
+  count: 131344
 - metric: files
   count: 271
 - metric: lines
@@ -136,9 +136,9 @@ characters:
   - '2'
   - '7'
   - "\u033E"
-  - '1'
   - k
   - "\xF7"
   - '8'
   - Y
+  - '1'
   - '5'
