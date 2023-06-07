@@ -28,10 +28,10 @@
         <TextBlock HPOS="42"
                    VPOS="113"
                    WIDTH="677"
-                   HEIGHT="1192"
+                   HEIGHT="1205"
                    ID="eSc_textblock_bf576438"
                    TAGREFS="BT1028">
-          <Shape><Polygon POINTS="42 113 67 1305 696 1305 719 118"/></Shape>
+          <Shape><Polygon POINTS="42 113 52 1318 696 1305 719 118"/></Shape>
           
           
           <TextLine ID="eSc_line_4bd4d44f"
@@ -358,33 +358,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="70"
-                   VPOS="844"
-                   WIDTH="174"
-                   HEIGHT="173"
-                   ID="eSc_textblock_273c0fde"
-                   TAGREFS="BT1027">
-          <Shape><Polygon POINTS="70 844 70 1017 234 1017 244 844"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_eaf5a68d"
-                    TAGREFS="LT388"
-                    BASELINE="81 991 218 992" 
-                    HPOS="81"
-                    VPOS="991"
-                    WIDTH="137"
-                    HEIGHT="1">
-            
-	    <String CONTENT=""
-                    HPOS="81"
-                    VPOS="991"
-                    WIDTH="137"
-                    HEIGHT="1"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
         <TextBlock HPOS="698"
                    VPOS="855"
                    WIDTH="134"
@@ -483,7 +456,38 @@
           
         </TextBlock>
         
+        <TextBlock HPOS="70"
+                   VPOS="844"
+                   WIDTH="174"
+                   HEIGHT="173"
+                   ID="eSc_textblock_273c0fde"
+                   TAGREFS="BT1027">
+          <Shape><Polygon POINTS="70 844 70 1017 234 1017 244 844"/></Shape>
+          
+        </TextBlock>
+        
 
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_3babe52d"
+                    
+                    BASELINE="81 991 218 992" 
+                    HPOS="81"
+                    VPOS="991"
+                    WIDTH="137"
+                    HEIGHT="1">
+            
+	    <String CONTENT=""
+                    HPOS="81"
+                    VPOS="991"
+                    WIDTH="137"
+                    HEIGHT="1"></String>
+          </TextLine>
+
+          
+        </TextBlock>
         
       </PrintSpace>
     </Page>
