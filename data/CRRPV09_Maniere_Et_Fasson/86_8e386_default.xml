@@ -26,12 +26,12 @@
                   HEIGHT="1660">
         
         <TextBlock HPOS="55"
-                   VPOS="127"
-                   WIDTH="648"
-                   HEIGHT="1184"
+                   VPOS="132"
+                   WIDTH="656"
+                   HEIGHT="1183"
                    ID="eSc_textblock_36d4ea6d"
                    TAGREFS="BT1028">
-          <Shape><Polygon POINTS="55 127 68 1311 703 1308 703 138"/></Shape>
+          <Shape><Polygon POINTS="55 133 64 1315 703 1308 711 132"/></Shape>
           
           
           <TextLine ID="eSc_line_52fcc98c"
@@ -228,7 +228,7 @@
                     VPOS="903"
                     WIDTH="625"
                     HEIGHT="58">
-            <Shape><Polygon POINTS="78 947 77 961 700 958 702 950 702 903 78 903 78 947"/></Shape>
+            <Shape><Polygon POINTS="77 961 700 958 702 950 702 903 78 903 78 947"/></Shape>
 	    <String CONTENT="tyrer tous a nostre seigneur estãt"
                     HPOS="77"
                     VPOS="903"
@@ -240,17 +240,17 @@
           
           <TextLine ID="eSc_line_36359914"
                     TAGREFS="LT386"
-                    BASELINE="69 1005 702 1008" 
-                    HPOS="67"
+                    BASELINE="79 1007 702 1008" 
+                    HPOS="77"
                     VPOS="954"
-                    WIDTH="635"
-                    HEIGHT="61">
-            <Shape><Polygon POINTS="69 1005 67 1015 700 1015 702 1008 700 964 384 954 383 954 382 954 354 961 322 954 321 954 274 961 272 961 270 961 225 954 224 954 222 954 204 961 203 961 185 954 184 954 182 954 69 960 69 1005"/></Shape>
+                    WIDTH="625"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="78 1005 77 1018 700 1015 702 1007 700 964 656 964 656 962 648 955 648 954 646 954 645 954 643 954 642 954 625 962 624 964 563 964 560 962 548 954 546 954 545 954 544 954 542 954 517 962 516 962 513 962 492 954 491 954 384 954 383 954 382 954 361 961 355 962 347 961 318 954 285 954 283 954 282 954 281 954 281 955 275 960 272 962 260 960 225 954 224 954 222 954 209 960 203 962 198 960 185 954 184 954 182 954 181 954 163 960 153 962 149 960 142 954 141 954 139 954 138 954 137 954 120 960 109 962 78 960 78 1005"/></Shape>
 	    <String CONTENT="cyẽple de bõne uie ⁊ de doctrine"
-                    HPOS="67"
+                    HPOS="77"
                     VPOS="954"
-                    WIDTH="635"
-                    HEIGHT="61"></String>
+                    WIDTH="625"
+                    HEIGHT="64"></String>
           </TextLine>
 
           
@@ -352,17 +352,17 @@
           
           <TextLine ID="eSc_line_c19871f2"
                     TAGREFS="LT388"
-                    BASELINE="85 887 263 885" 
-                    HPOS="82"
-                    VPOS="662"
-                    WIDTH="211"
-                    HEIGHT="248">
-            <Shape><Polygon POINTS="84 908 260 910 261 883 293 723 285 687 263 675 231 688 206 854 238 676 203 681 122 678 166 856 164 856 163 856 134 680 82 673 84 662 83 865 84 886"/></Shape>
+                    BASELINE="89 887 263 885" 
+                    HPOS="87"
+                    VPOS="857"
+                    WIDTH="174"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="88 886 88 908 260 910 261 883 257 864 216 867 213 864 207 860 207 859 206 859 204 859 171 857 170 857 168 857 167 857 153 865 150 868 87 868 88 886"/></Shape>
 	    <String CONTENT="Q"
-                    HPOS="82"
-                    VPOS="662"
-                    WIDTH="211"
-                    HEIGHT="248"></String>
+                    HPOS="87"
+                    VPOS="857"
+                    WIDTH="174"
+                    HEIGHT="53"></String>
           </TextLine>
 
           

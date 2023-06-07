@@ -413,34 +413,17 @@
           
           <TextLine ID="eSc_line_b13af4b7"
                     TAGREFS="LT386"
-                    BASELINE="678 884 808 883" 
-                    HPOS="675"
-                    VPOS="842"
-                    WIDTH="132"
-                    HEIGHT="55">
-            <Shape><Polygon POINTS="677 883 677 897 807 897 807 882 801 842 767 852 739 847 724 845 722 845 675 852 677 883"/></Shape>
-	    <String CONTENT="i. cor. io. e"
-                    HPOS="675"
-                    VPOS="842"
-                    WIDTH="132"
-                    HEIGHT="55"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_6ccb45a7"
-                    TAGREFS="LT386"
-                    BASELINE="677 885 808 883" 
-                    HPOS="682"
-                    VPOS="845"
-                    WIDTH="126"
-                    HEIGHT="56">
-            <Shape><Polygon POINTS="782 853 787 854 808 883 807 901 682 901 682 845 749 845 754 846 768 850"/></Shape>
-	    <String CONTENT="i.cor. io.s"
-                    HPOS="682"
-                    VPOS="845"
-                    WIDTH="126"
-                    HEIGHT="56"></String>
+                    BASELINE="676 880 808 883" 
+                    HPOS="674"
+                    VPOS="852"
+                    WIDTH="133"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="800 852 786 852 772 852 758 852 744 852 731 852 717 852 703 852 689 852 675 852 675 879 674 896 804 897 807 882 804 852 800 852"/></Shape>
+	    <String CONTENT="i. cor io. e"
+                    HPOS="674"
+                    VPOS="852"
+                    WIDTH="133"
+                    HEIGHT="45"></String>
           </TextLine>
 
           
@@ -471,23 +454,6 @@
           </TextLine>
 
           
-          
-          <TextLine ID="eSc_line_564ef90f"
-                    TAGREFS="LT386"
-                    BASELINE="677 1108 807 1106" 
-                    HPOS="682"
-                    VPOS="1070"
-                    WIDTH="125"
-                    HEIGHT="57">
-            <Shape><Polygon POINTS="796 1079 797 1079 807 1106 804 1127 725 1119 682 1121 682 1070 762 1070 768 1072 782 1074"/></Shape>
-	    <String CONTENT=".cor.ir. O"
-                    HPOS="682"
-                    VPOS="1070"
-                    WIDTH="125"
-                    HEIGHT="57"></String>
-          </TextLine>
-
-          
         </TextBlock>
         
         <TextBlock HPOS="668"
@@ -507,7 +473,7 @@
                     WIDTH="129"
                     HEIGHT="69">
             <Shape><Polygon POINTS="789 1210 765 1218 747 1214 738 1215 724 1215 710 1217 696 1218 682 1220 668 1245 668 1268 692 1279 693 1279 695 1279 797 1268 797 1245 794 1210 793 1210"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="cor.i.I"
                     HPOS="668"
                     VPOS="1210"
                     WIDTH="129"
