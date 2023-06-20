@@ -208,15 +208,15 @@
                     TAGREFS="LT387"
                     BASELINE="186 834 584 836" 
                     HPOS="185"
-                    VPOS="781"
+                    VPOS="763"
                     WIDTH="399"
-                    HEIGHT="65">
-            <Shape><Polygon POINTS="185 838 213 846 214 846 216 846 582 841 584 836 582 792 455 782 454 782 415 791 414 791 412 791 386 781 384 781 383 781 382 781 380 781 369 788 337 781 336 781 335 781 333 781 333 782 325 791 281 791 240 791 239 789 199 781 198 781 196 781 195 781 186 787 186 834"/></Shape>
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="185 838 213 846 214 846 216 843 582 841 584 836 582 792 455 782 454 782 415 791 414 791 412 791 386 781 384 781 383 781 382 781 380 781 369 788 337 781 336 781 335 781 333 781 333 782 325 791 298 763 240 791 239 789 199 781 198 781 196 781 195 781 186 787 186 834"/></Shape>
 	    <String CONTENT="la parolle de Dieu."
                     HPOS="185"
-                    VPOS="781"
+                    VPOS="763"
                     WIDTH="399"
-                    HEIGHT="65"></String>
+                    HEIGHT="83"></String>
           </TextLine>
 
           
@@ -473,17 +473,17 @@
           
           <TextLine ID="eSc_line_3babe52d"
                     
-                    BASELINE="81 991 218 992" 
-                    HPOS="81"
-                    VPOS="991"
-                    WIDTH="137"
-                    HEIGHT="1">
-            
-	    <String CONTENT=""
-                    HPOS="81"
-                    VPOS="991"
-                    WIDTH="137"
-                    HEIGHT="1"></String>
+                    BASELINE="84 997 218 992" 
+                    HPOS="61"
+                    VPOS="837"
+                    WIDTH="189"
+                    HEIGHT="179">
+            <Shape><Polygon POINTS="83 1016 217 1016 217 991 250 837 61 842 83 996"/></Shape>
+	    <String CONTENT="L"
+                    HPOS="61"
+                    VPOS="837"
+                    WIDTH="189"
+                    HEIGHT="179"></String>
           </TextLine>
 
           
