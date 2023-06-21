@@ -468,32 +468,6 @@
                    TAGREFS="BT712">
           <Shape><Polygon POINTS="215 1116 215 1181 364 1181 364 1116"/></Shape>
           
-        </TextBlock>
-        
-        <TextBlock HPOS="205"
-                   VPOS="1202"
-                   WIDTH="164"
-                   HEIGHT="52"
-                   ID="eSc_textblock_f82c112b"
-                   TAGREFS="BT712">
-          <Shape><Polygon POINTS="205 1202 205 1254 369 1254 369 1202"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="205"
-                   VPOS="1254"
-                   WIDTH="164"
-                   HEIGHT="48"
-                   ID="eSc_textblock_e95aff05"
-                   TAGREFS="BT712">
-          <Shape><Polygon POINTS="205 1302 205 1254 369 1254 369 1302"/></Shape>
-          
-        </TextBlock>
-        
-
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
           
           <TextLine ID="eSc_line_0e2193cc"
                     TAGREFS="LT239"
@@ -511,6 +485,16 @@
           </TextLine>
 
           
+        </TextBlock>
+        
+        <TextBlock HPOS="205"
+                   VPOS="1202"
+                   WIDTH="164"
+                   HEIGHT="52"
+                   ID="eSc_textblock_f82c112b"
+                   TAGREFS="BT712">
+          <Shape><Polygon POINTS="205 1202 205 1254 369 1254 369 1202"/></Shape>
+          
           
           <TextLine ID="eSc_line_31e66655"
                     TAGREFS="LT239"
@@ -527,6 +511,16 @@
                     HEIGHT="55"></String>
           </TextLine>
 
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="205"
+                   VPOS="1254"
+                   WIDTH="164"
+                   HEIGHT="48"
+                   ID="eSc_textblock_e95aff05"
+                   TAGREFS="BT712">
+          <Shape><Polygon POINTS="205 1302 205 1254 369 1254 369 1302"/></Shape>
           
           
           <TextLine ID="eSc_line_5255e6fb"
@@ -546,6 +540,8 @@
 
           
         </TextBlock>
+        
+
         
       </PrintSpace>
     </Page>

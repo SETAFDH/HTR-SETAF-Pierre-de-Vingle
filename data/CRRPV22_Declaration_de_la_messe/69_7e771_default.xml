@@ -28,10 +28,10 @@
         <TextBlock HPOS="353"
                    VPOS="87"
                    WIDTH="651"
-                   HEIGHT="1218"
+                   HEIGHT="1233"
                    ID="eSc_textblock_5ee7c346"
                    TAGREFS="BT711">
-          <Shape><Polygon POINTS="353 87 359 465 365 538 361 596 372 1303 1004 1305 1004 90"/></Shape>
+          <Shape><Polygon POINTS="353 87 359 465 365 538 361 596 357 1320 1004 1305 1004 90"/></Shape>
           
           
           <TextLine ID="eSc_line_1c4738d7"
@@ -391,19 +391,19 @@
 
           
           
-          <TextLine ID="eSc_line_740188ee"
-                    TAGREFS="LT238"
-                    BASELINE="382 1188 519 1188" 
-                    HPOS="381"
-                    VPOS="1045"
-                    WIDTH="141"
-                    HEIGHT="160">
-            <Shape><Polygon POINTS="518 1204 518 1186 518 1169 478 1169 474 1164 465 1157 465 1156 464 1156 513 1169 522 1145 517 1105 516 1054 448 1048 381 1045 383 1156 381 1186 381 1205"/></Shape>
-	    <String CONTENT="Q"
-                    HPOS="381"
-                    VPOS="1045"
-                    WIDTH="141"
-                    HEIGHT="160"></String>
+          <TextLine ID="eSc_line_0547f3ac"
+                    TAGREFS="LT239"
+                    BASELINE="367 1232 996 1234" 
+                    HPOS="365"
+                    VPOS="1196"
+                    WIDTH="631"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="367 1232 365 1237 993 1240 996 1234 994 1196 367 1196 367 1232"/></Shape>
+	    <String CONTENT="auoir congneu tant de mal que ceste"
+                    HPOS="365"
+                    VPOS="1196"
+                    WIDTH="631"
+                    HEIGHT="44"></String>
           </TextLine>
 
           
@@ -421,23 +421,6 @@
                     VPOS="1143"
                     WIDTH="471"
                     HEIGHT="58"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_0547f3ac"
-                    TAGREFS="LT239"
-                    BASELINE="367 1232 996 1234" 
-                    HPOS="365"
-                    VPOS="1196"
-                    WIDTH="631"
-                    HEIGHT="44">
-            <Shape><Polygon POINTS="367 1232 365 1237 993 1240 996 1234 994 1196 367 1196 367 1232"/></Shape>
-	    <String CONTENT="auoir congneu tant de mal que ceste"
-                    HPOS="365"
-                    VPOS="1196"
-                    WIDTH="631"
-                    HEIGHT="44"></String>
           </TextLine>
 
           
@@ -521,6 +504,23 @@
                    ID="eSc_textblock_9feadc64"
                    TAGREFS="BT710">
           <Shape><Polygon POINTS="372 1038 372 1198 525 1198 525 1038"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_740188ee"
+                    TAGREFS="LT238"
+                    BASELINE="382 1188 519 1188" 
+                    HPOS="381"
+                    VPOS="1045"
+                    WIDTH="141"
+                    HEIGHT="160">
+            <Shape><Polygon POINTS="518 1204 518 1186 518 1169 478 1169 474 1164 465 1157 465 1156 464 1156 513 1169 522 1145 517 1105 516 1054 448 1048 381 1045 383 1156 381 1186 381 1205"/></Shape>
+	    <String CONTENT="Q"
+                    HPOS="381"
+                    VPOS="1045"
+                    WIDTH="141"
+                    HEIGHT="160"></String>
+          </TextLine>
+
           
         </TextBlock>
         

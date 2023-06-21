@@ -306,23 +306,6 @@
 
           
           
-          <TextLine ID="eSc_line_10540013"
-                    TAGREFS="LT239"
-                    BASELINE="125 978 754 968" 
-                    HPOS="123"
-                    VPOS="930"
-                    WIDTH="631"
-                    HEIGHT="54">
-            <Shape><Polygon POINTS="125 978 125 984 550 984 550 983 663 975 740 980 742 980 743 980 744 980 754 974 754 968 750 930 123 942 125 978"/></Shape>
-	    <String CONTENT="es moins excuse. Car comme aueu-"
-                    HPOS="123"
-                    VPOS="930"
-                    WIDTH="631"
-                    HEIGHT="54"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_645137de"
                     TAGREFS="LT239"
                     BASELINE="126 931 747 925" 
@@ -336,6 +319,23 @@
                     VPOS="881"
                     WIDTH="622"
                     HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_10540013"
+                    TAGREFS="LT239"
+                    BASELINE="125 978 754 968" 
+                    HPOS="123"
+                    VPOS="930"
+                    WIDTH="631"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="125 978 125 984 550 984 550 983 663 975 740 980 742 980 743 980 744 980 754 974 754 968 750 930 123 942 125 978"/></Shape>
+	    <String CONTENT="es moins excuse. Car comme aueu-"
+                    HPOS="123"
+                    VPOS="930"
+                    WIDTH="631"
+                    HEIGHT="54"></String>
           </TextLine>
 
           
@@ -453,7 +453,7 @@
           
           
           <TextLine ID="eSc_line_90535497"
-                    
+                    TAGREFS="LT239"
                     BASELINE="756 175 864 175" 
                     HPOS="755"
                     VPOS="128"

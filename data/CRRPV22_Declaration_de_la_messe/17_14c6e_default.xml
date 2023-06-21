@@ -25,13 +25,13 @@
                   WIDTH="1092"
                   HEIGHT="1595">
         
-        <TextBlock HPOS="338"
-                   VPOS="77"
-                   WIDTH="648"
-                   HEIGHT="1231"
+        <TextBlock HPOS="337"
+                   VPOS="79"
+                   WIDTH="664"
+                   HEIGHT="1227"
                    ID="eSc_textblock_db4762bf"
                    TAGREFS="BT711">
-          <Shape><Polygon POINTS="343 79 338 1308 980 1295 986 77"/></Shape>
+          <Shape><Polygon POINTS="343 79 337 1306 998 1298 1001 80"/></Shape>
           
           
           <TextLine ID="eSc_line_f2660fb8"
@@ -325,17 +325,17 @@
           
           <TextLine ID="eSc_line_20decda8"
                     TAGREFS="LT238"
-                    BASELINE="351 1027 481 1028" 
-                    HPOS="348"
-                    VPOS="1004"
-                    WIDTH="132"
-                    HEIGHT="44">
-            <Shape><Polygon POINTS="349 1026 348 1048 478 1047 480 1027 480 1006 349 1004 349 1026"/></Shape>
+                    BASELINE="356 1030 481 1028" 
+                    HPOS="353"
+                    VPOS="1003"
+                    WIDTH="127"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="355 1028 355 1051 478 1048 480 1027 476 1003 353 1008 355 1028"/></Shape>
 	    <String CONTENT="sbei aade"
-                    HPOS="348"
-                    VPOS="1004"
-                    WIDTH="132"
-                    HEIGHT="44"></String>
+                    HPOS="353"
+                    VPOS="1003"
+                    WIDTH="127"
+                    HEIGHT="48"></String>
           </TextLine>
 
           
@@ -490,10 +490,10 @@
         <TextBlock HPOS="345"
                    VPOS="893"
                    WIDTH="150"
-                   HEIGHT="161"
+                   HEIGHT="156"
                    ID="eSc_textblock_4f723f25"
                    TAGREFS="BT710">
-          <Shape><Polygon POINTS="345 893 345 1054 495 1054 495 893"/></Shape>
+          <Shape><Polygon POINTS="345 893 345 1046 495 1049 495 893"/></Shape>
           
         </TextBlock>
         
