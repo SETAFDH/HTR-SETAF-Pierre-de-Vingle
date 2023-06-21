@@ -54,10 +54,10 @@ characters:
   - ̃
   - .
   - f
-  - g
   - q
-  - y
+  - g
   - b
+  - y
   - h
   - ⁊
   - z
@@ -68,49 +68,49 @@ characters:
   - E
   - I
   - L
-  - D
   - P
+  - D
   - A
   - S
   - M
   - Q
-  - N
   - ͥ
+  - N
   - O
   - U
-  - B
   - G
+  - B
+  - ꝰ
   - T
   - H
   - R
-  - ꝰ
+  - ͬ
   - '?'
   - ¶
-  - ͬ
-  - F
   - ꝓ
+  - F
   - ꝑ
   - ᷑
   - ':'
+  - ꝯ
   - (
   - )
   - v
-  - ꝯ
   - "'"
   - J
-  - V
   - ᷤ
   - '3'
-  - '2'
+  - V
   - '7'
-  - ̾
+  - '2'
   - k
-  - Y
-  - '1'
+  - ̾
   - ÷
   - '8'
-  - '5'
   - /
+  - Y
+  - '1'
+  - '5'
   - ̌
   mode: NFD
 description: Data for the SETAF project
@@ -136,11 +136,11 @@ time:
 title: HTR-SETAF-Pierre-de-Vingle
 url: https://github.com/SETAFDH/HTR-SETAF-Pierre-de-Vingle
 volume:
-- count: 327095
+- count: 195474
   metric: characters
-- count: 631
+- count: 359
   metric: files
-- count: 13870
+- count: 8091
   metric: lines
-- count: 1602
+- count: 924
   metric: regions
