@@ -25,13 +25,13 @@
                   WIDTH="1092"
                   HEIGHT="1595">
         
-        <TextBlock HPOS="337"
+        <TextBlock HPOS="343"
                    VPOS="79"
-                   WIDTH="664"
-                   HEIGHT="1227"
+                   WIDTH="658"
+                   HEIGHT="1219"
                    ID="eSc_textblock_db4762bf"
                    TAGREFS="BT711">
-          <Shape><Polygon POINTS="343 79 337 1306 998 1298 1001 80"/></Shape>
+          <Shape><Polygon POINTS="343 79 345 1296 998 1298 1001 80"/></Shape>
           
           
           <TextLine ID="eSc_line_f2660fb8"
@@ -323,23 +323,6 @@
 
           
           
-          <TextLine ID="eSc_line_20decda8"
-                    TAGREFS="LT238"
-                    BASELINE="356 1030 481 1028" 
-                    HPOS="353"
-                    VPOS="1003"
-                    WIDTH="127"
-                    HEIGHT="48">
-            <Shape><Polygon POINTS="355 1028 355 1051 478 1048 480 1027 476 1003 353 1008 355 1028"/></Shape>
-	    <String CONTENT="sbei aade"
-                    HPOS="353"
-                    VPOS="1003"
-                    WIDTH="127"
-                    HEIGHT="48"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_57fbc124"
                     TAGREFS="LT239"
                     BASELINE="486 988 970 986" 
@@ -460,6 +443,50 @@
           
         </TextBlock>
         
+        <TextBlock HPOS="345"
+                   VPOS="893"
+                   WIDTH="150"
+                   HEIGHT="156"
+                   ID="eSc_textblock_4f723f25"
+                   TAGREFS="BT710">
+          <Shape><Polygon POINTS="345 893 345 1046 495 1049 495 893"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_e1b01100"
+                    
+                    BASELINE="416 1021 426 923" 
+                    HPOS="388"
+                    VPOS="917"
+                    WIDTH="48"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="389 917 388 1015 414 1020 426 1020 426 947 436 925 425 922 389 917"/></Shape>
+	    <String CONTENT=""
+                    HPOS="388"
+                    VPOS="917"
+                    WIDTH="48"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_20decda8"
+                    TAGREFS="LT238"
+                    BASELINE="356 1030 481 1028" 
+                    HPOS="353"
+                    VPOS="1003"
+                    WIDTH="127"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="355 1051 478 1048 480 1027 476 1003 353 1008 355 1028"/></Shape>
+	    <String CONTENT="sbei aade"
+                    HPOS="353"
+                    VPOS="1003"
+                    WIDTH="127"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
         <TextBlock HPOS="218"
                    VPOS="1131"
                    WIDTH="121"
@@ -484,16 +511,6 @@
                     HEIGHT="80"></String>
           </TextLine>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="345"
-                   VPOS="893"
-                   WIDTH="150"
-                   HEIGHT="156"
-                   ID="eSc_textblock_4f723f25"
-                   TAGREFS="BT710">
-          <Shape><Polygon POINTS="345 893 345 1046 495 1049 495 893"/></Shape>
           
         </TextBlock>
         
