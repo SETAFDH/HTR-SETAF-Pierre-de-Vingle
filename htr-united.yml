@@ -91,6 +91,7 @@ characters:
   - F
   - ꝑ
   - ᷑
+  - /
   - ꝯ
   - ':'
   - (
@@ -107,7 +108,6 @@ characters:
   - ̾
   - ÷
   - '8'
-  - /
   - Y
   - '1'
   - '5'
@@ -136,11 +136,11 @@ time:
 title: HTR-SETAF-Pierre-de-Vingle
 url: https://github.com/SETAFDH/HTR-SETAF-Pierre-de-Vingle
 volume:
-- count: 202922
+- count: 202926
   metric: characters
 - count: 369
   metric: files
 - count: 8354
   metric: lines
-- count: 938
+- count: 937
   metric: regions
