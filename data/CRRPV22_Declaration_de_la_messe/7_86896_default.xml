@@ -25,6 +25,67 @@
                   WIDTH="1092"
                   HEIGHT="1595">
         
+        <TextBlock HPOS="113"
+                   VPOS="181"
+                   WIDTH="141"
+                   HEIGHT="161"
+                   ID="eSc_textblock_fe3260b2"
+                   TAGREFS="BT712">
+          <Shape><Polygon POINTS="113 342 117 184 254 181 254 342"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_569be75d"
+                    TAGREFS="LT239"
+                    BASELINE="133 230 239 234" 
+                    HPOS="130"
+                    VPOS="182"
+                    WIDTH="108"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="130 235 235 244 238 233 238 182 133 182 131 229"/></Shape>
+	    <String CONTENT="Gala."
+                    HPOS="130"
+                    VPOS="182"
+                    WIDTH="108"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_68542fc2"
+                    TAGREFS="LT239"
+                    BASELINE="131 269 246 269" 
+                    HPOS="130"
+                    VPOS="233"
+                    WIDTH="114"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="130 289 244 287 244 268 244 239 130 233 130 268"/></Shape>
+	    <String CONTENT="Apoca."
+                    HPOS="130"
+                    VPOS="233"
+                    WIDTH="114"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_926bb87a"
+                    TAGREFS="LT239"
+                    BASELINE="131 313 168 313" 
+                    HPOS="130"
+                    VPOS="280"
+                    WIDTH="37"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="130 330 166 334 167 312 167 280 130 280 130 312"/></Shape>
+	    <String CONTENT=".."
+                    HPOS="130"
+                    VPOS="280"
+                    WIDTH="37"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
         <TextBlock HPOS="258"
                    VPOS="111"
                    WIDTH="652"
@@ -460,67 +521,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="115"
-                   VPOS="173"
-                   WIDTH="141"
-                   HEIGHT="73"
-                   ID="eSc_textblock_5b3fa6ef"
-                   TAGREFS="BT712">
-          <Shape><Polygon POINTS="115 173 118 245 256 246 256 173"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_569be75d"
-                    TAGREFS="LT239"
-                    BASELINE="133 230 239 234" 
-                    HPOS="130"
-                    VPOS="182"
-                    WIDTH="108"
-                    HEIGHT="62">
-            <Shape><Polygon POINTS="131 229 130 235 235 244 238 233 238 182 133 182 131 229"/></Shape>
-	    <String CONTENT="Gala."
-                    HPOS="130"
-                    VPOS="182"
-                    WIDTH="108"
-                    HEIGHT="62"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_68542fc2"
-                    TAGREFS="LT239"
-                    BASELINE="131 269 246 269" 
-                    HPOS="130"
-                    VPOS="233"
-                    WIDTH="114"
-                    HEIGHT="56">
-            <Shape><Polygon POINTS="130 268 130 289 244 287 244 268 244 239 130 233 130 268"/></Shape>
-	    <String CONTENT="Apoca."
-                    HPOS="130"
-                    VPOS="233"
-                    WIDTH="114"
-                    HEIGHT="56"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_926bb87a"
-                    TAGREFS="LT239"
-                    BASELINE="131 313 168 313" 
-                    HPOS="130"
-                    VPOS="280"
-                    WIDTH="37"
-                    HEIGHT="54">
-            <Shape><Polygon POINTS="130 312 130 330 166 334 167 312 167 280 130 280 130 312"/></Shape>
-	    <String CONTENT=".."
-                    HPOS="130"
-                    VPOS="280"
-                    WIDTH="37"
-                    HEIGHT="54"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
         <TextBlock HPOS="113"
                    VPOS="690"
                    WIDTH="147"
@@ -589,16 +589,6 @@
                     HEIGHT="70"></String>
           </TextLine>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="113"
-                   VPOS="237"
-                   WIDTH="141"
-                   HEIGHT="105"
-                   ID="eSc_textblock_fe3260b2"
-                   TAGREFS="BT712">
-          <Shape><Polygon POINTS="113 342 120 240 251 237 254 342"/></Shape>
           
         </TextBlock>
         
