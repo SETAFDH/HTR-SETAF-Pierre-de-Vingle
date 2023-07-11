@@ -466,7 +466,7 @@
                    HEIGHT="245"
                    ID="eSc_textblock_8c219484"
                    TAGREFS="BT712">
-          <Shape><Polygon POINTS="206 408 198 653 363 650 366 409"/></Shape>
+          <Shape><Polygon POINTS="206 408 198 653 363 653 366 409"/></Shape>
           
           
           <TextLine ID="eSc_line_f74f06fa"
@@ -555,13 +555,13 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="198"
-                   VPOS="720"
-                   WIDTH="166"
-                   HEIGHT="64"
-                   ID="eSc_textblock_ca8764d0"
+        <TextBlock HPOS="195"
+                   VPOS="717"
+                   WIDTH="161"
+                   HEIGHT="113"
+                   ID="eSc_textblock_af8ab049"
                    TAGREFS="BT712">
-          <Shape><Polygon POINTS="198 720 201 784 364 779 364 725"/></Shape>
+          <Shape><Polygon POINTS="195 830 195 717 356 717 356 830"/></Shape>
           
           
           <TextLine ID="eSc_line_f7a9b2f2"
@@ -600,12 +600,12 @@
         </TextBlock>
         
         <TextBlock HPOS="198"
-                   VPOS="1102"
-                   WIDTH="137"
-                   HEIGHT="96"
+                   VPOS="1113"
+                   WIDTH="143"
+                   HEIGHT="85"
                    ID="eSc_textblock_90922fa0"
                    TAGREFS="BT712">
-          <Shape><Polygon POINTS="198 1102 198 1198 335 1198 335 1102"/></Shape>
+          <Shape><Polygon POINTS="198 1113 198 1198 335 1198 341 1114"/></Shape>
           
           
           <TextLine ID="eSc_line_dd0cbbaf"
@@ -623,16 +623,6 @@
                     HEIGHT="60"></String>
           </TextLine>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="195"
-                   VPOS="770"
-                   WIDTH="161"
-                   HEIGHT="60"
-                   ID="eSc_textblock_af8ab049"
-                   TAGREFS="BT712">
-          <Shape><Polygon POINTS="195 830 195 770 356 770 356 830"/></Shape>
           
         </TextBlock>
         
