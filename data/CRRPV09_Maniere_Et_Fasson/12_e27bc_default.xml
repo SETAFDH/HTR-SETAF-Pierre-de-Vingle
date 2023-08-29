@@ -25,6 +25,33 @@
                   WIDTH="1080"
                   HEIGHT="1660">
         
+        <TextBlock HPOS="49"
+                   VPOS="202"
+                   WIDTH="162"
+                   HEIGHT="175"
+                   ID="eSc_textblock_fbde6cf6"
+                   TAGREFS="BT1027">
+          <Shape><Polygon POINTS="49 202 49 377 211 377 208 202"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_03f42c7b"
+                    TAGREFS="LT388"
+                    BASELINE="56 364 206 367" 
+                    HPOS="54"
+                    VPOS="194"
+                    WIDTH="160"
+                    HEIGHT="190">
+            <Shape><Polygon POINTS="54 379 202 384 206 366 204 315 185 311 205 307 182 311 208 297 214 277 210 230 194 197 164 205 160 194 165 198 153 198 87 210 55 308 55 363"/></Shape>
+	    <String CONTENT="Q"
+                    HPOS="54"
+                    VPOS="194"
+                    WIDTH="160"
+                    HEIGHT="190"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
         <TextBlock HPOS="34"
                    VPOS="123"
                    WIDTH="643"
@@ -370,33 +397,6 @@
                     VPOS="1221"
                     WIDTH="633"
                     HEIGHT="79"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="49"
-                   VPOS="202"
-                   WIDTH="162"
-                   HEIGHT="175"
-                   ID="eSc_textblock_fbde6cf6"
-                   TAGREFS="BT1027">
-          <Shape><Polygon POINTS="49 202 49 377 211 377 208 202"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_03f42c7b"
-                    TAGREFS="LT388"
-                    BASELINE="56 364 206 367" 
-                    HPOS="54"
-                    VPOS="194"
-                    WIDTH="160"
-                    HEIGHT="190">
-            <Shape><Polygon POINTS="54 379 202 384 206 366 204 315 185 311 205 307 182 311 208 297 214 277 210 230 194 197 164 205 160 194 165 198 153 198 87 210 55 308 55 363"/></Shape>
-	    <String CONTENT="Q"
-                    HPOS="54"
-                    VPOS="194"
-                    WIDTH="160"
-                    HEIGHT="190"></String>
           </TextLine>
 
           
