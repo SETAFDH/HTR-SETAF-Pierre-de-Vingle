@@ -11,8 +11,8 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT1024" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT1025" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1026" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1027" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1028" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1029" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1030" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1031" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1032" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT1033" LABEL="QuireMarksZone:catchword" DESCRIPTION="block type QuireMarksZone:catchword"/><OtherTag ID="BT1035" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1036" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1037" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT1038" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1133" LABEL="MarginTextZone:handwrittenAddition" DESCRIPTION="block type MarginTextZone:handwrittenAddition"/>
-    <OtherTag ID="LT386" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT387" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT388" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT411" LABEL="InterlinearLine:correction" DESCRIPTION="line type InterlinearLine:correction"/><OtherTag ID="LT412" LABEL="CustomLine:handwrittenNote" DESCRIPTION="line type CustomLine:handwrittenNote"/>
+    <OtherTag ID="BT1025" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1026" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1027" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1028" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1029" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1030" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1031" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1035" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1036" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1037" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT1038" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1133" LABEL="MarginTextZone:handwrittenAddition" DESCRIPTION="block type MarginTextZone:handwrittenAddition"/>
+    <OtherTag ID="LT386" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT387" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT388" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/>
   </Tags>
   
   <Layout>
@@ -93,7 +93,7 @@
                     WIDTH="633"
                     HEIGHT="72">
             <Shape><Polygon POINTS="52 372 52 380 429 384 430 384 432 384 433 384 445 376 447 376 459 376 555 383 556 383 682 373 684 365 679 318 603 320 588 318 569 312 567 312 566 312 541 318 519 322 472 318 429 314 427 314 397 318 357 323 336 318 325 315 324 315 322 315 321 315 314 318 300 325 232 318 222 318 221 318 216 318 175 326 155 318 153 318 152 318 150 318 149 318 148 318 134 326 51 319 52 372"/></Shape>
-	    <String CONTENT="de dieu. ⁊ en espousant ceulx qui"
+	    <String CONTENT="de dieu: ⁊ en espousant ceulx qui"
                     HPOS="51"
                     VPOS="312"
                     WIDTH="633"
@@ -110,7 +110,7 @@
                     WIDTH="632"
                     HEIGHT="69">
             <Shape><Polygon POINTS="54 430 54 435 156 442 157 442 159 442 174 435 175 434 684 431 684 421 679 373 52 381 54 430"/></Shape>
-	    <String CONTENT="uiennent au sainct mariage, ⁊ a"
+	    <String CONTENT="uiennent au sainct mariage/ ⁊ a"
                     HPOS="52"
                     VPOS="373"
                     WIDTH="632"
@@ -127,7 +127,7 @@
                     WIDTH="630"
                     HEIGHT="76">
             <Shape><Polygon POINTS="260 428 232 438 228 439 222 438 177 430 175 430 116 431 114 431 113 431 99 439 73 431 72 431 70 431 69 431 54 438 55 485 55 495 117 500 119 500 173 493 191 491 193 492 199 498 199 499 200 499 202 499 203 500 239 500 239 499 288 491 297 489 304 491 333 498 335 498 336 498 337 498 369 489 375 488 430 488 432 488 445 496 447 496 448 496 450 496 520 489 666 493 667 493 668 493 670 493 684 484 684 477 681 434 582 424 581 424 580 424 578 424 570 431 556 426 555 426 553 426 552 426 551 426 551 427 542 435 541 435 540 435 499 426 498 426 448 437 443 437 432 437 360 430 358 430 290 438 285 438 283 438 264 428 263 428 261 428 260 428"/></Shape>
-	    <String CONTENT="la saĩcte Cene de nostre seigñrs"
+	    <String CONTENT="la saĩcte Cene de nostre seigñr/"
                     HPOS="54"
                     VPOS="424"
                     WIDTH="630"
@@ -161,7 +161,7 @@
                     WIDTH="634"
                     HEIGHT="77">
             <Shape><Polygon POINTS="450 538 448 538 441 538 427 538 420 538 419 538 311 550 310 550 308 550 258 540 257 540 207 542 206 542 204 542 193 550 180 543 178 543 177 543 175 543 155 550 62 543 60 543 59 543 58 543 58 545 56 545 54 547 55 598 55 607 109 615 110 615 112 615 113 615 113 614 120 608 209 614 210 614 301 605 322 612 324 612 325 612 326 612 357 604 375 611 376 611 378 611 491 610 492 610 519 601 573 608 574 608 576 608 598 600 646 607 648 607 688 597 688 589 685 546 621 539 620 539 461 547 451 539 451 538 450 538"/></Shape>
-	    <String CONTENT="uisite, faisãt q̃ selõ sa saincte pa-"
+	    <String CONTENT="uisite/ faisãt q̃ selõ sa saincte pa-"
                     HPOS="54"
                     VPOS="538"
                     WIDTH="634"
@@ -178,7 +178,7 @@
                     WIDTH="632"
                     HEIGHT="73">
             <Shape><Polygon POINTS="55 665 400 670 401 670 459 662 469 661 470 662 477 668 477 669 479 669 480 669 481 669 624 668 625 668 627 668 634 661 656 668 657 668 659 668 660 668 686 659 686 650 682 597 599 604 545 598 533 597 531 597 530 597 528 597 528 598 520 605 418 600 394 598 393 598 376 600 304 608 290 601 288 600 286 600 285 600 265 601 170 610 141 603 135 601 134 601 132 601 131 601 126 603 98 610 54 604 55 657"/></Shape>
-	    <String CONTENT="rolle ce qu il a deffẽdu en sõ eglise"
+	    <String CONTENT="rolle ce quil a deffẽdu en sõ eglise"
                     HPOS="54"
                     VPOS="597"
                     WIDTH="632"
@@ -195,7 +195,7 @@
                     WIDTH="575"
                     HEIGHT="75">
             <Shape><Polygon POINTS="87 715 87 727 124 722 152 727 160 729 162 729 163 729 167 727 182 720 278 723 346 726 347 726 348 726 362 722 373 717 387 720 407 724 408 724 448 719 469 716 487 717 541 723 542 723 544 723 567 715 570 713 660 712 660 706 657 664 537 654 535 654 534 654 533 654 533 655 524 662 522 664 505 662 437 655 436 655 434 655 433 655 423 662 419 665 415 662 407 655 405 655 404 655 402 655 401 655 383 662 371 666 365 661 364 659 362 659 361 659 360 659 358 659 357 659 354 661 347 666 336 661 335 661 333 661 332 661 321 661 250 668 222 661 217 659 216 659 214 659 85 659 87 715"/></Shape>
-	    <String CONTENT="soit reiecte, ⁊ ce qu il a cõman-"
+	    <String CONTENT="soit reiecte/ ⁊ ce quil a cõman-"
                     HPOS="85"
                     VPOS="654"
                     WIDTH="575"
@@ -246,7 +246,7 @@
                     WIDTH="399"
                     HEIGHT="71">
             <Shape><Polygon POINTS="178 882 178 892 252 899 253 899 254 899 256 899 267 892 271 892 353 897 354 897 393 890 394 890 396 890 429 897 430 897 432 897 433 897 443 889 445 889 469 896 470 896 472 896 574 888 576 878 573 834 523 828 522 828 461 835 440 836 432 835 405 828 404 828 402 828 401 828 400 828 391 835 391 836 328 836 326 836 312 828 311 828 310 828 308 828 177 838 178 882"/></Shape>
-	    <String CONTENT="tion cõmẽce, moyẽne"
+	    <String CONTENT="tion cõmẽce/ moyẽne"
                     HPOS="177"
                     VPOS="828"
                     WIDTH="399"
@@ -263,7 +263,7 @@
                     WIDTH="349"
                     HEIGHT="74">
             <Shape><Polygon POINTS="204 946 204 957 551 944 551 936 548 890 499 883 498 883 497 883 495 883 483 892 480 895 380 896 378 896 354 886 353 886 256 886 254 886 253 886 252 886 236 899 225 893 224 893 222 893 221 893 202 900 204 946"/></Shape>
-	    <String CONTENT="i finit, auec les"
+	    <String CONTENT="⁊ finit/ auec les"
                     HPOS="202"
                     VPOS="883"
                     WIDTH="349"
@@ -331,7 +331,7 @@
                     WIDTH="479"
                     HEIGHT="65">
             <Shape><Polygon POINTS="600 1121 598 1120 587 1119 573 1116 505 1116 504 1116 447 1126 422 1117 420 1117 419 1117 418 1117 416 1117 407 1126 375 1119 373 1119 372 1119 371 1119 371 1120 364 1126 150 1121 149 1121 148 1121 141 1123 130 1138 131 1173 131 1178 606 1181 609 1168 607 1131 600 1121"/></Shape>
-	    <String CONTENT="tous ⁊ pour tous, ⁊ de la"
+	    <String CONTENT="tous ⁊ pour tous/ ⁊ de la"
                     HPOS="130"
                     VPOS="1116"
                     WIDTH="479"
