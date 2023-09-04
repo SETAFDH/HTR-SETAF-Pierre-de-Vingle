@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT1073" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1074" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1075" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1076" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1077" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1080" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1081" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1115" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/>
+    <OtherTag ID="BT1073" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1074" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1075" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1076" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1077" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1080" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1081" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1115" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1327" LABEL="MarginTextZone:handwrittenAddition" DESCRIPTION="block type MarginTextZone:handwrittenAddition"/>
     <OtherTag ID="LT399" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT400" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT401" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/>
   </Tags>
   
@@ -31,7 +31,7 @@
                    HEIGHT="680"
                    ID="eSc_textblock_35f99812"
                    TAGREFS="BT1074">
-          <Shape><Polygon POINTS="129 130 129 810 765 805 783 130"/></Shape>
+          <Shape><Polygon POINTS="129 130 129 810 768 805 783 130"/></Shape>
           
           
           <TextLine ID="eSc_line_a7b17492"
@@ -42,7 +42,7 @@
                     WIDTH="627"
                     HEIGHT="91">
             <Shape><Polygon POINTS="145 197 145 206 314 196 341 205 342 205 344 205 345 205 364 196 444 196 466 206 468 206 469 206 470 206 471 206 473 206 485 195 511 203 513 203 514 203 631 195 651 202 653 202 654 202 655 202 670 195 682 202 683 202 684 202 769 203 770 190 769 127 752 127 752 126 738 115 737 115 735 115 679 115 678 115 677 115 645 126 640 127 631 126 593 120 591 120 590 120 589 120 583 126 580 128 544 128 540 126 519 116 518 116 516 116 515 116 489 126 480 130 448 130 442 125 435 120 434 120 432 120 431 120 430 120 429 120 422 125 417 130 392 130 385 125 372 117 371 117 370 117 369 117 334 125 310 131 296 131 291 125 285 120 285 118 284 118 282 118 281 118 143 123 145 197"/></Shape>
-	    <String CONTENT="¶Le liure des mar-"
+	    <String CONTENT="¶ Le liure des mar-"
                     HPOS="143"
                     VPOS="115"
                     WIDTH="627"
@@ -59,7 +59,7 @@
                     WIDTH="551"
                     HEIGHT="75">
             <Shape><Polygon POINTS="216 195 215 195 191 203 182 238 182 245 181 263 230 265 231 265 232 265 235 263 255 253 271 253 282 262 284 263 284 265 285 265 286 265 287 265 336 262 450 255 479 260 493 262 494 262 495 262 501 260 510 256 519 260 535 267 536 267 538 267 539 267 540 267 540 266 549 258 551 256 591 256 595 258 608 268 609 268 610 268 611 270 670 270 670 268 672 268 694 257 730 257 732 250 732 211 690 198 689 198 688 198 687 198 685 198 666 210 665 210 566 202 565 202 501 208 458 196 456 196 389 196 387 196 386 196 354 206 320 195 319 195 317 195 316 195 281 206 217 195 216 195"/></Shape>
-	    <String CONTENT="chãs, fort utile a toutes gẽs"
+	    <String CONTENT="chãs/ fort utile a toutes gẽs"
                     HPOS="181"
                     VPOS="195"
                     WIDTH="551"
@@ -93,7 +93,7 @@
                     WIDTH="383"
                     HEIGHT="72">
             <Shape><Polygon POINTS="262 362 261 375 407 381 409 381 424 379 451 373 483 380 498 382 499 382 500 382 505 380 515 375 559 381 569 382 570 382 571 382 574 381 590 375 641 382 644 365 641 313 535 321 513 315 498 311 496 311 495 311 494 311 493 311 493 312 489 315 481 322 455 322 441 316 425 310 424 310 422 310 370 317 359 318 357 317 350 311 350 310 349 310 347 310 321 310 320 310 319 310 317 310 306 318 305 318 304 318 276 310 275 310 274 310 272 310 271 310 262 315 262 362"/></Shape>
-	    <String CONTENT="le sire Pantapole-"
+	    <String CONTENT="le sire Pantapole/"
                     HPOS="261"
                     VPOS="310"
                     WIDTH="383"
@@ -127,7 +127,7 @@
                     WIDTH="234"
                     HEIGHT="69">
             <Shape><Polygon POINTS="337 479 337 487 412 485 417 487 429 494 430 494 431 495 469 495 469 494 470 494 471 494 471 492 478 487 571 487 571 479 571 430 391 426 390 426 389 426 387 426 387 427 381 432 381 434 337 434 337 479"/></Shape>
-	    <String CONTENT="tel affaire,"
+	    <String CONTENT="tel affaire/"
                     HPOS="337"
                     VPOS="426"
                     WIDTH="234"
