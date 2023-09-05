@@ -25,33 +25,6 @@
                   WIDTH="1092"
                   HEIGHT="1595">
         
-        <TextBlock HPOS="202"
-                   VPOS="206"
-                   WIDTH="163"
-                   HEIGHT="77"
-                   ID="eSc_textblock_e19bf974"
-                   TAGREFS="BT712">
-          <Shape><Polygon POINTS="202 206 202 283 362 283 365 206"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_37292a78"
-                    TAGREFS="LT239"
-                    BASELINE="218 255 362 255" 
-                    HPOS="216"
-                    VPOS="196"
-                    WIDTH="145"
-                    HEIGHT="88">
-            <Shape><Polygon POINTS="216 253 216 284 239 284 239 283 240 283 242 283 244 280 264 268 287 276 300 280 301 280 303 280 304 280 305 280 305 279 313 272 319 268 361 268 361 253 361 204 280 196 279 196 216 203 216 253"/></Shape>
-	    <String CONTENT="i plerai. d"
-                    HPOS="216"
-                    VPOS="196"
-                    WIDTH="145"
-                    HEIGHT="88"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
         <TextBlock HPOS="370"
                    VPOS="83"
                    WIDTH="648"
@@ -482,6 +455,33 @@
                     VPOS="1237"
                     WIDTH="627"
                     HEIGHT="70"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="202"
+                   VPOS="206"
+                   WIDTH="163"
+                   HEIGHT="77"
+                   ID="eSc_textblock_e19bf974"
+                   TAGREFS="BT712">
+          <Shape><Polygon POINTS="202 206 202 283 362 283 365 206"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_37292a78"
+                    TAGREFS="LT239"
+                    BASELINE="218 255 362 255" 
+                    HPOS="216"
+                    VPOS="196"
+                    WIDTH="145"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="216 253 216 284 239 284 239 283 240 283 242 283 244 280 264 268 287 276 300 280 301 280 303 280 304 280 305 280 305 279 313 272 319 268 361 268 361 253 361 204 280 196 279 196 216 203 216 253"/></Shape>
+	    <String CONTENT="1.pier.1.d"
+                    HPOS="216"
+                    VPOS="196"
+                    WIDTH="145"
+                    HEIGHT="88"></String>
           </TextLine>
 
           

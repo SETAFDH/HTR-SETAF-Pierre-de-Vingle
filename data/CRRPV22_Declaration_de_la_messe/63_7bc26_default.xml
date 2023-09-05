@@ -25,33 +25,6 @@
                   WIDTH="1092"
                   HEIGHT="1595">
         
-        <TextBlock HPOS="223"
-                   VPOS="257"
-                   WIDTH="139"
-                   HEIGHT="88"
-                   ID="eSc_textblock_cc102640"
-                   TAGREFS="BT712">
-          <Shape><Polygon POINTS="229 260 223 343 362 345 354 257"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_9af4af2f"
-                    TAGREFS="LT239"
-                    BASELINE="229 317 361 314" 
-                    HPOS="226"
-                    VPOS="252"
-                    WIDTH="134"
-                    HEIGHT="90">
-            <Shape><Polygon POINTS="228 316 228 342 345 342 345 341 347 341 348 341 360 333 360 313 355 257 332 269 276 269 256 253 256 252 255 252 254 252 226 252 228 316"/></Shape>
-	    <String CONTENT="Dese."
-                    HPOS="226"
-                    VPOS="252"
-                    WIDTH="134"
-                    HEIGHT="90"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
         <TextBlock HPOS="363"
                    VPOS="91"
                    WIDTH="652"
@@ -482,6 +455,33 @@
                     VPOS="1230"
                     WIDTH="610"
                     HEIGHT="75"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="223"
+                   VPOS="257"
+                   WIDTH="139"
+                   HEIGHT="88"
+                   ID="eSc_textblock_cc102640"
+                   TAGREFS="BT712">
+          <Shape><Polygon POINTS="229 260 223 343 362 345 354 257"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_9af4af2f"
+                    TAGREFS="LT239"
+                    BASELINE="229 317 361 314" 
+                    HPOS="226"
+                    VPOS="252"
+                    WIDTH="134"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="228 316 228 342 345 342 345 341 347 341 348 341 360 333 360 313 355 257 332 269 276 269 256 253 256 252 255 252 254 252 226 252 228 316"/></Shape>
+	    <String CONTENT="Messe."
+                    HPOS="226"
+                    VPOS="252"
+                    WIDTH="134"
+                    HEIGHT="90"></String>
           </TextLine>
 
           
