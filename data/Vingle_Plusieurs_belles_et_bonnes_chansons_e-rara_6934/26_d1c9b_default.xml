@@ -153,19 +153,36 @@
 
           
           
+          <TextLine ID="eSc_line_acf4e730"
+                    TAGREFS="LT498"
+                    BASELINE="646 515 706 515 720 521" 
+                    HPOS="643"
+                    VPOS="475"
+                    WIDTH="77"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="643 518 717 521 720 520 720 475 645 475 645 514"/></Shape>
+	    <String CONTENT="(ble"
+                    HPOS="643"
+                    VPOS="475"
+                    WIDTH="77"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+          
           <TextLine ID="eSc_line_49765c70"
                     TAGREFS="LT498"
-                    BASELINE="48 513 706 515 720 521" 
+                    BASELINE="48 513 582 515" 
                     HPOS="45"
-                    VPOS="467"
-                    WIDTH="675"
-                    HEIGHT="60">
-            <Shape><Polygon POINTS="368 467 366 467 365 467 364 467 350 473 333 478 328 473 322 468 322 467 321 467 319 467 318 467 293 473 268 478 240 473 214 468 213 468 211 468 198 474 185 478 174 474 159 468 157 468 148 468 141 474 137 477 130 474 116 468 116 468 102 468 99 468 47 474 47 511 45 517 92 527 94 527 718 521 720 520 720 468 664 468 663 468 661 468 660 468 659 470 646 481 589 481 577 470 576 468 574 468 573 468 492 468 491 468 490 468 488 468 486 471 479 477 441 471 418 468 416 468 415 468 402 471 383 477 376 473 369 467 368 467"/></Shape>
-	    <String CONTENT="¶ Celuy sera/ cõe larbre plante (ble"
+                    VPOS="471"
+                    WIDTH="536"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="47 511 45 520 65 527 66 527 67 527 580 524 581 514 578 471 47 473 47 511"/></Shape>
+	    <String CONTENT="¶ Celuy sera/ cõe larbre plante"
                     HPOS="45"
-                    VPOS="467"
-                    WIDTH="675"
-                    HEIGHT="60"></String>
+                    VPOS="471"
+                    WIDTH="536"
+                    HEIGHT="56"></String>
           </TextLine>
 
           
@@ -297,7 +314,7 @@
                     WIDTH="664"
                     HEIGHT="54">
             <Shape><Polygon POINTS="430 838 429 838 427 838 402 841 375 845 333 842 294 839 285 839 271 839 267 839 253 843 246 845 243 843 236 839 229 839 221 839 210 843 206 845 202 843 193 841 188 841 174 841 171 841 159 845 155 845 146 845 106 841 105 841 91 841 77 841 66 841 49 845 49 885 49 890 711 892 713 885 711 838 443 845 436 841 432 838 430 838"/></Shape>
-	    <String CONTENT="Mais ilz serõt/ cõme la pouldre au uẽt"
+	    <String CONTENT="Mais ilz serõt/ cõme la pouldre au uẽ"
                     HPOS="49"
                     VPOS="838"
                     WIDTH="664"
@@ -511,7 +528,7 @@
                     WIDTH="126"
                     HEIGHT="59">
             <Shape><Polygon POINTS="772 231 758 232 744 232 735 232 731 235 732 272 733 290 767 282 796 286 822 289 823 289 825 289 857 280 857 271 854 236 782 231 772 231"/></Shape>
-	    <String CONTENT="hier̃.17."
+	    <String CONTENT="Hier̃.17."
                     HPOS="731"
                     VPOS="231"
                     WIDTH="126"
@@ -555,7 +572,7 @@
                     WIDTH="130"
                     HEIGHT="54">
             <Shape><Polygon POINTS="736 569 736 586 866 581 866 569 866 532 736 532 736 569"/></Shape>
-	    <String CONTENT="tanꝗ̈ li-"
+	    <String CONTENT="tanq̃ li-"
                     HPOS="736"
                     VPOS="532"
                     WIDTH="130"

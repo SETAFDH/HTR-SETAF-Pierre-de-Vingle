@@ -25,33 +25,6 @@
                   WIDTH="1080"
                   HEIGHT="1660">
         
-        <TextBlock HPOS="58"
-                   VPOS="475"
-                   WIDTH="105"
-                   HEIGHT="91"
-                   ID="eSc_textblock_ecc9602a"
-                   TAGREFS="BT1351">
-          <Shape><Polygon POINTS="58 475 58 566 163 563 160 475"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_2ba4d904"
-                    TAGREFS="LT499"
-                    BASELINE="67 557 157 556" 
-                    HPOS="63"
-                    VPOS="470"
-                    WIDTH="93"
-                    HEIGHT="93">
-            <Shape><Polygon POINTS="66 563 156 558 156 554 153 470 63 470 66 556"/></Shape>
-	    <String CONTENT="A"
-                    HPOS="63"
-                    VPOS="470"
-                    WIDTH="93"
-                    HEIGHT="93"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
         <TextBlock HPOS="46"
                    VPOS="133"
                    WIDTH="689"
@@ -418,19 +391,36 @@
 
           
           
+          <TextLine ID="eSc_line_6ff68294"
+                    TAGREFS="LT498"
+                    BASELINE="678 1155 738 1155" 
+                    HPOS="677"
+                    VPOS="1112"
+                    WIDTH="61"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="725 1131 722 1131 720 1127 704 1113 704 1112 703 1112 702 1112 700 1112 699 1112 677 1119 677 1153 677 1164 738 1163 738 1153 738 1131 732 1131 732 1153"/></Shape>
+	    <String CONTENT="(le"
+                    HPOS="677"
+                    VPOS="1112"
+                    WIDTH="61"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
           <TextLine ID="eSc_line_b7b484b0"
                     TAGREFS="LT498"
-                    BASELINE="65 1162 275 1155 738 1155" 
-                    HPOS="63"
+                    BASELINE="65 1162 275 1155 643 1155" 
+                    HPOS="62"
                     VPOS="1109"
-                    WIDTH="675"
-                    HEIGHT="61">
-            <Shape><Polygon POINTS="571 1109 570 1109 551 1117 548 1117 531 1117 386 1110 384 1110 383 1110 382 1110 372 1117 231 1112 229 1112 228 1112 227 1112 217 1120 110 1120 70 1112 69 1112 67 1112 66 1112 66 1113 65 1113 63 1114 65 1162 65 1170 121 1163 736 1163 738 1155 736 1116 573 1109 571 1109"/></Shape>
-	    <String CONTENT="Ie croy cela/ de cueur certainemẽt (le"
-                    HPOS="63"
+                    WIDTH="580"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="63 1162 63 1171 119 1164 641 1164 642 1153 641 1116 574 1109 573 1109 510 1116 490 1109 488 1109 487 1109 486 1109 469 1117 466 1117 387 1110 386 1110 339 1119 228 1112 227 1112 225 1112 200 1120 67 1113 66 1113 65 1113 63 1113 63 1114 62 1114 63 1162"/></Shape>
+	    <String CONTENT="Ie croy cela/ de cueur certainemẽt"
+                    HPOS="62"
                     VPOS="1109"
-                    WIDTH="675"
-                    HEIGHT="61"></String>
+                    WIDTH="580"
+                    HEIGHT="62"></String>
           </TextLine>
 
           
@@ -482,6 +472,33 @@
                     VPOS="1251"
                     WIDTH="579"
                     HEIGHT="72"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="58"
+                   VPOS="475"
+                   WIDTH="105"
+                   HEIGHT="91"
+                   ID="eSc_textblock_ecc9602a"
+                   TAGREFS="BT1351">
+          <Shape><Polygon POINTS="58 475 58 566 163 563 160 475"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_2ba4d904"
+                    TAGREFS="LT499"
+                    BASELINE="67 557 157 556" 
+                    HPOS="63"
+                    VPOS="470"
+                    WIDTH="93"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="66 563 156 558 156 554 153 470 63 470 66 556"/></Shape>
+	    <String CONTENT="A"
+                    HPOS="63"
+                    VPOS="470"
+                    WIDTH="93"
+                    HEIGHT="93"></String>
           </TextLine>
 
           
