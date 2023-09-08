@@ -119,11 +119,11 @@ characters:
   - Z
   - ꝫ
   - ̌
-  - ꝗ
   - k
   - "'"
   - ̾
   - ̇
+  - ꝗ
   mode: NFD
 description: Data for the SETAF project
 format: Alto-XML
@@ -148,11 +148,11 @@ time:
 title: HTR-SETAF-Pierre-de-Vingle
 url: https://github.com/SETAFDH/HTR-SETAF-Pierre-de-Vingle
 volume:
-- count: 423683
+- count: 423685
   metric: characters
 - count: 720
   metric: files
-- count: 17688
+- count: 17696
   metric: lines
 - count: 2281
   metric: regions
