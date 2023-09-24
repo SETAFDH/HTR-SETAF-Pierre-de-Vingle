@@ -25,30 +25,13 @@
                   WIDTH="1085"
                   HEIGHT="1619">
         
-        <TextBlock HPOS="328"
-                   VPOS="154"
-                   WIDTH="628"
-                   HEIGHT="1125"
-                   ID="eSc_textblock_0668e4ab"
-                   TAGREFS="BT767">
-          <Shape><Polygon POINTS="328 154 329 1279 956 1279 956 171"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_06a4bc2a"
-                    TAGREFS="LT265"
-                    BASELINE="398 215 908 213" 
-                    HPOS="396"
-                    VPOS="167"
-                    WIDTH="512"
-                    HEIGHT="61">
-            <Shape><Polygon POINTS="869 168 862 167 850 176 848 176 847 176 813 167 801 167 800 167 773 174 767 175 765 174 754 167 747 167 734 167 720 167 707 167 703 167 697 172 692 178 649 179 614 179 597 169 593 167 585 167 572 167 558 167 545 167 531 167 518 167 504 167 499 167 491 172 479 167 477 167 464 167 450 167 437 167 423 167 410 167 396 169 398 215 398 221 441 228 442 228 476 221 485 218 666 218 670 219 681 225 682 225 684 225 685 225 686 225 686 223 692 219 693 218 713 219 817 226 819 226 856 219 896 226 897 226 898 226 900 226 908 219 908 213 906 178 894 169 882 169"/></Shape>
-	    <String CONTENT="¶ De Dieu Chapitre.i."
-                    HPOS="396"
-                    VPOS="167"
-                    WIDTH="512"
-                    HEIGHT="61"></String>
-          </TextLine>
-
+        <TextBlock HPOS="332"
+                   VPOS="213"
+                   WIDTH="175"
+                   HEIGHT="182"
+                   ID="eSc_textblock_9871520f"
+                   TAGREFS="BT766">
+          <Shape><Polygon POINTS="334 213 332 390 504 395 507 228"/></Shape>
           
           
           <TextLine ID="eSc_line_e4f0ed68"
@@ -64,6 +47,33 @@
                     VPOS="207"
                     WIDTH="167"
                     HEIGHT="186"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="329"
+                   VPOS="156"
+                   WIDTH="627"
+                   HEIGHT="1123"
+                   ID="eSc_textblock_0668e4ab"
+                   TAGREFS="BT767">
+          <Shape><Polygon POINTS="329 156 329 1279 956 1279 956 171"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_06a4bc2a"
+                    TAGREFS="LT265"
+                    BASELINE="398 215 908 213" 
+                    HPOS="396"
+                    VPOS="167"
+                    WIDTH="512"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="869 168 862 167 850 176 848 176 847 176 813 167 801 167 800 167 773 174 767 175 765 174 754 167 747 167 734 167 720 167 707 167 703 167 697 172 692 178 649 179 614 179 597 169 593 167 585 167 572 167 558 167 545 167 531 167 518 167 504 167 499 167 491 172 479 167 477 167 464 167 450 167 437 167 423 167 410 167 396 169 398 215 398 221 441 228 442 228 476 221 485 218 666 218 670 219 681 225 682 225 684 225 685 225 686 225 686 223 692 219 693 218 713 219 817 226 819 226 856 219 896 226 897 226 898 226 900 226 908 219 908 213 906 178 894 169 882 169"/></Shape>
+	    <String CONTENT="¶ De Dieu Chapitre.i."
+                    HPOS="396"
+                    VPOS="167"
+                    WIDTH="512"
+                    HEIGHT="61"></String>
           </TextLine>
 
           
@@ -599,16 +609,6 @@
                     HEIGHT="80"></String>
           </TextLine>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="319"
-                   VPOS="213"
-                   WIDTH="188"
-                   HEIGHT="182"
-                   ID="eSc_textblock_9871520f"
-                   TAGREFS="BT766">
-          <Shape><Polygon POINTS="324 213 319 390 504 395 507 228"/></Shape>
           
         </TextBlock>
         

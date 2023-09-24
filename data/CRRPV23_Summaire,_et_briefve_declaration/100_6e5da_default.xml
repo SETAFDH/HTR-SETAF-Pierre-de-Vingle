@@ -26,12 +26,12 @@
                   HEIGHT="1619">
         
         <TextBlock HPOS="48"
-                   VPOS="150"
+                   VPOS="146"
                    WIDTH="645"
-                   HEIGHT="1123"
+                   HEIGHT="1127"
                    ID="eSc_textblock_ea91657a"
                    TAGREFS="BT767">
-          <Shape><Polygon POINTS="58 150 48 1273 684 1269 693 160"/></Shape>
+          <Shape><Polygon POINTS="51 146 48 1273 684 1269 693 160"/></Shape>
           
           
           <TextLine ID="eSc_line_bdef19f2"
@@ -132,23 +132,6 @@
                     VPOS="377"
                     WIDTH="477"
                     HEIGHT="65"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_e2ff23ff"
-                    TAGREFS="LT267"
-                    BASELINE="87 580 144 583 229 582" 
-                    HPOS="85"
-                    VPOS="430"
-                    WIDTH="143"
-                    HEIGHT="167">
-            <Shape><Polygon POINTS="85 597 226 597 228 581 222 458 86 430 86 578"/></Shape>
-	    <String CONTENT="L"
-                    HPOS="85"
-                    VPOS="430"
-                    WIDTH="143"
-                    HEIGHT="167"></String>
           </TextLine>
 
           
@@ -460,28 +443,28 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="416"
-                   VPOS="1253"
-                   WIDTH="264"
-                   HEIGHT="68"
-                   ID="eSc_textblock_042a12a6"
-                   TAGREFS="BT1359">
-          <Shape><Polygon POINTS="416 1261 416 1319 676 1321 680 1253"/></Shape>
+        <TextBlock HPOS="71"
+                   VPOS="435"
+                   WIDTH="153"
+                   HEIGHT="160"
+                   ID="eSc_textblock_d8ef22f2"
+                   TAGREFS="BT766">
+          <Shape><Polygon POINTS="82 435 71 592 224 595 224 435"/></Shape>
           
           
-          <TextLine ID="eSc_line_59bb8fff"
-                    TAGREFS="LT266"
-                    BASELINE="425 1308 660 1309" 
-                    HPOS="422"
-                    VPOS="1260"
-                    WIDTH="237"
-                    HEIGHT="64">
-            <Shape><Polygon POINTS="423 1307 422 1318 527 1315 530 1318 535 1322 535 1323 537 1323 538 1323 539 1324 616 1324 616 1323 658 1314 659 1308 658 1266 609 1260 608 1260 584 1264 582 1264 581 1264 581 1265 578 1266 568 1279 502 1279 487 1266 477 1260 476 1260 475 1260 473 1260 423 1266 423 1307"/></Shape>
-	    <String CONTENT="G Oster"
-                    HPOS="422"
-                    VPOS="1260"
-                    WIDTH="237"
-                    HEIGHT="64"></String>
+          <TextLine ID="eSc_line_e2ff23ff"
+                    TAGREFS="LT267"
+                    BASELINE="87 580 144 583 229 582" 
+                    HPOS="85"
+                    VPOS="430"
+                    WIDTH="143"
+                    HEIGHT="167">
+            <Shape><Polygon POINTS="85 597 226 597 228 581 222 458 86 430 86 578"/></Shape>
+	    <String CONTENT="L"
+                    HPOS="85"
+                    VPOS="430"
+                    WIDTH="143"
+                    HEIGHT="167"></String>
           </TextLine>
 
           
@@ -690,13 +673,30 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="71"
-                   VPOS="435"
-                   WIDTH="153"
-                   HEIGHT="160"
-                   ID="eSc_textblock_d8ef22f2"
-                   TAGREFS="BT766">
-          <Shape><Polygon POINTS="82 435 71 592 224 595 224 435"/></Shape>
+        <TextBlock HPOS="416"
+                   VPOS="1253"
+                   WIDTH="264"
+                   HEIGHT="68"
+                   ID="eSc_textblock_042a12a6"
+                   TAGREFS="BT1359">
+          <Shape><Polygon POINTS="416 1261 416 1319 676 1321 680 1253"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_59bb8fff"
+                    TAGREFS="LT266"
+                    BASELINE="425 1308 660 1309" 
+                    HPOS="422"
+                    VPOS="1260"
+                    WIDTH="237"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="423 1307 422 1318 527 1315 530 1318 535 1322 535 1323 537 1323 538 1323 539 1324 616 1324 616 1323 658 1314 659 1308 658 1266 609 1260 608 1260 584 1264 582 1264 581 1264 581 1265 578 1266 568 1279 502 1279 487 1266 477 1260 476 1260 475 1260 473 1260 423 1266 423 1307"/></Shape>
+	    <String CONTENT="G Oster"
+                    HPOS="422"
+                    VPOS="1260"
+                    WIDTH="237"
+                    HEIGHT="64"></String>
+          </TextLine>
+
           
         </TextBlock>
         
