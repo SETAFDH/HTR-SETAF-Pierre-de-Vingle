@@ -35,7 +35,7 @@
           
           
           <TextLine ID="eSc_line_35e34fea"
-                    
+                    TAGREFS="LT267"
                     BASELINE="119 531 262 529" 
                     HPOS="118"
                     VPOS="370"
@@ -52,13 +52,13 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="98"
-                   VPOS="167"
-                   WIDTH="647"
-                   HEIGHT="1136"
+        <TextBlock HPOS="100"
+                   VPOS="162"
+                   WIDTH="645"
+                   HEIGHT="1141"
                    ID="eSc_textblock_e6399081"
                    TAGREFS="BT767">
-          <Shape><Polygon POINTS="98 167 100 1301 745 1303 738 173"/></Shape>
+          <Shape><Polygon POINTS="101 162 100 1301 745 1303 738 173"/></Shape>
           
           
           <TextLine ID="eSc_line_2a0b87fc"
@@ -524,13 +524,13 @@
           
           
           <TextLine ID="eSc_line_a2a99391"
-                    
+                    TAGREFS="LT266"
                     BASELINE="743 254 871 254" 
                     HPOS="742"
                     VPOS="211"
                     WIDTH="128"
                     HEIGHT="54">
-            <Shape><Polygon POINTS="742 253 742 265 870 264 870 253 870 213 742 211 742 253"/></Shape>
+            <Shape><Polygon POINTS="742 265 870 264 870 253 870 213 742 211 742 253"/></Shape>
 	    <String CONTENT="ui.⁊.uiii"
                     HPOS="742"
                     VPOS="211"

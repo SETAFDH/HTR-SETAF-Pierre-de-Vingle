@@ -25,30 +25,13 @@
                   WIDTH="1085"
                   HEIGHT="1619">
         
-        <TextBlock HPOS="333"
-                   VPOS="131"
-                   WIDTH="650"
-                   HEIGHT="1141"
-                   ID="eSc_textblock_8a882d88"
-                   TAGREFS="BT767">
-          <Shape><Polygon POINTS="335 140 333 1272 983 1256 973 131"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_e8e0fbb3"
-                    TAGREFS="LT265"
-                    BASELINE="453 187 905 183" 
-                    HPOS="453"
-                    VPOS="140"
-                    WIDTH="452"
-                    HEIGHT="59">
-            <Shape><Polygon POINTS="883 140 870 140 856 140 848 140 840 141 838 140 829 140 816 140 802 140 789 140 775 140 762 140 748 140 735 140 721 140 708 140 694 140 681 140 668 140 666 140 628 143 615 143 609 143 597 140 587 140 573 140 560 140 557 140 550 143 543 144 531 143 516 140 506 140 492 140 479 140 465 140 453 156 453 187 453 192 601 199 603 199 636 192 883 196 885 196 886 196 905 188 905 183 904 149 897 140"/></Shape>
-	    <String CONTENT="¶ De foy. Chap̃.xi."
-                    HPOS="453"
-                    VPOS="140"
-                    WIDTH="452"
-                    HEIGHT="59"></String>
-          </TextLine>
-
+        <TextBlock HPOS="346"
+                   VPOS="197"
+                   WIDTH="170"
+                   HEIGHT="172"
+                   ID="eSc_textblock_815e86e8"
+                   TAGREFS="BT766">
+          <Shape><Polygon POINTS="352 197 346 369 516 365 516 198"/></Shape>
           
           
           <TextLine ID="eSc_line_6ee2c154"
@@ -64,6 +47,33 @@
                     VPOS="190"
                     WIDTH="167"
                     HEIGHT="181"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="333"
+                   VPOS="126"
+                   WIDTH="650"
+                   HEIGHT="1146"
+                   ID="eSc_textblock_8a882d88"
+                   TAGREFS="BT767">
+          <Shape><Polygon POINTS="340 130 333 1272 983 1256 978 126"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_e8e0fbb3"
+                    TAGREFS="LT265"
+                    BASELINE="453 187 905 183" 
+                    HPOS="453"
+                    VPOS="140"
+                    WIDTH="452"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="883 140 870 140 856 140 848 140 840 141 838 140 829 140 816 140 802 140 789 140 775 140 762 140 748 140 735 140 721 140 708 140 694 140 681 140 668 140 666 140 628 143 615 143 609 143 597 140 587 140 573 140 560 140 557 140 550 143 543 144 531 143 516 140 506 140 492 140 479 140 465 140 453 156 453 187 453 192 601 199 603 199 636 192 883 196 885 196 886 196 905 188 905 183 904 149 897 140"/></Shape>
+	    <String CONTENT="¶ De foy. Chap̃.xi."
+                    HPOS="453"
+                    VPOS="140"
+                    WIDTH="452"
+                    HEIGHT="59"></String>
           </TextLine>
 
           
@@ -511,16 +521,6 @@
                     HEIGHT="79"></String>
           </TextLine>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="346"
-                   VPOS="197"
-                   WIDTH="170"
-                   HEIGHT="172"
-                   ID="eSc_textblock_815e86e8"
-                   TAGREFS="BT766">
-          <Shape><Polygon POINTS="352 197 346 369 516 365 516 198"/></Shape>
           
         </TextBlock>
         
