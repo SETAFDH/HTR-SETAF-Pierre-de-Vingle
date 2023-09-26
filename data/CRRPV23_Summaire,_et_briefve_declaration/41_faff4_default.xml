@@ -25,13 +25,40 @@
                   WIDTH="1085"
                   HEIGHT="1619">
         
-        <TextBlock HPOS="351"
-                   VPOS="156"
-                   WIDTH="654"
-                   HEIGHT="1126"
+        <TextBlock HPOS="357"
+                   VPOS="215"
+                   WIDTH="180"
+                   HEIGHT="169"
+                   ID="eSc_textblock_ac87c45d"
+                   TAGREFS="BT766">
+          <Shape><Polygon POINTS="359 221 357 384 537 380 532 215"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_cbdf72cb"
+                    TAGREFS="LT267"
+                    BASELINE="383 366 523 367" 
+                    HPOS="378"
+                    VPOS="223"
+                    WIDTH="145"
+                    HEIGHT="162">
+            <Shape><Polygon POINTS="380 377 404 385 406 385 407 385 520 379 522 366 520 344 520 328 523 245 378 223 381 365"/></Shape>
+	    <String CONTENT="L"
+                    HPOS="378"
+                    VPOS="223"
+                    WIDTH="145"
+                    HEIGHT="162"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="349"
+                   VPOS="143"
+                   WIDTH="659"
+                   HEIGHT="1145"
                    ID="eSc_textblock_8017d16e"
                    TAGREFS="BT767">
-          <Shape><Polygon POINTS="351 156 364 1282 1005 1271 998 161"/></Shape>
+          <Shape><Polygon POINTS="349 150 354 1288 1008 1281 1004 143"/></Shape>
           
           
           <TextLine ID="eSc_line_7a387aff"
@@ -47,23 +74,6 @@
                     VPOS="156"
                     WIDTH="612"
                     HEIGHT="54"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_cbdf72cb"
-                    TAGREFS="LT267"
-                    BASELINE="370 369 525 372" 
-                    HPOS="368"
-                    VPOS="204"
-                    WIDTH="158"
-                    HEIGHT="181">
-            <Shape><Polygon POINTS="368 380 376 385 377 385 379 385 380 385 523 380 526 371 524 204 430 220 421 215 409 210 406 210 372 212 369 342 369 368"/></Shape>
-	    <String CONTENT="L"
-                    HPOS="368"
-                    VPOS="204"
-                    WIDTH="158"
-                    HEIGHT="181"></String>
           </TextLine>
 
           
@@ -460,13 +470,13 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="813"
-                   VPOS="1274"
-                   WIDTH="182"
-                   HEIGHT="52"
+        <TextBlock HPOS="811"
+                   VPOS="1264"
+                   WIDTH="190"
+                   HEIGHT="62"
                    ID="eSc_textblock_91519a16"
                    TAGREFS="BT1359">
-          <Shape><Polygon POINTS="813 1274 813 1326 995 1326 995 1274"/></Shape>
+          <Shape><Polygon POINTS="811 1266 813 1326 995 1326 1001 1264"/></Shape>
           
           
           <TextLine ID="eSc_line_13f50b65"
@@ -531,13 +541,13 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="212"
+        <TextBlock HPOS="211"
                    VPOS="919"
-                   WIDTH="147"
+                   WIDTH="153"
                    HEIGHT="98"
                    ID="eSc_textblock_2d22ab36"
                    TAGREFS="BT768">
-          <Shape><Polygon POINTS="224 919 212 1017 359 1017 359 919"/></Shape>
+          <Shape><Polygon POINTS="211 919 212 1017 359 1017 364 919"/></Shape>
           
           
           <TextLine ID="eSc_line_0b36b4c9"
@@ -572,16 +582,6 @@
                     HEIGHT="83"></String>
           </TextLine>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="357"
-                   VPOS="221"
-                   WIDTH="167"
-                   HEIGHT="163"
-                   ID="eSc_textblock_ac87c45d"
-                   TAGREFS="BT766">
-          <Shape><Polygon POINTS="359 221 357 384 524 380 524 221"/></Shape>
           
         </TextBlock>
         

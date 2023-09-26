@@ -25,13 +25,13 @@
                   WIDTH="1085"
                   HEIGHT="1619">
         
-        <TextBlock HPOS="362"
-                   VPOS="161"
-                   WIDTH="649"
-                   HEIGHT="1131"
+        <TextBlock HPOS="346"
+                   VPOS="153"
+                   WIDTH="665"
+                   HEIGHT="1139"
                    ID="eSc_textblock_c8643bfd"
                    TAGREFS="BT767">
-          <Shape><Polygon POINTS="362 161 363 1292 1011 1283 1000 171"/></Shape>
+          <Shape><Polygon POINTS="346 154 363 1292 1011 1283 1003 153"/></Shape>
           
           
           <TextLine ID="eSc_line_4115eac2"
@@ -153,23 +153,6 @@
 
           
           
-          <TextLine ID="eSc_line_cf1b41a4"
-                    TAGREFS="LT267"
-                    BASELINE="372 669 537 671" 
-                    HPOS="364"
-                    VPOS="494"
-                    WIDTH="171"
-                    HEIGHT="190">
-            <Shape><Polygon POINTS="364 684 535 684 535 670 535 651 532 514 377 494 364 647 364 670"/></Shape>
-	    <String CONTENT="P"
-                    HPOS="364"
-                    VPOS="494"
-                    WIDTH="171"
-                    HEIGHT="190"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_8317423c"
                     TAGREFS="LT266"
                     BASELINE="539 545 993 532" 
@@ -221,23 +204,6 @@
 
           
           
-          <TextLine ID="eSc_line_01cb539b"
-                    TAGREFS="LT266"
-                    BASELINE="537 678 993 674" 
-                    HPOS="535"
-                    VPOS="632"
-                    WIDTH="458"
-                    HEIGHT="58">
-            <Shape><Polygon POINTS="751 634 738 634 724 634 711 634 697 634 686 634 680 634 670 635 661 635 535 640 537 678 537 690 585 684 661 688 685 689 686 689 697 688 720 682 767 685 802 688 804 688 991 679 993 674 990 638 755 632 751 634"/></Shape>
-	    <String CONTENT="mẽt de ꝓpos ⁊ de courage."
-                    HPOS="535"
-                    VPOS="632"
-                    WIDTH="458"
-                    HEIGHT="58"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_8540b54b"
                     TAGREFS="LT266"
                     BASELINE="412 728 993 720" 
@@ -251,6 +217,23 @@
                     VPOS="678"
                     WIDTH="582"
                     HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_01cb539b"
+                    TAGREFS="LT266"
+                    BASELINE="537 678 993 674" 
+                    HPOS="535"
+                    VPOS="632"
+                    WIDTH="458"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="751 634 738 634 724 634 711 634 697 634 686 634 680 634 670 635 661 635 535 640 537 678 537 690 585 684 661 688 685 689 686 689 697 688 720 682 767 685 802 688 804 688 991 679 993 674 990 638 755 632 751 634"/></Shape>
+	    <String CONTENT="mẽt de ꝓpos ⁊ de courage."
+                    HPOS="535"
+                    VPOS="632"
+                    WIDTH="458"
+                    HEIGHT="58"></String>
           </TextLine>
 
           
@@ -466,7 +449,7 @@
                    HEIGHT="62"
                    ID="eSc_textblock_74051430"
                    TAGREFS="BT1359">
-          <Shape><Polygon POINTS="825 1284 812 1346 1000 1341 990 1284"/></Shape>
+          <Shape><Polygon POINTS="814 1284 812 1346 1000 1341 990 1284"/></Shape>
           
           
           <TextLine ID="eSc_line_bc7990f1"
@@ -489,11 +472,11 @@
         
         <TextBlock HPOS="219"
                    VPOS="510"
-                   WIDTH="125"
-                   HEIGHT="96"
+                   WIDTH="138"
+                   HEIGHT="98"
                    ID="eSc_textblock_8500bbf2"
                    TAGREFS="BT768">
-          <Shape><Polygon POINTS="223 510 219 606 344 600 344 518"/></Shape>
+          <Shape><Polygon POINTS="223 510 219 606 347 608 357 516"/></Shape>
           
           
           <TextLine ID="eSc_line_d193c28b"
@@ -542,6 +525,27 @@
         </TextBlock>
         
 
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_cf1b41a4"
+                    TAGREFS="LT267"
+                    BASELINE="390 666 531 668" 
+                    HPOS="387"
+                    VPOS="640"
+                    WIDTH="143"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="387 685 529 682 530 667 529 640 388 640 388 665"/></Shape>
+	    <String CONTENT="P"
+                    HPOS="387"
+                    VPOS="640"
+                    WIDTH="143"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+        </TextBlock>
         
       </PrintSpace>
     </Page>

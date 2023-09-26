@@ -26,12 +26,12 @@
                   HEIGHT="1619">
         
         <TextBlock HPOS="373"
-                   VPOS="131"
+                   VPOS="121"
                    WIDTH="668"
-                   HEIGHT="1129"
+                   HEIGHT="1139"
                    ID="eSc_textblock_83c622e9"
                    TAGREFS="BT767">
-          <Shape><Polygon POINTS="373 132 400 1260 1041 1241 1010 131"/></Shape>
+          <Shape><Polygon POINTS="373 132 400 1260 1041 1241 1025 121"/></Shape>
           
           
           <TextLine ID="eSc_line_ed2bc7fc"
@@ -441,32 +441,15 @@
           </TextLine>
 
           
-          
-          <TextLine ID="eSc_line_dbc122d3"
-                    TAGREFS="LT266"
-                    BASELINE="272 1241 405 1240" 
-                    HPOS="271"
-                    VPOS="1196"
-                    WIDTH="133"
-                    HEIGHT="58">
-            <Shape><Polygon POINTS="396 1211 368 1211 365 1208 354 1198 354 1196 353 1196 352 1196 350 1196 349 1196 327 1204 306 1196 304 1196 303 1196 271 1200 271 1239 271 1254 404 1247 404 1239 403 1234 396 1211"/></Shape>
-	    <String CONTENT="Gal.u."
-                    HPOS="271"
-                    VPOS="1196"
-                    WIDTH="133"
-                    HEIGHT="58"></String>
-          </TextLine>
-
-          
         </TextBlock>
         
-        <TextBlock HPOS="803"
-                   VPOS="1246"
-                   WIDTH="230"
-                   HEIGHT="48"
+        <TextBlock HPOS="793"
+                   VPOS="1238"
+                   WIDTH="240"
+                   HEIGHT="61"
                    ID="eSc_textblock_055cdc9a"
                    TAGREFS="BT1359">
-          <Shape><Polygon POINTS="803 1246 803 1294 1033 1294 1033 1246"/></Shape>
+          <Shape><Polygon POINTS="795 1240 793 1299 1033 1294 1033 1238"/></Shape>
           
           
           <TextLine ID="eSc_line_a07879d8"
@@ -489,11 +472,11 @@
         
         <TextBlock HPOS="249"
                    VPOS="540"
-                   WIDTH="145"
+                   WIDTH="148"
                    HEIGHT="105"
                    ID="eSc_textblock_84b2f88f"
                    TAGREFS="BT768">
-          <Shape><Polygon POINTS="249 540 249 645 391 645 394 540"/></Shape>
+          <Shape><Polygon POINTS="249 540 249 645 397 645 394 540"/></Shape>
           
           
           <TextLine ID="eSc_line_dcdc6ccd"
@@ -531,13 +514,13 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="260"
-                   VPOS="1114"
-                   WIDTH="139"
-                   HEIGHT="92"
+        <TextBlock HPOS="252"
+                   VPOS="1112"
+                   WIDTH="157"
+                   HEIGHT="96"
                    ID="eSc_textblock_020f2369"
                    TAGREFS="BT768">
-          <Shape><Polygon POINTS="260 1114 262 1206 399 1204 399 1116"/></Shape>
+          <Shape><Polygon POINTS="252 1112 252 1208 409 1206 407 1113"/></Shape>
           
           
           <TextLine ID="eSc_line_4b072d5c"
@@ -575,13 +558,30 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="262"
+        <TextBlock HPOS="258"
                    VPOS="1201"
-                   WIDTH="149"
-                   HEIGHT="57"
+                   WIDTH="153"
+                   HEIGHT="61"
                    ID="eSc_textblock_da005abf"
                    TAGREFS="BT768">
-          <Shape><Polygon POINTS="264 1254 262 1201 406 1201 411 1258"/></Shape>
+          <Shape><Polygon POINTS="258 1262 262 1201 406 1201 411 1258"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_dbc122d3"
+                    TAGREFS="LT266"
+                    BASELINE="272 1241 405 1240" 
+                    HPOS="271"
+                    VPOS="1196"
+                    WIDTH="133"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="396 1211 368 1211 365 1208 354 1198 354 1196 353 1196 352 1196 350 1196 349 1196 327 1204 306 1196 304 1196 303 1196 271 1200 271 1239 271 1254 404 1247 404 1239 403 1234 396 1211"/></Shape>
+	    <String CONTENT="Gal.u."
+                    HPOS="271"
+                    VPOS="1196"
+                    WIDTH="133"
+                    HEIGHT="58"></String>
+          </TextLine>
+
           
         </TextBlock>
         
