@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>9_c0769_default.jpg</fileName>
+      <fileIdentifier>https://www.e-rara.ch/i3f/v20/11404847/full/full/0/default.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1397" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1398" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1399" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1400" LABEL="MarginTextZone:handwrittenAddition" DESCRIPTION="block type MarginTextZone:handwrittenAddition"/><OtherTag ID="BT1401" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1402" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1403" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1404" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT510" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT511" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT512" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="980"
+          HEIGHT="1608"
+          PHYSICAL_IMG_NR="9"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="980"
+                  HEIGHT="1608">
+        
+        <TextBlock HPOS="401"
+                   VPOS="1108"
+                   WIDTH="248"
+                   HEIGHT="99"
+                   ID="eSc_textblock_5fb421fb"
+                   TAGREFS="BT1404">
+          <Shape><Polygon POINTS="401 1108 401 1207 649 1207 649 1108"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="142"
+                   VPOS="238"
+                   WIDTH="773"
+                   HEIGHT="924"
+                   ID="eSc_textblock_16b40b9d"
+                   TAGREFS="BT1403">
+          <Shape><Polygon POINTS="142 238 142 1162 915 1162 915 238"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
