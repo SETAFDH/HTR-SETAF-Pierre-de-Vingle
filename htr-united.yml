@@ -49,8 +49,8 @@ characters:
   - c
   - d
   - p
-  - m
   - .
+  - m
   - ̃
   - /
   - f
@@ -61,54 +61,54 @@ characters:
   - b
   - ⁊
   - z
-  - '-'
   - x
   - ':'
   - C
   - I
-  - ','
   - E
   - D
   - '1'
-  - P
+  - '-'
+  - ¬
   - L
+  - P
   - A
-  - S
   - M
+  - S
   - '2'
   - ¶
   - '3'
   - ͥ
-  - Q
   - T
+  - Q
   - N
   - '4'
   - ͬ
   - R
   - '5'
-  - ꝰ
-  - '?'
-  - '6'
   - U
+  - '?'
+  - ꝰ
+  - '6'
   - O
   - H
+  - ','
   - '0'
-  - )
-  - (
   - G
+  - (
+  - )
   - B
   - '9'
-  - '8'
   - '7'
-  - ¬
+  - '8'
   - ꝓ
   - F
   - ꝑ
   - ̈
   -  
-  - ꝯ
   - ◊
   - ł
+  - ꝯ
   - ꝝ
   - ð
   - "'"
@@ -120,12 +120,10 @@ characters:
   - Z
   - V
   - X
-  - ᑕ
   - ́
-  - ;
   - J
   - ꝫ
-  - ᗞ
+  - ;
   - w
   - ꝗ
   - ̇
@@ -156,11 +154,11 @@ transcription-guidelines: A presentation of the rules established for the transc
   will be available on our website.
 url: https://github.com/SETAFDH/HTR-SETAF-Pierre-de-Vingle
 volume:
-- count: 654744
+- count: 572102
   metric: characters
-- count: 980
+- count: 802
   metric: files
-- count: 25341
+- count: 22340
   metric: lines
-- count: 2953
+- count: 2581
   metric: regions
