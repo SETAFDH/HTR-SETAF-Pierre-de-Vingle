@@ -25,13 +25,13 @@
                   WIDTH="1085"
                   HEIGHT="1619">
         
-        <TextBlock HPOS="360"
+        <TextBlock HPOS="364"
                    VPOS="126"
-                   WIDTH="659"
-                   HEIGHT="1133"
+                   WIDTH="655"
+                   HEIGHT="1150"
                    ID="eSc_textblock_96d26fad"
                    TAGREFS="BT767">
-          <Shape><Polygon POINTS="375 126 360 1259 1019 1259 1015 130"/></Shape>
+          <Shape><Polygon POINTS="375 126 364 1276 1019 1259 1015 130"/></Shape>
           
           
           <TextLine ID="eSc_line_529f395e"
@@ -178,7 +178,7 @@
                     WIDTH="625"
                     HEIGHT="64">
             <Shape><Polygon POINTS="495 497 485 497 469 503 465 503 387 503 387 539 385 546 416 557 418 557 419 558 526 558 526 557 527 557 542 550 584 558 585 558 626 550 638 558 639 558 641 558 699 559 700 559 736 551 757 559 758 559 759 559 823 551 831 558 831 559 832 559 833 559 835 559 901 553 958 561 959 561 1009 551 1010 545 1010 504 511 504 510 503 503 497 495 497"/></Shape>
-	    <String CONTENT="ce en luy/ ⁊ non pas en uoz confes-"
+	    <String CONTENT="ce en luy/ ⁊ non pas en uoz confes¬"
                     HPOS="385"
                     VPOS="497"
                     WIDTH="625"
@@ -212,7 +212,7 @@
                     WIDTH="620"
                     HEIGHT="59">
             <Shape><Polygon POINTS="816 590 815 590 813 590 797 597 794 597 784 596 732 590 731 590 730 590 711 596 701 597 685 594 645 589 643 589 642 589 624 594 618 596 614 594 604 589 603 589 601 589 580 593 570 596 561 593 541 588 539 588 538 588 537 588 522 593 516 594 387 592 387 632 385 647 1004 647 1005 638 1004 600 862 592 860 592 859 592 858 592 851 597 850 599 843 597 817 590 816 590"/></Shape>
-	    <String CONTENT="ces cruelz tyrãtz pleins de tout or-"
+	    <String CONTENT="ces cruelz tyrãtz pleins de tout or¬"
                     HPOS="385"
                     VPOS="588"
                     WIDTH="620"
@@ -331,7 +331,7 @@
                     WIDTH="467"
                     HEIGHT="62">
             <Shape><Polygon POINTS="917 914 916 914 914 914 902 917 886 921 860 917 831 913 829 913 796 917 773 920 757 917 735 913 726 913 716 913 686 917 672 918 665 917 649 912 645 912 631 912 620 912 537 916 537 955 535 961 561 970 562 970 564 970 627 964 638 964 999 974 1002 960 999 918 937 921 927 917 919 914 917 914"/></Shape>
-	    <String CONTENT="contrit/ nest pas une froi-"
+	    <String CONTENT="contrit/ nest pas une froi¬"
                     HPOS="535"
                     VPOS="912"
                     WIDTH="467"
@@ -444,12 +444,12 @@
         </TextBlock>
         
         <TextBlock HPOS="379"
-                   VPOS="887"
-                   WIDTH="164"
-                   HEIGHT="165"
+                   VPOS="875"
+                   WIDTH="168"
+                   HEIGHT="177"
                    ID="eSc_textblock_9a3b808f"
                    TAGREFS="BT766">
-          <Shape><Polygon POINTS="391 887 379 1036 543 1052 531 887"/></Shape>
+          <Shape><Polygon POINTS="391 887 379 1036 543 1052 547 875"/></Shape>
           
           
           <TextLine ID="eSc_line_e841f222"
@@ -629,7 +629,7 @@
                     WIDTH="123"
                     HEIGHT="56">
             <Shape><Polygon POINTS="340 720 326 720 313 720 303 723 302 723 300 721 298 720 286 720 272 720 259 720 257 719 245 720 246 759 246 767 367 775 368 758 365 724 348 720 340 720"/></Shape>
-	    <String CONTENT="Gala-"
+	    <String CONTENT="Gala¬"
                     HPOS="245"
                     VPOS="719"
                     WIDTH="123"
