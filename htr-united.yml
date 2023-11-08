@@ -84,8 +84,9 @@ characters:
   - Q
   - '4'
   - ͬ
-  - '5'
   - R
+  - '5'
+  - ','
   - U
   - '?'
   - ꝰ
@@ -93,7 +94,6 @@ characters:
   - O
   - '0'
   - H
-  - ','
   - G
   - B
   - (
@@ -109,6 +109,7 @@ characters:
   -  
   - ꝯ
   - ◊
+  - ;
   - ð
   - ꝝ
   - "'"
@@ -116,14 +117,13 @@ characters:
   - k
   - v
   - Z
+  - V
   - K
   - ́
-  - V
   - Y
   - X
   - J
   - ꝫ
-  - ;
   - w
   - ꝗ
   - ̇
@@ -157,11 +157,11 @@ transcription-guidelines: Our data follow SegmOnto segmentation standards (https
   our website.
 url: https://github.com/SETAFDH/HTR-SETAF-Pierre-de-Vingle
 volume:
-- count: 648215
+- count: 655448
   metric: characters
-- count: 895
+- count: 905
   metric: files
-- count: 24703
+- count: 24969
   metric: lines
-- count: 2815
+- count: 2847
   metric: regions
