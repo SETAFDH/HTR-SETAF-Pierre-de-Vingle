@@ -474,7 +474,7 @@
                    VPOS="390"
                    WIDTH="168"
                    HEIGHT="109"
-                   ID="eSc_textblock_27b16617"
+                   ID="eSc_textblock_b65511d3"
                    TAGREFS="BT1516">
           <Shape><Polygon POINTS="85 390 85 499 253 499 253 390"/></Shape>
           
@@ -498,17 +498,17 @@
           
           <TextLine ID="eSc_line_732d7480"
                     TAGREFS="LT567"
-                    BASELINE="109 474 241 474" 
-                    HPOS="109"
+                    BASELINE="106 472 241 474" 
+                    HPOS="103"
                     VPOS="432"
-                    WIDTH="132"
-                    HEIGHT="72">
-            <Shape><Polygon POINTS="205 432 204 432 202 432 177 441 160 432 160 433 148 433 118 441 109 459 109 474 109 501 157 504 159 504 160 504 161 504 170 497 193 485 227 485 237 492 241 474 241 441 206 432 205 432"/></Shape>
+                    WIDTH="137"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="105 470 103 488 109 494 109 495 110 495 111 495 112 496 173 496 173 495 174 495 175 495 183 488 191 485 237 491 240 473 237 432 105 433 105 470"/></Shape>
 	    <String CONTENT="salo.iiii."
-                    HPOS="109"
+                    HPOS="103"
                     VPOS="432"
-                    WIDTH="132"
-                    HEIGHT="72"></String>
+                    WIDTH="137"
+                    HEIGHT="64"></String>
           </TextLine>
 
           
@@ -538,16 +538,6 @@
                     HEIGHT="59"></String>
           </TextLine>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="85"
-                   VPOS="390"
-                   WIDTH="168"
-                   HEIGHT="109"
-                   ID="eSc_textblock_b65511d3"
-                   TAGREFS="BT1516">
-          <Shape><Polygon POINTS="85 390 85 499 253 499 253 390"/></Shape>
           
         </TextBlock>
         
