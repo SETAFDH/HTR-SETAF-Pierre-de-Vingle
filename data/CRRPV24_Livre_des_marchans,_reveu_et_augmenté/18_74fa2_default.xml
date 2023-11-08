@@ -25,16 +25,6 @@
                   WIDTH="918"
                   HEIGHT="1540">
         
-        <TextBlock HPOS="508"
-                   VPOS="1221"
-                   WIDTH="184"
-                   HEIGHT="56"
-                   ID="eSc_textblock_b17ee6a0"
-                   TAGREFS="BT1521">
-          <Shape><Polygon POINTS="508 1221 510 1277 692 1266 692 1221"/></Shape>
-          
-        </TextBlock>
-        
         <TextBlock HPOS="51"
                    VPOS="89"
                    WIDTH="659"
@@ -42,12 +32,6 @@
                    ID="eSc_textblock_b81ea160"
                    TAGREFS="BT1515">
           <Shape><Polygon POINTS="51 89 51 1228 710 1220 710 89"/></Shape>
-          
-        </TextBlock>
-        
-
-        
-        <TextBlock ID="eSc_dummyblock_">
           
           
           <TextLine ID="eSc_line_4743e287"
@@ -233,23 +217,6 @@
                     VPOS="555"
                     WIDTH="618"
                     HEIGHT="54"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_f78bfebd"
-                    TAGREFS="LT567"
-                    BASELINE="69 648 684 648" 
-                    HPOS="69"
-                    VPOS="600"
-                    WIDTH="615"
-                    HEIGHT="59">
-            <Shape><Polygon POINTS="571 600 570 600 568 600 552 608 550 610 516 610 514 608 507 601 507 600 505 600 504 600 493 600 480 600 467 600 466 600 464 600 451 608 448 609 432 607 386 600 377 600 354 607 340 610 314 610 310 605 304 601 300 601 292 601 269 605 247 609 234 605 223 601 210 601 193 605 183 607 170 604 155 601 146 601 143 601 141 604 133 609 69 604 69 648 69 659 684 657 684 648 684 610 636 603 635 603 634 603 632 603 625 609 614 601 613 601 612 601 611 601 609 601 591 609 590 609 572 600 571 600"/></Shape>
-	    <String CONTENT="Pasq̃s/ Pẽthecoste/ la Toussaĩctz/"
-                    HPOS="69"
-                    VPOS="600"
-                    WIDTH="615"
-                    HEIGHT="59"></String>
           </TextLine>
 
           
@@ -457,6 +424,16 @@
           </TextLine>
 
           
+        </TextBlock>
+        
+        <TextBlock HPOS="508"
+                   VPOS="1221"
+                   WIDTH="184"
+                   HEIGHT="56"
+                   ID="eSc_textblock_b17ee6a0"
+                   TAGREFS="BT1521">
+          <Shape><Polygon POINTS="508 1221 510 1277 692 1266 692 1221"/></Shape>
+          
           
           <TextLine ID="eSc_line_6e57dc5c"
                     TAGREFS="LT567"
@@ -471,6 +448,29 @@
                     VPOS="1212"
                     WIDTH="150"
                     HEIGHT="64"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_f78bfebd"
+                    TAGREFS="LT567"
+                    BASELINE="66 650 684 648" 
+                    HPOS="69"
+                    VPOS="600"
+                    WIDTH="615"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="570 600 568 600 552 608 550 610 516 610 514 608 507 601 507 600 505 600 504 600 493 600 480 600 467 600 466 600 464 600 451 608 448 609 432 607 386 600 377 600 354 607 340 610 314 610 310 605 304 601 300 601 292 601 269 605 247 609 234 605 223 601 210 601 193 605 183 607 170 604 155 601 146 601 143 601 141 604 133 609 69 604 69 648 69 659 684 657 684 648 684 610 636 603 635 603 634 603 632 603 625 609 614 601 613 601 612 601 611 601 609 601 591 609 590 609 572 600 571 600"/></Shape>
+	    <String CONTENT="Pasq̃s/ Pẽthecoste/ la Toussaĩctz/"
+                    HPOS="69"
+                    VPOS="600"
+                    WIDTH="615"
+                    HEIGHT="59"></String>
           </TextLine>
 
           
