@@ -26,12 +26,12 @@
                   HEIGHT="1619">
         
         <TextBlock HPOS="362"
-                   VPOS="510"
+                   VPOS="512"
                    WIDTH="182"
-                   HEIGHT="175"
+                   HEIGHT="173"
                    ID="eSc_textblock_78874a83"
                    TAGREFS="BT766">
-          <Shape><Polygon POINTS="371 510 362 685 543 682 544 512"/></Shape>
+          <Shape><Polygon POINTS="371 512 362 685 543 682 544 512"/></Shape>
           
           
           <TextLine ID="eSc_line_cf1b41a4"
@@ -52,13 +52,13 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="351"
+        <TextBlock HPOS="348"
                    VPOS="153"
-                   WIDTH="660"
-                   HEIGHT="1139"
+                   WIDTH="663"
+                   HEIGHT="1147"
                    ID="eSc_textblock_c8643bfd"
                    TAGREFS="BT767">
-          <Shape><Polygon POINTS="351 161 363 1292 1011 1283 1003 153"/></Shape>
+          <Shape><Polygon POINTS="348 159 363 1300 1011 1283 1003 153"/></Shape>
           
           
           <TextLine ID="eSc_line_4115eac2"
@@ -222,7 +222,7 @@
                     WIDTH="462"
                     HEIGHT="58">
             <Shape><Polygon POINTS="879 584 866 584 852 584 839 584 825 584 824 584 813 589 812 589 811 589 794 585 785 585 771 585 758 585 744 585 731 585 717 585 704 586 690 586 677 586 676 586 618 590 614 588 609 588 596 588 582 588 569 588 568 588 529 593 530 636 530 642 990 632 991 628 989 586 882 584 879 584"/></Shape>
-	    <String CONTENT="chãgemẽt de uie/ change¬"
+	    <String CONTENT="chãgemẽt de uie/ change"
                     HPOS="529"
                     VPOS="584"
                     WIDTH="462"
@@ -470,6 +470,33 @@
           
         </TextBlock>
         
+        <TextBlock HPOS="812"
+                   VPOS="1284"
+                   WIDTH="188"
+                   HEIGHT="62"
+                   ID="eSc_textblock_74051430"
+                   TAGREFS="BT1359">
+          <Shape><Polygon POINTS="814 1284 812 1346 1000 1341 990 1284"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_bc7990f1"
+                    TAGREFS="LT266"
+                    BASELINE="828 1323 991 1320" 
+                    HPOS="827"
+                    VPOS="1276"
+                    WIDTH="164"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="828 1323 828 1341 991 1335 991 1320 989 1281 913 1276 912 1276 910 1276 886 1284 885 1284 863 1277 862 1277 860 1277 859 1277 827 1285 828 1323"/></Shape>
+	    <String CONTENT="plaisirs/"
+                    HPOS="827"
+                    VPOS="1276"
+                    WIDTH="164"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
         <TextBlock HPOS="219"
                    VPOS="510"
                    WIDTH="138"
@@ -509,33 +536,6 @@
                     VPOS="551"
                     WIDTH="59"
                     HEIGHT="70"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="812"
-                   VPOS="1284"
-                   WIDTH="188"
-                   HEIGHT="62"
-                   ID="eSc_textblock_74051430"
-                   TAGREFS="BT1359">
-          <Shape><Polygon POINTS="814 1284 812 1346 1000 1341 990 1284"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_bc7990f1"
-                    TAGREFS="LT266"
-                    BASELINE="828 1323 991 1320" 
-                    HPOS="827"
-                    VPOS="1276"
-                    WIDTH="164"
-                    HEIGHT="65">
-            <Shape><Polygon POINTS="828 1323 828 1341 991 1335 991 1320 989 1281 913 1276 912 1276 910 1276 886 1284 885 1284 863 1277 862 1277 860 1277 859 1277 827 1285 828 1323"/></Shape>
-	    <String CONTENT="plaisirs/"
-                    HPOS="827"
-                    VPOS="1276"
-                    WIDTH="164"
-                    HEIGHT="65"></String>
           </TextLine>
 
           
