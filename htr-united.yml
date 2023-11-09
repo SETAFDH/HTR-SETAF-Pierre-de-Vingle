@@ -88,8 +88,8 @@ characters:
   - '5'
   - U
   - '?'
-  - ','
   - ꝰ
+  - ','
   - '6'
   - O
   - '0'
@@ -157,7 +157,7 @@ transcription-guidelines: Our data follow SegmOnto segmentation standards (https
   our website.
 url: https://github.com/SETAFDH/HTR-SETAF-Pierre-de-Vingle
 volume:
-- count: 662309
+- count: 662308
   metric: characters
 - count: 915
   metric: files
