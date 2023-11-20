@@ -27,11 +27,11 @@
         
         <TextBlock HPOS="55"
                    VPOS="158"
-                   WIDTH="666"
+                   WIDTH="656"
                    HEIGHT="1134"
                    ID="eSc_textblock_e59681f7"
                    TAGREFS="BT767">
-          <Shape><Polygon POINTS="84 158 55 1292 703 1279 721 163"/></Shape>
+          <Shape><Polygon POINTS="84 158 55 1292 703 1279 711 165"/></Shape>
           
           
           <TextLine ID="eSc_line_13bd53be"
@@ -497,67 +497,67 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="701"
+        <TextBlock HPOS="708"
                    VPOS="300"
-                   WIDTH="127"
+                   WIDTH="120"
                    HEIGHT="101"
                    ID="eSc_textblock_bb6cb39a"
                    TAGREFS="BT768">
-          <Shape><Polygon POINTS="708 300 701 401 828 400 828 300"/></Shape>
+          <Shape><Polygon POINTS="708 300 711 401 828 400 828 300"/></Shape>
           
           
           <TextLine ID="eSc_line_86899012"
                     TAGREFS="LT266"
-                    BASELINE="714 344 816 347" 
-                    HPOS="712"
-                    VPOS="295"
-                    WIDTH="103"
-                    HEIGHT="57">
-            <Shape><Polygon POINTS="713 342 712 352 813 352 815 346 815 299 715 295 713 342"/></Shape>
+                    BASELINE="718 344 816 347" 
+                    HPOS="716"
+                    VPOS="300"
+                    WIDTH="99"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="773 300 759 300 746 300 732 300 719 300 717 342 716 353 813 353 815 346 815 303 775 300 773 300"/></Shape>
 	    <String CONTENT="Marc"
-                    HPOS="712"
-                    VPOS="295"
-                    WIDTH="103"
-                    HEIGHT="57"></String>
+                    HPOS="716"
+                    VPOS="300"
+                    WIDTH="99"
+                    HEIGHT="53"></String>
           </TextLine>
 
           
           
           <TextLine ID="eSc_line_eceabb04"
                     TAGREFS="LT266"
-                    BASELINE="707 392 825 392" 
-                    HPOS="705"
+                    BASELINE="717 386 825 392" 
+                    HPOS="715"
                     VPOS="346"
-                    WIDTH="119"
+                    WIDTH="109"
                     HEIGHT="53">
-            <Shape><Polygon POINTS="705 391 705 396 823 399 824 391 823 346 705 349 705 391"/></Shape>
+            <Shape><Polygon POINTS="815 349 804 346 798 346 792 346 781 352 774 354 716 350 716 385 715 395 821 399 824 391 824 358 815 349"/></Shape>
 	    <String CONTENT="x. ⁊ .xi."
-                    HPOS="705"
+                    HPOS="715"
                     VPOS="346"
-                    WIDTH="119"
+                    WIDTH="109"
                     HEIGHT="53"></String>
           </TextLine>
 
           
         </TextBlock>
         
-        <TextBlock HPOS="696"
+        <TextBlock HPOS="702"
                    VPOS="517"
-                   WIDTH="147"
-                   HEIGHT="106"
+                   WIDTH="141"
+                   HEIGHT="104"
                    ID="eSc_textblock_1b7bbce0"
                    TAGREFS="BT768">
-          <Shape><Polygon POINTS="700 517 696 623 843 620 843 520"/></Shape>
+          <Shape><Polygon POINTS="706 517 702 621 843 620 843 520"/></Shape>
           
           
           <TextLine ID="eSc_line_6c0a91c1"
                     TAGREFS="LT266"
-                    BASELINE="708 566 843 569" 
+                    BASELINE="714 564 843 569" 
                     HPOS="705"
                     VPOS="524"
                     WIDTH="137"
                     HEIGHT="66">
-            <Shape><Polygon POINTS="707 565 705 580 839 590 842 567 842 527 707 524 707 565"/></Shape>
+            <Shape><Polygon POINTS="705 580 839 590 842 567 842 527 707 524 707 565"/></Shape>
 	    <String CONTENT="Romaĩs"
                     HPOS="705"
                     VPOS="524"

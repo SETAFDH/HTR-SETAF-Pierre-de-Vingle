@@ -376,34 +376,17 @@
           
           <TextLine ID="eSc_line_13cbe12a"
                     TAGREFS="LT265"
-                    BASELINE="118 1138 256 1137" 
-                    HPOS="116"
-                    VPOS="1092"
-                    WIDTH="139"
-                    HEIGHT="50">
-            <Shape><Polygon POINTS="117 1142 253 1141 255 1135 252 1100 116 1092 117 1137"/></Shape>
-	    <String CONTENT="cieulx."
-                    HPOS="116"
-                    VPOS="1092"
-                    WIDTH="139"
-                    HEIGHT="50"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_a907e972"
-                    TAGREFS="LT265"
-                    BASELINE="402 1134 632 1126" 
-                    HPOS="399"
-                    VPOS="1082"
-                    WIDTH="233"
-                    HEIGHT="63">
-            <Shape><Polygon POINTS="615 1082 603 1082 399 1091 402 1134 402 1140 507 1145 508 1145 631 1131 632 1126 628 1082"/></Shape>
-	    <String CONTENT="Chap̃.xuii."
-                    HPOS="399"
-                    VPOS="1082"
-                    WIDTH="233"
-                    HEIGHT="63"></String>
+                    BASELINE="118 1138 643 1127" 
+                    HPOS="117"
+                    VPOS="1080"
+                    WIDTH="525"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="596 1080 595 1080 508 1087 476 1090 456 1088 425 1084 421 1084 421 1086 418 1088 406 1099 376 1107 246 1109 210 1090 210 1091 197 1091 190 1091 157 1102 121 1092 117 1092 117 1137 117 1144 209 1149 210 1149 252 1141 271 1138 280 1141 298 1146 299 1146 300 1146 302 1146 313 1140 321 1135 377 1135 391 1138 414 1145 415 1145 416 1145 510 1144 511 1144 543 1135 550 1134 560 1135 601 1141 603 1141 641 1133 642 1126 635 1086 628 1092 614 1087 597 1080 596 1080"/></Shape>
+	    <String CONTENT="cieulx. Chap̃.xuii."
+                    HPOS="117"
+                    VPOS="1080"
+                    WIDTH="525"
+                    HEIGHT="69"></String>
           </TextLine>
 
           
@@ -514,13 +497,13 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="660"
+        <TextBlock HPOS="661"
                    VPOS="426"
-                   WIDTH="155"
-                   HEIGHT="89"
+                   WIDTH="154"
+                   HEIGHT="172"
                    ID="eSc_textblock_14deff50"
                    TAGREFS="BT768">
-          <Shape><Polygon POINTS="661 429 660 515 813 510 815 426"/></Shape>
+          <Shape><Polygon POINTS="661 429 668 598 813 593 815 426"/></Shape>
           
           
           <TextLine ID="eSc_line_171fc54a"
@@ -556,16 +539,6 @@
           </TextLine>
 
           
-        </TextBlock>
-        
-        <TextBlock HPOS="658"
-                   VPOS="504"
-                   WIDTH="154"
-                   HEIGHT="99"
-                   ID="eSc_textblock_c359b517"
-                   TAGREFS="BT768">
-          <Shape><Polygon POINTS="658 509 662 603 812 600 798 504"/></Shape>
-          
           
           <TextLine ID="eSc_line_4b5b0c6a"
                     TAGREFS="LT266"
@@ -574,7 +547,7 @@
                     VPOS="507"
                     WIDTH="125"
                     HEIGHT="50">
-            <Shape><Polygon POINTS="727 508 713 508 700 508 686 509 677 509 673 512 674 549 674 557 798 551 798 546 796 511 731 507 727 508"/></Shape>
+            <Shape><Polygon POINTS="713 508 700 508 686 509 677 509 673 512 674 549 674 557 798 551 798 546 796 511 731 507 727 508"/></Shape>
 	    <String CONTENT="Ezechi."
                     HPOS="673"
                     VPOS="507"
@@ -591,7 +564,7 @@
                     VPOS="549"
                     WIDTH="54"
                     HEIGHT="55">
-            <Shape><Polygon POINTS="717 557 703 549 701 549 700 549 699 549 674 550 674 588 673 601 724 604 727 590 726 588 717 557"/></Shape>
+            <Shape><Polygon POINTS="703 549 701 549 700 549 699 549 674 550 674 588 673 601 724 604 727 590 726 588 717 557"/></Shape>
 	    <String CONTENT="iii."
                     HPOS="673"
                     VPOS="549"

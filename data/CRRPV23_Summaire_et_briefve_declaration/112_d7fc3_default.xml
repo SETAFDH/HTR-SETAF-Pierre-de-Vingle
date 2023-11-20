@@ -54,11 +54,11 @@
         
         <TextBlock HPOS="25"
                    VPOS="108"
-                   WIDTH="648"
+                   WIDTH="638"
                    HEIGHT="1144"
                    ID="eSc_textblock_c3a70e8f"
                    TAGREFS="BT767">
-          <Shape><Polygon POINTS="46 108 25 1252 671 1250 673 131"/></Shape>
+          <Shape><Polygon POINTS="46 108 25 1252 659 1250 663 129"/></Shape>
           
           
           <TextLine ID="eSc_line_ad05f3ec"
@@ -568,13 +568,13 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="652"
+        <TextBlock HPOS="658"
                    VPOS="812"
-                   WIDTH="141"
-                   HEIGHT="97"
+                   WIDTH="135"
+                   HEIGHT="92"
                    ID="eSc_textblock_fee9f4da"
                    TAGREFS="BT768">
-          <Shape><Polygon POINTS="658 812 652 909 793 904 793 812"/></Shape>
+          <Shape><Polygon POINTS="658 812 658 903 793 904 793 812"/></Shape>
           
           
           <TextLine ID="eSc_line_fedbb7ed"
@@ -596,17 +596,17 @@
           
           <TextLine ID="eSc_line_e81b00eb"
                     TAGREFS="LT266"
-                    BASELINE="660 897 697 902" 
-                    HPOS="657"
+                    BASELINE="670 897 697 902" 
+                    HPOS="666"
                     VPOS="855"
-                    WIDTH="43"
-                    HEIGHT="59">
-            <Shape><Polygon POINTS="659 895 657 914 693 913 696 901 700 863 665 855 659 895"/></Shape>
+                    WIDTH="35"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="676 855 669 895 666 902 690 910 696 901 701 866 682 855 676 855"/></Shape>
 	    <String CONTENT="u."
-                    HPOS="657"
+                    HPOS="666"
                     VPOS="855"
-                    WIDTH="43"
-                    HEIGHT="59"></String>
+                    WIDTH="35"
+                    HEIGHT="55"></String>
           </TextLine>
 
           

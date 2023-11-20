@@ -25,13 +25,13 @@
                   WIDTH="1085"
                   HEIGHT="1619">
         
-        <TextBlock HPOS="358"
+        <TextBlock HPOS="366"
                    VPOS="149"
-                   WIDTH="660"
+                   WIDTH="652"
                    HEIGHT="1148"
                    ID="eSc_textblock_7ffe583e"
                    TAGREFS="BT767">
-          <Shape><Polygon POINTS="358 149 366 1297 1017 1287 1018 153"/></Shape>
+          <Shape><Polygon POINTS="372 149 366 1297 1017 1287 1018 153"/></Shape>
           
           
           <TextLine ID="eSc_line_58ec9819"
@@ -544,10 +544,10 @@
         <TextBlock HPOS="229"
                    VPOS="665"
                    WIDTH="140"
-                   HEIGHT="102"
+                   HEIGHT="153"
                    ID="eSc_textblock_07b5b4b2"
                    TAGREFS="BT768">
-          <Shape><Polygon POINTS="239 665 229 767 369 760 369 665"/></Shape>
+          <Shape><Polygon POINTS="239 665 229 815 369 818 369 665"/></Shape>
           
           
           <TextLine ID="eSc_line_cdd49b1b"
@@ -583,16 +583,6 @@
           </TextLine>
 
           
-        </TextBlock>
-        
-        <TextBlock HPOS="223"
-                   VPOS="765"
-                   WIDTH="146"
-                   HEIGHT="52"
-                   ID="eSc_textblock_023d93e8"
-                   TAGREFS="BT768">
-          <Shape><Polygon POINTS="228 817 223 765 369 767 359 812"/></Shape>
-          
           
           <TextLine ID="eSc_line_aedfdada"
                     TAGREFS="LT266"
@@ -601,7 +591,7 @@
                     VPOS="758"
                     WIDTH="120"
                     HEIGHT="73">
-            <Shape><Polygon POINTS="240 798 238 814 280 814 290 822 296 828 296 829 298 829 299 829 356 831 358 801 358 759 240 758 240 798"/></Shape>
+            <Shape><Polygon POINTS="238 814 280 814 290 822 296 828 296 829 298 829 299 829 356 831 358 801 358 759 240 758 240 798"/></Shape>
 	    <String CONTENT="Psal.l."
                     HPOS="238"
                     VPOS="758"

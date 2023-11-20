@@ -470,13 +470,13 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="242"
+        <TextBlock HPOS="238"
                    VPOS="812"
-                   WIDTH="149"
-                   HEIGHT="87"
+                   WIDTH="139"
+                   HEIGHT="147"
                    ID="eSc_textblock_3b57502f"
                    TAGREFS="BT768">
-          <Shape><Polygon POINTS="242 812 244 899 391 896 376 812"/></Shape>
+          <Shape><Polygon POINTS="242 812 238 959 377 958 376 812"/></Shape>
           
           
           <TextLine ID="eSc_line_9e1f7ae1"
@@ -512,16 +512,6 @@
           </TextLine>
 
           
-        </TextBlock>
-        
-        <TextBlock HPOS="232"
-                   VPOS="897"
-                   WIDTH="144"
-                   HEIGHT="52"
-                   ID="eSc_textblock_a2b055d8"
-                   TAGREFS="BT768">
-          <Shape><Polygon POINTS="232 949 232 897 376 897 376 949"/></Shape>
-          
           
           <TextLine ID="eSc_line_2d32bac9"
                     TAGREFS="LT266"
@@ -530,7 +520,7 @@
                     VPOS="893"
                     WIDTH="127"
                     HEIGHT="56">
-            <Shape><Polygon POINTS="245 937 245 949 372 947 372 937 371 893 245 897 245 937"/></Shape>
+            <Shape><Polygon POINTS="245 949 372 947 372 937 371 893 245 897 245 937"/></Shape>
 	    <String CONTENT="Luc.xi."
                     HPOS="245"
                     VPOS="893"

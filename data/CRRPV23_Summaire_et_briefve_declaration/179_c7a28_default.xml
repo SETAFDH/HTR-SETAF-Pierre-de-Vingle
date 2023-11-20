@@ -473,10 +473,10 @@
         <TextBlock HPOS="209"
                    VPOS="352"
                    WIDTH="166"
-                   HEIGHT="87"
+                   HEIGHT="161"
                    ID="eSc_textblock_db8d47db"
                    TAGREFS="BT768">
-          <Shape><Polygon POINTS="209 354 209 439 369 439 375 352"/></Shape>
+          <Shape><Polygon POINTS="209 354 213 513 361 491 375 352"/></Shape>
           
           
           <TextLine ID="eSc_line_f82fe603"
@@ -512,16 +512,6 @@
           </TextLine>
 
           
-        </TextBlock>
-        
-        <TextBlock HPOS="206"
-                   VPOS="438"
-                   WIDTH="156"
-                   HEIGHT="54"
-                   ID="eSc_textblock_a3256407"
-                   TAGREFS="BT768">
-          <Shape><Polygon POINTS="220 438 206 492 362 492 362 438"/></Shape>
-          
           
           <TextLine ID="eSc_line_4f597928"
                     TAGREFS="LT266"
@@ -530,7 +520,7 @@
                     VPOS="435"
                     WIDTH="123"
                     HEIGHT="58">
-            <Shape><Polygon POINTS="257 437 244 438 241 438 230 442 232 480 232 493 353 491 353 477 350 441 264 435 257 437"/></Shape>
+            <Shape><Polygon POINTS="244 438 241 438 230 442 232 480 232 493 353 491 353 477 350 441 264 435 257 437"/></Shape>
 	    <String CONTENT="Ebri.i."
                     HPOS="230"
                     VPOS="435"
@@ -543,11 +533,11 @@
         
         <TextBlock HPOS="216"
                    VPOS="1023"
-                   WIDTH="136"
-                   HEIGHT="87"
+                   WIDTH="138"
+                   HEIGHT="178"
                    ID="eSc_textblock_b17d1676"
                    TAGREFS="BT768">
-          <Shape><Polygon POINTS="216 1023 216 1110 352 1110 352 1023"/></Shape>
+          <Shape><Polygon POINTS="216 1023 216 1195 354 1201 352 1023"/></Shape>
           
           
           <TextLine ID="eSc_line_704f4824"
@@ -583,16 +573,6 @@
           </TextLine>
 
           
-        </TextBlock>
-        
-        <TextBlock HPOS="208"
-                   VPOS="1112"
-                   WIDTH="153"
-                   HEIGHT="83"
-                   ID="eSc_textblock_b4a617e9"
-                   TAGREFS="BT768">
-          <Shape><Polygon POINTS="208 1112 208 1195 361 1195 361 1115"/></Shape>
-          
           
           <TextLine ID="eSc_line_25f3abe6"
                     TAGREFS="LT266"
@@ -601,7 +581,7 @@
                     VPOS="1102"
                     WIDTH="118"
                     HEIGHT="48">
-            <Shape><Polygon POINTS="282 1103 268 1103 255 1103 241 1103 228 1103 228 1141 226 1150 342 1148 344 1144 344 1106 282 1102 282 1103"/></Shape>
+            <Shape><Polygon POINTS="268 1103 255 1103 241 1103 228 1103 228 1141 226 1150 342 1148 344 1144 344 1106 282 1102 282 1103"/></Shape>
 	    <String CONTENT="Gala-"
                     HPOS="226"
                     VPOS="1102"
@@ -618,7 +598,7 @@
                     VPOS="1146"
                     WIDTH="115"
                     HEIGHT="61">
-            <Shape><Polygon POINTS="228 1183 226 1206 257 1207 259 1207 260 1207 261 1207 264 1204 275 1198 338 1202 341 1185 341 1149 228 1146 228 1183"/></Shape>
+            <Shape><Polygon POINTS="226 1206 257 1207 259 1207 260 1207 261 1207 264 1204 275 1198 338 1202 341 1185 341 1149 228 1146 228 1183"/></Shape>
 	    <String CONTENT="tes.iiii."
                     HPOS="226"
                     VPOS="1146"

@@ -25,13 +25,13 @@
                   WIDTH="1085"
                   HEIGHT="1619">
         
-        <TextBlock HPOS="371"
+        <TextBlock HPOS="375"
                    VPOS="154"
-                   WIDTH="648"
-                   HEIGHT="1140"
+                   WIDTH="644"
+                   HEIGHT="1130"
                    ID="eSc_textblock_b512ba90"
                    TAGREFS="BT767">
-          <Shape><Polygon POINTS="371 164 385 1294 1019 1279 1011 154"/></Shape>
+          <Shape><Polygon POINTS="377 168 379 991 375 1284 1019 1279 1011 154"/></Shape>
           
           
           <TextLine ID="eSc_line_4ece3554"
@@ -476,22 +476,22 @@
                    HEIGHT="95"
                    ID="eSc_textblock_f7464362"
                    TAGREFS="BT768">
-          <Shape><Polygon POINTS="259 1024 249 1116 397 1119 402 1024"/></Shape>
+          <Shape><Polygon POINTS="259 1024 249 1116 385 1119 402 1024"/></Shape>
           
           
           <TextLine ID="eSc_line_c4687043"
                     TAGREFS="LT266"
-                    BASELINE="265 1064 403 1065" 
+                    BASELINE="265 1064 399 1061" 
                     HPOS="263"
-                    VPOS="1002"
-                    WIDTH="139"
-                    HEIGHT="73">
-            <Shape><Polygon POINTS="399 1044 398 1019 377 1018 360 1002 358 1002 357 1002 329 1002 327 1002 326 1002 325 1002 306 1014 303 1017 300 1014 294 1009 292 1009 291 1009 290 1009 264 1011 264 1063 263 1069 399 1075 402 1064 400 1044 399 1044"/></Shape>
+                    VPOS="1024"
+                    WIDTH="135"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="384 1024 346 1024 344 1024 330 1024 317 1024 303 1024 290 1024 276 1024 263 1024 264 1063 264 1071 396 1068 398 1060 392 1040 384 1024"/></Shape>
 	    <String CONTENT="Psalme."
                     HPOS="263"
-                    VPOS="1002"
-                    WIDTH="139"
-                    HEIGHT="73"></String>
+                    VPOS="1024"
+                    WIDTH="135"
+                    HEIGHT="47"></String>
           </TextLine>
 
           

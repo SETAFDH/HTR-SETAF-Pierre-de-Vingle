@@ -27,11 +27,11 @@
         
         <TextBlock HPOS="36"
                    VPOS="143"
-                   WIDTH="649"
+                   WIDTH="635"
                    HEIGHT="1143"
                    ID="eSc_textblock_14095afd"
                    TAGREFS="BT767">
-          <Shape><Polygon POINTS="36 150 36 1286 678 1271 685 143"/></Shape>
+          <Shape><Polygon POINTS="36 150 36 1286 670 1271 671 143"/></Shape>
           
           
           <TextLine ID="eSc_line_334a0ed5"
@@ -472,11 +472,11 @@
         
         <TextBlock HPOS="666"
                    VPOS="705"
-                   WIDTH="149"
-                   HEIGHT="85"
+                   WIDTH="165"
+                   HEIGHT="254"
                    ID="eSc_textblock_814a4019"
                    TAGREFS="BT768">
-          <Shape><Polygon POINTS="666 705 666 790 815 790 815 705"/></Shape>
+          <Shape><Polygon POINTS="666 705 672 959 831 959 815 705"/></Shape>
           
           
           <TextLine ID="eSc_line_0da58bc2"
@@ -486,7 +486,7 @@
                     VPOS="692"
                     WIDTH="135"
                     HEIGHT="63">
-            <Shape><Polygon POINTS="674 744 674 750 808 755 809 744 808 692 674 697 674 744"/></Shape>
+            <Shape><Polygon POINTS="674 750 808 755 809 744 808 692 674 697 674 744"/></Shape>
 	    <String CONTENT="Leuiticq̃"
                     HPOS="674"
                     VPOS="692"
@@ -498,88 +498,68 @@
           
           <TextLine ID="eSc_line_00abb0da"
                     TAGREFS="LT266"
-                    BASELINE="674 783 771 781" 
-                    HPOS="673"
-                    VPOS="742"
-                    WIDTH="98"
-                    HEIGHT="48">
-            <Shape><Polygon POINTS="740 742 728 742 673 746 673 747 674 783 674 790 771 786 771 781 770 748 754 743 740 742"/></Shape>
+                    BASELINE="678 781 771 781" 
+                    HPOS="677"
+                    VPOS="746"
+                    WIDTH="93"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="717 746 704 746 690 746 677 746 677 779 677 786 769 787 770 779 770 748 732 746 731 746"/></Shape>
 	    <String CONTENT="xxui."
-                    HPOS="673"
-                    VPOS="742"
-                    WIDTH="98"
-                    HEIGHT="48"></String>
+                    HPOS="677"
+                    VPOS="746"
+                    WIDTH="93"
+                    HEIGHT="41"></String>
           </TextLine>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="663"
-                   VPOS="792"
-                   WIDTH="140"
-                   HEIGHT="72"
-                   ID="eSc_textblock_6cbd0456"
-                   TAGREFS="BT768">
-          <Shape><Polygon POINTS="803 864 803 792 663 792 663 864"/></Shape>
           
           
           <TextLine ID="eSc_line_c0131f4e"
                     TAGREFS="LT266"
-                    BASELINE="669 825 793 821" 
-                    HPOS="668"
+                    BASELINE="677 825 793 821" 
+                    HPOS="673"
                     VPOS="781"
-                    WIDTH="125"
-                    HEIGHT="54">
-            <Shape><Polygon POINTS="669 825 669 835 793 828 793 821 789 781 668 789 669 825"/></Shape>
+                    WIDTH="119"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="740 781 727 781 713 781 700 781 686 781 673 781 676 824 676 836 713 828 790 831 792 820 789 781 767 781 754 781"/></Shape>
 	    <String CONTENT="Deute."
-                    HPOS="668"
+                    HPOS="673"
                     VPOS="781"
-                    WIDTH="125"
-                    HEIGHT="54"></String>
+                    WIDTH="119"
+                    HEIGHT="55"></String>
           </TextLine>
 
           
           
           <TextLine ID="eSc_line_0421b7a4"
                     TAGREFS="LT266"
-                    BASELINE="670 864 790 860" 
-                    HPOS="669"
-                    VPOS="827"
-                    WIDTH="121"
-                    HEIGHT="48">
-            <Shape><Polygon POINTS="670 864 670 875 790 868 790 860 786 827 669 829 670 864"/></Shape>
+                    BASELINE="676 864 790 860" 
+                    HPOS="673"
+                    VPOS="825"
+                    WIDTH="116"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="674 875 788 868 789 859 785 825 673 828 674 863"/></Shape>
 	    <String CONTENT="xxuiii."
-                    HPOS="669"
-                    VPOS="827"
-                    WIDTH="121"
-                    HEIGHT="48"></String>
+                    HPOS="673"
+                    VPOS="825"
+                    WIDTH="116"
+                    HEIGHT="50"></String>
           </TextLine>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="666"
-                   VPOS="869"
-                   WIDTH="140"
-                   HEIGHT="90"
-                   ID="eSc_textblock_928b1ce6"
-                   TAGREFS="BT768">
-          <Shape><Polygon POINTS="671 869 666 959 806 959 806 869"/></Shape>
           
           
           <TextLine ID="eSc_line_51d82a49"
                     TAGREFS="LT266"
-                    BASELINE="670 901 805 907" 
-                    HPOS="669"
+                    BASELINE="680 899 805 907" 
+                    HPOS="677"
                     VPOS="862"
-                    WIDTH="136"
-                    HEIGHT="60">
-            <Shape><Polygon POINTS="804 906 802 874 774 862 773 862 766 862 753 862 739 863 726 863 712 863 705 863 704 866 701 863 699 864 685 864 681 864 670 867 670 901 669 912 724 922 726 922 804 920 805 907 805 906 804 906"/></Shape>
+                    WIDTH="127"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="734 862 720 862 707 863 693 863 680 863 678 898 677 913 738 930 739 930 740 930 802 918 804 906 804 862 747 862 734 862"/></Shape>
 	    <String CONTENT="Matth."
-                    HPOS="669"
+                    HPOS="677"
                     VPOS="862"
-                    WIDTH="136"
-                    HEIGHT="60"></String>
+                    WIDTH="127"
+                    HEIGHT="68"></String>
           </TextLine>
 
           
@@ -591,7 +571,7 @@
                     VPOS="901"
                     WIDTH="44"
                     HEIGHT="55">
-            <Shape><Polygon POINTS="677 948 676 955 716 956 719 951 720 922 680 901 677 948"/></Shape>
+            <Shape><Polygon POINTS="676 955 716 956 719 951 720 922 680 901 677 948"/></Shape>
 	    <String CONTENT="u."
                     HPOS="676"
                     VPOS="901"

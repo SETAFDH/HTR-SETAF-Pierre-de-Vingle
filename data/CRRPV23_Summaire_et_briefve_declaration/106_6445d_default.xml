@@ -470,45 +470,45 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="680"
+        <TextBlock HPOS="692"
                    VPOS="133"
-                   WIDTH="155"
+                   WIDTH="143"
                    HEIGHT="113"
                    ID="eSc_textblock_44332c9a"
                    TAGREFS="BT768">
-          <Shape><Polygon POINTS="693 133 680 246 835 246 835 133"/></Shape>
+          <Shape><Polygon POINTS="693 133 692 246 835 246 835 133"/></Shape>
           
           
           <TextLine ID="eSc_line_5d2f34e9"
                     TAGREFS="LT266"
-                    BASELINE="692 184 830 185" 
-                    HPOS="689"
-                    VPOS="126"
-                    WIDTH="140"
-                    HEIGHT="66">
-            <Shape><Polygon POINTS="690 183 689 188 827 192 829 184 829 134 809 126 808 126 807 126 805 126 782 133 780 133 690 132 690 183"/></Shape>
+                    BASELINE="696 182 830 185" 
+                    HPOS="693"
+                    VPOS="133"
+                    WIDTH="136"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="817 133 804 133 798 133 790 136 786 137 784 136 780 133 777 133 763 133 750 133 736 133 723 133 709 133 696 133 694 180 693 187 827 192 829 184 829 137 817 133 817 133"/></Shape>
 	    <String CONTENT="ii.Thes-"
-                    HPOS="689"
-                    VPOS="126"
-                    WIDTH="140"
-                    HEIGHT="66"></String>
+                    HPOS="693"
+                    VPOS="133"
+                    WIDTH="136"
+                    HEIGHT="59"></String>
           </TextLine>
 
           
           
           <TextLine ID="eSc_line_a211c13f"
                     TAGREFS="LT266"
-                    BASELINE="694 229 816 226" 
-                    HPOS="692"
-                    VPOS="184"
-                    WIDTH="123"
-                    HEIGHT="58">
-            <Shape><Polygon POINTS="800 184 786 184 773 184 759 184 750 184 692 184 693 228 693 242 815 237 815 225 811 184 800 184"/></Shape>
+                    BASELINE="704 229 816 226" 
+                    HPOS="700"
+                    VPOS="182"
+                    WIDTH="115"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="809 184 796 184 782 183 769 183 755 183 742 183 728 182 715 182 700 182 703 228 703 236 727 234 731 237 743 248 743 249 744 249 746 249 747 249 815 237 815 225 812 184 809 184"/></Shape>
 	    <String CONTENT="salo.iii."
-                    HPOS="692"
-                    VPOS="184"
-                    WIDTH="123"
-                    HEIGHT="58"></String>
+                    HPOS="700"
+                    VPOS="182"
+                    WIDTH="115"
+                    HEIGHT="67"></String>
           </TextLine>
 
           

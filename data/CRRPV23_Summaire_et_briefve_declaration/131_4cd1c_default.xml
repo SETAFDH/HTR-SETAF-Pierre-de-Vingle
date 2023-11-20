@@ -31,7 +31,7 @@
                    HEIGHT="1130"
                    ID="eSc_textblock_6391d4d1"
                    TAGREFS="BT767">
-          <Shape><Polygon POINTS="361 143 372 1263 1029 1246 1011 133"/></Shape>
+          <Shape><Polygon POINTS="361 143 384 1263 1029 1246 1011 133"/></Shape>
           
           
           <TextLine ID="eSc_line_7bbcba22"
@@ -470,28 +470,28 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="229"
+        <TextBlock HPOS="241"
                    VPOS="972"
-                   WIDTH="166"
-                   HEIGHT="89"
+                   WIDTH="148"
+                   HEIGHT="184"
                    ID="eSc_textblock_cf997002"
                    TAGREFS="BT768">
-          <Shape><Polygon POINTS="244 972 229 1059 390 1061 395 972"/></Shape>
+          <Shape><Polygon POINTS="244 972 241 1156 351 1144 389 972"/></Shape>
           
           
           <TextLine ID="eSc_line_8f58c97c"
                     TAGREFS="LT266"
-                    BASELINE="248 1012 386 1009" 
-                    HPOS="245"
-                    VPOS="963"
-                    WIDTH="140"
-                    HEIGHT="59">
-            <Shape><Polygon POINTS="246 1011 246 1017 384 1022 385 1007 381 963 245 972 246 1011"/></Shape>
+                    BASELINE="248 1012 380 1007" 
+                    HPOS="244"
+                    VPOS="972"
+                    WIDTH="135"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="365 972 352 972 338 972 325 972 311 972 309 972 244 975 246 1011 246 1018 376 1021 379 1006 375 972 365 972"/></Shape>
 	    <String CONTENT="iiii.roys"
-                    HPOS="245"
-                    VPOS="963"
-                    WIDTH="140"
-                    HEIGHT="59"></String>
+                    HPOS="244"
+                    VPOS="972"
+                    WIDTH="135"
+                    HEIGHT="49"></String>
           </TextLine>
 
           
@@ -512,16 +512,6 @@
           </TextLine>
 
           
-        </TextBlock>
-        
-        <TextBlock HPOS="236"
-                   VPOS="1061"
-                   WIDTH="125"
-                   HEIGHT="86"
-                   ID="eSc_textblock_37da913a"
-                   TAGREFS="BT768">
-          <Shape><Polygon POINTS="236 1062 241 1147 351 1144 361 1061"/></Shape>
-          
           
           <TextLine ID="eSc_line_1b585cd3"
                     TAGREFS="LT266"
@@ -530,7 +520,7 @@
                     VPOS="1061"
                     WIDTH="100"
                     HEIGHT="43">
-            <Shape><Polygon POINTS="348 1061 334 1061 321 1061 307 1061 294 1061 280 1061 267 1061 253 1061 255 1092 255 1104 353 1096 353 1088 349 1061 348 1061"/></Shape>
+            <Shape><Polygon POINTS="334 1061 321 1061 307 1061 294 1061 280 1061 267 1061 253 1061 255 1092 255 1104 353 1096 353 1088 349 1061 348 1061"/></Shape>
 	    <String CONTENT="Iuges"
                     HPOS="253"
                     VPOS="1061"
@@ -547,7 +537,7 @@
                     VPOS="1091"
                     WIDTH="54"
                     HEIGHT="63">
-            <Shape><Polygon POINTS="279 1094 265 1094 264 1091 252 1091 251 1131 249 1144 275 1154 276 1154 277 1154 302 1152 303 1134 294 1100 280 1092 279 1094"/></Shape>
+            <Shape><Polygon POINTS="265 1094 264 1091 252 1091 251 1131 249 1144 275 1154 276 1154 277 1154 302 1152 303 1134 294 1100 280 1092 279 1094"/></Shape>
 	    <String CONTENT="ui."
                     HPOS="249"
                     VPOS="1091"

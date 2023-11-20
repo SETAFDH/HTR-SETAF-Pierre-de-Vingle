@@ -470,13 +470,13 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="219"
-                   VPOS="273"
-                   WIDTH="147"
-                   HEIGHT="43"
-                   ID="eSc_textblock_61eaa21b"
+        <TextBlock HPOS="220"
+                   VPOS="270"
+                   WIDTH="149"
+                   HEIGHT="135"
+                   ID="eSc_textblock_e7d6d5b3"
                    TAGREFS="BT768">
-          <Shape><Polygon POINTS="229 273 219 316 366 313 366 273"/></Shape>
+          <Shape><Polygon POINTS="222 271 220 405 361 405 369 270"/></Shape>
           
           
           <TextLine ID="eSc_line_4e433656"
@@ -486,7 +486,7 @@
                     VPOS="257"
                     WIDTH="136"
                     HEIGHT="61">
-            <Shape><Polygon POINTS="230 311 230 318 365 315 365 308 363 257 229 257 230 311"/></Shape>
+            <Shape><Polygon POINTS="230 318 365 315 365 308 363 257 229 257 230 311"/></Shape>
 	    <String CONTENT="Iehã.x."
                     HPOS="229"
                     VPOS="257"
@@ -494,16 +494,6 @@
                     HEIGHT="61"></String>
           </TextLine>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="220"
-                   VPOS="318"
-                   WIDTH="147"
-                   HEIGHT="87"
-                   ID="eSc_textblock_e7d6d5b3"
-                   TAGREFS="BT768">
-          <Shape><Polygon POINTS="222 318 220 405 361 405 367 318"/></Shape>
           
           
           <TextLine ID="eSc_line_411ed348"

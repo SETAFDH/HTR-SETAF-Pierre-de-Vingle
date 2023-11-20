@@ -497,28 +497,28 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="671"
-                   VPOS="1006"
-                   WIDTH="158"
-                   HEIGHT="106"
+        <TextBlock HPOS="679"
+                   VPOS="1004"
+                   WIDTH="150"
+                   HEIGHT="108"
                    ID="eSc_textblock_4636c467"
                    TAGREFS="BT768">
-          <Shape><Polygon POINTS="829 1112 825 1006 671 1006 671 1112"/></Shape>
+          <Shape><Polygon POINTS="829 1112 825 1006 679 1004 679 1112"/></Shape>
           
           
           <TextLine ID="eSc_line_4401478d"
                     TAGREFS="LT266"
-                    BASELINE="680 1055 820 1052" 
-                    HPOS="678"
-                    VPOS="1009"
-                    WIDTH="142"
-                    HEIGHT="54">
-            <Shape><Polygon POINTS="813 1018 800 1015 786 1013 773 1010 770 1009 746 1017 738 1018 730 1017 707 1010 705 1010 704 1010 678 1015 680 1055 680 1061 819 1063 820 1052 819 1048 813 1018"/></Shape>
+                    BASELINE="688 1055 820 1052" 
+                    HPOS="685"
+                    VPOS="1007"
+                    WIDTH="134"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="686 1053 686 1060 817 1063 819 1051 817 1018 785 1007 784 1007 782 1007 781 1007 761 1014 748 1018 685 1010 686 1053"/></Shape>
 	    <String CONTENT="Romaĩs"
-                    HPOS="678"
-                    VPOS="1009"
-                    WIDTH="142"
-                    HEIGHT="54"></String>
+                    HPOS="685"
+                    VPOS="1007"
+                    WIDTH="134"
+                    HEIGHT="56"></String>
           </TextLine>
 
           

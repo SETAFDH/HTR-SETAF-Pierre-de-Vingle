@@ -441,23 +441,6 @@
           </TextLine>
 
           
-          
-          <TextLine ID="eSc_line_d8daad77"
-                    TAGREFS="LT266"
-                    BASELINE="673 273 699 273" 
-                    HPOS="672"
-                    VPOS="240"
-                    WIDTH="25"
-                    HEIGHT="56">
-            <Shape><Polygon POINTS="685 240 672 240 672 272 672 296 697 292 697 272 697 240 685 240"/></Shape>
-	    <String CONTENT="ii."
-                    HPOS="672"
-                    VPOS="240"
-                    WIDTH="25"
-                    HEIGHT="56"></String>
-          </TextLine>
-
-          
         </TextBlock>
         
         <TextBlock HPOS="516"
@@ -488,12 +471,12 @@
         </TextBlock>
         
         <TextBlock HPOS="668"
-                   VPOS="143"
-                   WIDTH="133"
-                   HEIGHT="58"
+                   VPOS="139"
+                   WIDTH="143"
+                   HEIGHT="149"
                    ID="eSc_textblock_ef0c70aa"
                    TAGREFS="BT768">
-          <Shape><Polygon POINTS="668 143 668 201 801 201 801 143"/></Shape>
+          <Shape><Polygon POINTS="668 141 670 288 811 277 809 139"/></Shape>
           
           
           <TextLine ID="eSc_line_e99cde60"
@@ -503,7 +486,7 @@
                     VPOS="141"
                     WIDTH="134"
                     HEIGHT="55">
-            <Shape><Polygon POINTS="669 192 668 196 801 196 802 195 801 144 736 149 669 141 669 192"/></Shape>
+            <Shape><Polygon POINTS="668 196 801 196 802 195 801 144 736 149 669 141 669 192"/></Shape>
 	    <String CONTENT="Act.xu."
                     HPOS="668"
                     VPOS="141"
@@ -512,30 +495,37 @@
           </TextLine>
 
           
-        </TextBlock>
-        
-        <TextBlock HPOS="662"
-                   VPOS="199"
-                   WIDTH="121"
-                   HEIGHT="89"
-                   ID="eSc_textblock_84c54fd2"
-                   TAGREFS="BT768">
-          <Shape><Polygon POINTS="662 288 663 199 783 201 781 283"/></Shape>
-          
           
           <TextLine ID="eSc_line_36059537"
                     TAGREFS="LT266"
-                    BASELINE="670 239 783 240" 
-                    HPOS="669"
-                    VPOS="196"
-                    WIDTH="113"
-                    HEIGHT="52">
-            <Shape><Polygon POINTS="669 238 669 246 781 248 782 238 782 196 669 196 669 238"/></Shape>
+                    BASELINE="678 241 783 240" 
+                    HPOS="676"
+                    VPOS="194"
+                    WIDTH="106"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="770 195 757 195 743 195 730 194 716 194 703 194 689 194 676 194 677 240 677 244 780 248 782 238 780 195 770 195"/></Shape>
 	    <String CONTENT="Colos."
+                    HPOS="676"
+                    VPOS="194"
+                    WIDTH="106"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d8daad77"
+                    TAGREFS="LT266"
+                    BASELINE="673 271 699 273" 
                     HPOS="669"
-                    VPOS="196"
-                    WIDTH="113"
-                    HEIGHT="52"></String>
+                    VPOS="233"
+                    WIDTH="28"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="688 240 686 236 674 233 672 269 669 298 694 292 697 272 697 240 688 240"/></Shape>
+	    <String CONTENT="ii."
+                    HPOS="669"
+                    VPOS="233"
+                    WIDTH="28"
+                    HEIGHT="65"></String>
           </TextLine>
 
           
@@ -552,17 +542,17 @@
           
           <TextLine ID="eSc_line_9293f5a9"
                     TAGREFS="LT266"
-                    BASELINE="670 692 804 693" 
-                    HPOS="668"
-                    VPOS="646"
-                    WIDTH="134"
-                    HEIGHT="52">
-            <Shape><Polygon POINTS="669 690 668 698 801 698 802 692 802 646 669 646 669 690"/></Shape>
+                    BASELINE="676 692 804 693" 
+                    HPOS="673"
+                    VPOS="643"
+                    WIDTH="129"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="674 690 673 696 800 697 802 692 802 651 775 643 774 643 773 643 674 648 674 690"/></Shape>
 	    <String CONTENT="i.Corin-"
-                    HPOS="668"
-                    VPOS="646"
-                    WIDTH="134"
-                    HEIGHT="52"></String>
+                    HPOS="673"
+                    VPOS="643"
+                    WIDTH="129"
+                    HEIGHT="54"></String>
           </TextLine>
 
           

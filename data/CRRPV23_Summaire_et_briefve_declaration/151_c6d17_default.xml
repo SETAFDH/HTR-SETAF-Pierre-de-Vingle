@@ -25,13 +25,13 @@
                   WIDTH="1085"
                   HEIGHT="1619">
         
-        <TextBlock HPOS="370"
-                   VPOS="151"
-                   WIDTH="648"
-                   HEIGHT="1114"
+        <TextBlock HPOS="380"
+                   VPOS="147"
+                   WIDTH="638"
+                   HEIGHT="1120"
                    ID="eSc_textblock_86d2e5fd"
                    TAGREFS="BT767">
-          <Shape><Polygon POINTS="370 151 380 1265 1018 1263 1018 151"/></Shape>
+          <Shape><Polygon POINTS="380 147 382 1267 1018 1263 1018 151"/></Shape>
           
           
           <TextLine ID="eSc_line_85fa18f7"
@@ -472,11 +472,11 @@
         
         <TextBlock HPOS="229"
                    VPOS="139"
-                   WIDTH="135"
-                   HEIGHT="94"
+                   WIDTH="154"
+                   HEIGHT="189"
                    ID="eSc_textblock_fd9aa3c6"
                    TAGREFS="BT768">
-          <Shape><Polygon POINTS="229 139 229 233 364 233 364 139"/></Shape>
+          <Shape><Polygon POINTS="229 139 241 328 383 316 364 139"/></Shape>
           
           
           <TextLine ID="eSc_line_81d6f5f3"
@@ -512,16 +512,6 @@
           </TextLine>
 
           
-        </TextBlock>
-        
-        <TextBlock HPOS="225"
-                   VPOS="227"
-                   WIDTH="157"
-                   HEIGHT="92"
-                   ID="eSc_textblock_fefa1cfe"
-                   TAGREFS="BT768">
-          <Shape><Polygon POINTS="227 237 225 319 380 319 382 227"/></Shape>
-          
           
           <TextLine ID="eSc_line_a2ef8891"
                     TAGREFS="LT266"
@@ -530,7 +520,7 @@
                     VPOS="225"
                     WIDTH="130"
                     HEIGHT="59">
-            <Shape><Polygon POINTS="342 229 327 229 314 228 300 228 287 226 246 232 249 269 249 284 376 284 376 265 373 229 342 225 342 229"/></Shape>
+            <Shape><Polygon POINTS="327 229 314 228 300 228 287 226 246 232 249 269 249 284 376 284 376 265 373 229 342 225 342 229"/></Shape>
 	    <String CONTENT="Philip."
                     HPOS="246"
                     VPOS="225"
@@ -547,7 +537,7 @@
                     VPOS="277"
                     WIDTH="30"
                     HEIGHT="48">
-            <Shape><Polygon POINTS="249 277 249 311 249 325 279 319 279 311 279 283 255 277 249 277"/></Shape>
+            <Shape><Polygon POINTS="249 311 249 325 279 319 279 311 279 283 255 277 249 277"/></Shape>
 	    <String CONTENT="i."
                     HPOS="249"
                     VPOS="277"
