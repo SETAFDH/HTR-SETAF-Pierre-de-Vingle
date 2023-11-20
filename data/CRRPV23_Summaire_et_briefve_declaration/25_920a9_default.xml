@@ -497,13 +497,13 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="205"
+        <TextBlock HPOS="201"
                    VPOS="710"
-                   WIDTH="145"
-                   HEIGHT="45"
+                   WIDTH="149"
+                   HEIGHT="140"
                    ID="eSc_textblock_e9de6577"
                    TAGREFS="BT768">
-          <Shape><Polygon POINTS="205 710 205 755 350 755 350 710"/></Shape>
+          <Shape><Polygon POINTS="201 710 205 850 333 844 350 710"/></Shape>
           
           
           <TextLine ID="eSc_line_b6d12fd6"
@@ -522,16 +522,6 @@
           </TextLine>
 
           
-        </TextBlock>
-        
-        <TextBlock HPOS="205"
-                   VPOS="760"
-                   WIDTH="140"
-                   HEIGHT="82"
-                   ID="eSc_textblock_a16dfed0"
-                   TAGREFS="BT768">
-          <Shape><Polygon POINTS="205 760 205 842 345 842 345 760"/></Shape>
-          
           
           <TextLine ID="eSc_line_d0740252"
                     TAGREFS="LT266"
@@ -540,7 +530,7 @@
                     VPOS="750"
                     WIDTH="134"
                     HEIGHT="51">
-            <Shape><Polygon POINTS="214 790 214 801 344 790 345 785 342 751 211 750 214 790"/></Shape>
+            <Shape><Polygon POINTS="214 801 344 790 345 785 342 751 211 750 214 790"/></Shape>
 	    <String CONTENT="Ieremie"
                     HPOS="211"
                     VPOS="750"
@@ -557,7 +547,7 @@
                     VPOS="796"
                     WIDTH="100"
                     HEIGHT="49">
-            <Shape><Polygon POINTS="215 832 215 845 314 844 314 831 310 796 214 796 215 832"/></Shape>
+            <Shape><Polygon POINTS="215 845 314 844 314 831 310 796 214 796 215 832"/></Shape>
 	    <String CONTENT="xxxi."
                     HPOS="214"
                     VPOS="796"
