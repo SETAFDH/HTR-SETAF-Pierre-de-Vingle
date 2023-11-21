@@ -1,7 +1,7 @@
 # HTR-SETAF-Pierre-de-Vingle
 
 Ce dépôt contient les ouvrages publiés par l'imprimeur Pierre de Vingle. 
-La liste des textes présents se trouve dans le tableau CSV du dépôt.
+La liste des textes avec plus de détails se trouve dans le tableau CSV du dépôt.
 
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
 
