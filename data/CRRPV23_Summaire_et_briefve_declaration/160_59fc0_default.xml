@@ -530,7 +530,7 @@
                     VPOS="329"
                     WIDTH="120"
                     HEIGHT="60">
-            <Shape><Polygon POINTS="721 380 720 385 838 389 840 381 839 335 769 337 721 329 721 380"/></Shape>
+            <Shape><Polygon POINTS="720 385 838 389 840 381 839 335 769 337 721 329 721 380"/></Shape>
 	    <String CONTENT="Genese"
                     HPOS="720"
                     VPOS="329"
@@ -553,6 +553,23 @@
                     VPOS="379"
                     WIDTH="86"
                     HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bf92421b"
+                    TAGREFS="LT266"
+                    BASELINE="723 456 843 457" 
+                    HPOS="713"
+                    VPOS="415"
+                    WIDTH="130"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="781 418 773 418 713 422 715 460 716 472 728 466 739 473 743 476 744 476 746 476 747 476 748 476 750 476 750 474 751 473 759 466 788 466 840 477 843 457 842 424 807 415 805 415 804 415 794 415 794 418"/></Shape>
+	    <String CONTENT="Gala-"
+                    HPOS="713"
+                    VPOS="415"
+                    WIDTH="130"
+                    HEIGHT="62"></String>
           </TextLine>
 
           
@@ -603,27 +620,6 @@
         </TextBlock>
         
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="eSc_line_bf92421b"
-                    TAGREFS="LT266"
-                    BASELINE="723 456 843 457" 
-                    HPOS="713"
-                    VPOS="415"
-                    WIDTH="130"
-                    HEIGHT="62">
-            <Shape><Polygon POINTS="781 418 773 418 713 422 715 460 716 472 728 466 739 473 743 476 744 476 746 476 747 476 748 476 750 476 750 474 751 473 759 466 788 466 840 477 843 457 842 424 807 415 805 415 804 415 794 415 794 418"/></Shape>
-	    <String CONTENT="Gala-"
-                    HPOS="713"
-                    VPOS="415"
-                    WIDTH="130"
-                    HEIGHT="62"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
       </PrintSpace>
     </Page>
