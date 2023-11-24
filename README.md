@@ -35,6 +35,7 @@ Les données pour l'HTR sont produites à l'aide de l’instance genevoise FoNDU
 Les transcriptions sont [CC-BY](https://creativecommons.org/licenses/by/4.0), et les images suivent les règles de différentes bibliothèques numériques :
 - e-rara : https://www.e-rara.ch/wiki/termsOfUse?lang=en
 - Österreichische Nationalbibliothek : https://www.onb.ac.at/en/use
+- Bavarian State Library : https://oai.bsb-muenchen.de/doc/en/imprint
 
 
 ## Citer le dépôt
