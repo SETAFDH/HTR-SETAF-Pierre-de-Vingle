@@ -25,6 +25,33 @@
                   WIDTH="999"
                   HEIGHT="1408">
         
+        <TextBlock HPOS="112"
+                   VPOS="166"
+                   WIDTH="241"
+                   HEIGHT="237"
+                   ID="eSc_textblock_13cd8c05"
+                   TAGREFS="BT1415">
+          <Shape><Polygon POINTS="112 168 114 403 353 403 353 166"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_fc7e3001"
+                    TAGREFS="LT516"
+                    BASELINE="124 385 337 387" 
+                    HPOS="122"
+                    VPOS="173"
+                    WIDTH="223"
+                    HEIGHT="231">
+            <Shape><Polygon POINTS="122 404 335 404 336 386 345 176 125 173 123 384"/></Shape>
+	    <String CONTENT="U"
+                    HPOS="122"
+                    VPOS="173"
+                    WIDTH="223"
+                    HEIGHT="231"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
         <TextBlock HPOS="93"
                    VPOS="72"
                    WIDTH="754"
@@ -421,33 +448,6 @@
                     VPOS="1181"
                     WIDTH="719"
                     HEIGHT="85"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="112"
-                   VPOS="166"
-                   WIDTH="241"
-                   HEIGHT="237"
-                   ID="eSc_textblock_13cd8c05"
-                   TAGREFS="BT1415">
-          <Shape><Polygon POINTS="112 168 114 403 353 403 353 166"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_fc7e3001"
-                    TAGREFS="LT516"
-                    BASELINE="124 385 337 387" 
-                    HPOS="122"
-                    VPOS="173"
-                    WIDTH="223"
-                    HEIGHT="231">
-            <Shape><Polygon POINTS="122 404 335 404 336 386 345 176 125 173 123 384"/></Shape>
-	    <String CONTENT="V"
-                    HPOS="122"
-                    VPOS="173"
-                    WIDTH="223"
-                    HEIGHT="231"></String>
           </TextLine>
 
           
