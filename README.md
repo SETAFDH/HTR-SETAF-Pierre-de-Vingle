@@ -1,12 +1,12 @@
 # HTR-SETAF-Pierre-de-Vingle
 
+![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
+
 Ce dépôt contient les données OCR des ouvrages publiés par Pierre de Vingle, maître-imprimeur à Lyon de 1525 à 1532, à Genève en 1532-1533 et à Neuchâtel en 1533-1535. Les textes sont des imprimés français du XVIe siècle en caractères gothiques et la liste des textes avec plus de détails se trouve dans le tableau CSV du dépôt.
 
 Les ouvrages imprimés par P. de Vingle et attribués au poète réformé M. Malingre (c.1500-1572) se trouvent également dans le dépôt suivant : https://github.com/SETAFDH/OCR-Malingre. 
 
-L'édition des *Faits de Jésus Christ et du pape* imprimée par Pierre de Vingle se trouve dans le dépôt suivant: https://github.com/SETAFDH/HTR-SETAF-LesFaictzJCH.
-
-![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
+L'édition des *Faits de Jésus Christ et du pape* imprimée par P. de Vingle se trouve dans le dépôt suivant: https://github.com/SETAFDH/HTR-SETAF-LesFaictzJCH.
 
 
 ## Projet SETAF
