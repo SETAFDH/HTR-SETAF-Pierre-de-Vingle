@@ -39,12 +39,12 @@ Les transcriptions sont [CC-BY](https://creativecommons.org/licenses/by/4.0), et
 
 ## Citer le dépôt
 
-- Version `1.0`: Sonia Solfrini, Geneviève Gross, Pierre-Olivier Beaulnes, Aurélia Marques Oliveira, Simon Gabay et Daniela Solfaroli Camillocci, _Données HTR et segmentation des imprimés de Pierre de Vingle (projet SETAF)_, version `1.0`, Genève, université de Genève, 2023, https://github.com/SETAFDH/HTR-SETAF-Pierre-de-Vingle.
+- Version `1.0`: Sonia Solfrini, Geneviève Gross, Pierre-Olivier Beaulnes, Aurélia Marques Oliveira, Simon Gabay et Daniela Solfaroli Camillocci, _Données OCR et segmentation des imprimés de Pierre de Vingle (projet SETAF)_, version `1.0`, Genève, université de Genève, 2023, https://github.com/SETAFDH/HTR-SETAF-Pierre-de-Vingle.
 
 ```bibtex
 @misc{solfrini_VingleSETAF_2023,
   author={Solfrini, Sonia and Gross, Geneviève and Beaulnes, Pierre-Olivier and Marques Oliveira, Aurélia, and Gabay, Simon and Solfaroli Camillocci, Daniela},
-  title={Données HTR et segmentation des imprimés de Pierre de Vingle (projet SETAF)},
+  title={Données OCR et segmentation des imprimés de Pierre de Vingle (projet SETAF)},
   version={1.0},
   address={Genève},
   publisher={université de Genève},
