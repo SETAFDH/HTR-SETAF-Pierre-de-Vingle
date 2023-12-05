@@ -141,8 +141,9 @@ license:
   url: https://creativecommons.org/licenses/by/4.0/
 production-software: eScriptorium + Kraken
 project-name: FoNDUE
-project-website: https://www.unige.ch/lettres/humanites-numeriques/recherche/projets-de-la-chaire/fondue
-schema: https://htr-united.github.io/schema/2022-04-15/schema.json
+project-website: >-
+https://www.unige.ch/lettres/humanites-numeriques/recherche/projets-de-la-chaire/fondue
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
 script:
 - iso: Latn
 script-type: only-typed
@@ -150,9 +151,12 @@ time:
   notAfter: '1600'
   notBefore: '1500'
 title: HTR-SETAF-Pierre-de-Vingle
-transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io). 
-Our transcription guidelines follow a graphematic approach, without regularisation. We keep the original punctuation and abbreviations. 
-A detailed presentation of our rules is available on HAL (https://hal.science/hal-04281804). 
+transcription-guidelines: >-
+Our data follow SegmOnto segmentation standards (https://segmonto.github.io). 
+Our transcription guidelines follow a graphematic approach, without 
+regularisation. We keep the original punctuation and abbreviations. A detailed 
+presentation of our rules is available on HAL 
+(https://hal.science/hal-04281804). 
 url: https://github.com/SETAFDH/HTR-SETAF-Pierre-de-Vingle
 volume:
 - count: 662316
