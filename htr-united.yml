@@ -1,39 +1,39 @@
 authors:
 - name: Sonia
+  surname: Solfrini
   orcid: 0009-0009-7367-048X
   roles:
   - transcriber
   - project-manager
   - quality-control
-  surname: Solfrini
 - name: Simon
+  surname: Gabay
   orcid: 0000-0001-9094-4475
   roles:
   - support
-  surname: Gabay
 - name: Geneviève
+  surname: Gross
   orcid: 0009-0006-5367-4262
   roles:
   - transcriber
   - project-manager
   - quality-control
-  surname: Gross
 - name: Pierre-Olivier
+  surname: Beaulnes
   orcid: 0009-0009-2475-6017
   roles:
   - transcriber
   - quality-control
-  surname: Beaulnes
 - name: Aurélia
+  surname: Marques Oliveira
   orcid: 0009-0009-9678-9811
   roles:
   - transcriber
   - quality-control
-  surname: Marques Oliveira
 - name: Daniela
+  surname: Solfaroli Camillocci
   roles:
   - project-manager
-  surname: Solfaroli Camillocci
 characters:
   members:
   - e
@@ -129,7 +129,7 @@ characters:
   - ̇
   - ̌
   mode: NFD
-description: Data for the SETAF project, 16th-century French prints in Gothic characters.
+description: OCR data for the SETAF project, 16th-century French prints in Gothic characters.
 format: Alto-XML
 hands:
   count: '1'
@@ -150,7 +150,9 @@ time:
   notAfter: '1600'
   notBefore: '1500'
 title: HTR-SETAF-Pierre-de-Vingle
-transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io). Our transcription guidelines follow a graphematic approach, without regularisation. We keep the original punctuation and abbreviations. A detailed presentation of the rules we established for the transcriptions is available here: https://hal.science/hal-04281804.
+transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io). 
+Our transcription guidelines follow a graphematic approach, without regularisation. We keep the original punctuation and abbreviations. 
+A detailed presentation of our rules is available on HAL (https://hal.science/hal-04281804). 
 url: https://github.com/SETAFDH/HTR-SETAF-Pierre-de-Vingle
 volume:
 - count: 662316
