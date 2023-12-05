@@ -25,13 +25,13 @@
                   WIDTH="1085"
                   HEIGHT="1619">
         
-        <TextBlock HPOS="85"
+        <TextBlock HPOS="90"
                    VPOS="131"
-                   WIDTH="689"
-                   HEIGHT="1162"
+                   WIDTH="684"
+                   HEIGHT="1148"
                    ID="eSc_textblock_81a9bca3"
                    TAGREFS="BT996">
-          <Shape><Polygon POINTS="85 141 100 1279 769 1293 774 131"/></Shape>
+          <Shape><Polygon POINTS="90 133 100 1279 772 1264 774 131"/></Shape>
           
           
           <TextLine ID="eSc_line_13478eb4"
@@ -186,32 +186,6 @@
           </TextLine>
 
           
-        </TextBlock>
-        
-        <TextBlock HPOS="345"
-                   VPOS="670"
-                   WIDTH="140"
-                   HEIGHT="135"
-                   ID="eSc_textblock_a7c041c7"
-                   TAGREFS="BT999">
-          <Shape><Polygon POINTS="345 670 347 805 485 805 485 674"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="355"
-                   VPOS="1194"
-                   WIDTH="110"
-                   HEIGHT="70"
-                   ID="eSc_textblock_43f3b10f"
-                   TAGREFS="BT999">
-          <Shape><Polygon POINTS="355 1253 355 1194 465 1194 462 1264"/></Shape>
-          
-        </TextBlock>
-        
-
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
           
           <TextLine ID="eSc_line_c9ed5cc3"
                     TAGREFS="LT265"
@@ -221,7 +195,7 @@
                     WIDTH="507"
                     HEIGHT="81">
             <Shape><Polygon POINTS="661 951 650 912 603 912 601 910 569 901 568 901 554 901 550 899 537 910 519 898 514 898 507 898 481 909 446 895 445 895 443 895 442 895 394 909 379 897 379 895 371 895 327 906 315 897 311 897 298 898 284 898 272 898 261 905 190 899 190 899 176 899 163 916 163 949 161 971 192 972 194 972 195 972 197 972 214 961 238 972 240 972 241 972 242 972 244 972 245 972 261 961 302 970 303 970 304 970 330 961 431 974 435 974 437 974 438 974 458 964 565 972 566 972 568 972 592 964 608 975 609 975 611 975 612 976 666 976 668 953 665 947 661 951"/></Shape>
-	    <String CONTENT="Item/ ung traicte du Pur-"
+	    <String CONTENT="Item/ ung traicte du Pur¬"
                     HPOS="161"
                     VPOS="895"
                     WIDTH="507"
@@ -238,7 +212,7 @@
                     WIDTH="348"
                     HEIGHT="65">
             <Shape><Polygon POINTS="237 990 236 1007 236 1022 290 1014 582 1021 584 1006 582 968 551 957 550 957 523 957 522 957 520 957 519 957 508 967 487 960 485 960 484 960 434 967 406 957 404 957 403 957 402 957 384 966 330 957 329 957 327 957 326 957 326 959 319 964 277 959 276 959 275 959 273 959 273 960 265 968 242 968 237 990"/></Shape>
-	    <String CONTENT="gatoire nouuelle-"
+	    <String CONTENT="gatoire nouuelle¬"
                     HPOS="236"
                     VPOS="957"
                     WIDTH="348"
@@ -298,6 +272,28 @@
 
           
         </TextBlock>
+        
+        <TextBlock HPOS="345"
+                   VPOS="670"
+                   WIDTH="140"
+                   HEIGHT="135"
+                   ID="eSc_textblock_a7c041c7"
+                   TAGREFS="BT999">
+          <Shape><Polygon POINTS="345 670 347 805 485 805 485 674"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="355"
+                   VPOS="1186"
+                   WIDTH="110"
+                   HEIGHT="70"
+                   ID="eSc_textblock_43f3b10f"
+                   TAGREFS="BT999">
+          <Shape><Polygon POINTS="355 1253 355 1189 465 1186 462 1256"/></Shape>
+          
+        </TextBlock>
+        
+
         
       </PrintSpace>
     </Page>
