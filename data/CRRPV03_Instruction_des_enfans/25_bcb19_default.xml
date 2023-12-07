@@ -51,23 +51,6 @@
 
           
           
-          <TextLine ID="eSc_line_bb7a2120"
-                    TAGREFS="LT251"
-                    BASELINE="293 291 811 287" 
-                    HPOS="291"
-                    VPOS="248"
-                    WIDTH="520"
-                    HEIGHT="57">
-            <Shape><Polygon POINTS="690 248 675 248 665 248 633 254 627 255 291 255 293 291 293 298 462 305 463 305 465 305 485 301 496 298 650 302 697 302 698 302 702 302 734 295 808 302 811 287 808 254 701 248 690 248"/></Shape>
-	    <String CONTENT="de Leternel sera sauue. Ioel.2.g."
-                    HPOS="291"
-                    VPOS="248"
-                    WIDTH="520"
-                    HEIGHT="57"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_b431e94c"
                     TAGREFS="LT251"
                     BASELINE="334 250 1040 245" 
@@ -81,6 +64,23 @@
                     VPOS="206"
                     WIDTH="708"
                     HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bb7a2120"
+                    TAGREFS="LT251"
+                    BASELINE="293 291 811 287" 
+                    HPOS="291"
+                    VPOS="248"
+                    WIDTH="520"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="690 248 675 248 665 248 633 254 627 255 291 255 293 291 293 298 462 305 463 305 465 305 485 301 496 298 650 302 697 302 698 302 702 302 734 295 808 302 811 287 808 254 701 248 690 248"/></Shape>
+	    <String CONTENT="de Leternel sera sauue. Ioel.2.g."
+                    HPOS="291"
+                    VPOS="248"
+                    WIDTH="520"
+                    HEIGHT="57"></String>
           </TextLine>
 
           
