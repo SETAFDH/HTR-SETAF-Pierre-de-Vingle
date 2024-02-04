@@ -4,7 +4,7 @@
 
 Ce dépôt contient les données OCR des ouvrages publiés par Pierre de Vingle, maître-imprimeur à Lyon de 1525 à 1532, à Genève en 1532-1533 et à Neuchâtel en 1533-1535. Les textes sont des imprimés français du XVIe siècle en caractères gothiques et la liste des textes avec plus de détails se trouve dans le tableau CSV du dépôt.
 
-L'édition des *Faits de Jésus Christ et du pape* imprimée par P. de Vingle se trouve dans le dépôt suivant: https://github.com/SETAFDH/HTR-SETAF-LesFaictzJCH.
+L'édition des *Faits de Jésus Christ et du pape* imprimée par P. de Vingle se trouve dans le dépôt [HTR-SETAF-Pierre-de-Vingle](https://github.com/SETAFDH/HTR-SETAF-Pierre-de-Vingle).
 
 
 ## Projet SETAF
@@ -16,7 +16,7 @@ Site du projet : https://www.unige.ch/setaf
 
 ## Financeur
 
-Ce projet est financé par le Fonds national suisse (FNS). Numéro de projet : 205056 (https://data.snf.ch/grants/grant/205056).
+Ce projet est financé par le Fonds national suisse (FNS). Numéro de projet : [205056](https://data.snf.ch/grants/grant/205056).
 
 
 ## Données
@@ -35,10 +35,7 @@ Les calculs sont effectués à l'Université de Genève en utilisant le [service
 
 ## Licence
 
-Les transcriptions sont [CC-BY](https://creativecommons.org/licenses/by/4.0), et les images suivent les règles de différentes bibliothèques numériques :
-- e-rara : https://www.e-rara.ch/wiki/termsOfUse?lang=en
-- Österreichische Nationalbibliothek : https://www.onb.ac.at/en/use
-- Bavarian State Library : https://oai.bsb-muenchen.de/doc/en/imprint
+Les transcriptions sont [CC-BY](https://creativecommons.org/licenses/by/4.0), et les images suivent les règles de différentes bibliothèques numériques :[e-rara](https://www.e-rara.ch/wiki/termsOfUse?lang=en), [ONB](https://www.onb.ac.at/en/use), [Gallica](https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica), [BSB](https://oai.bsb-muenchen.de/doc/en/imprint).
 
 
 ## Citer le dépôt
