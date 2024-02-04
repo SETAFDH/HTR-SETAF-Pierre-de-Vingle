@@ -2,7 +2,7 @@
 
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
 
-Ce dépôt contient les données OCR des ouvrages publiés par Pierre de Vingle, maître-imprimeur à Lyon de 1525 à 1532, à Genève en 1532-1533 et à Neuchâtel en 1533-1535. Les textes sont des imprimés français du XVIe siècle en caractères gothiques et la liste des textes avec plus de détails se trouve dans le tableau CSV du dépôt.
+Ce dépôt contient les données OCR des ouvrages publiés par Pierre de Vingle, maître-imprimeur à Lyon de 1525 à 1532, à Genève en 1532-1533 et à Neuchâtel en 1533-1535. Les textes sont des imprimés français du XVIe siècle en caractères gothiques et la liste des textes avec plus de détails se trouve dans le [tableau CSV](https://github.com/SETAFDH/HTR-SETAF-Pierre-de-Vingle/blob/main/Table_CRRPV.csv) du dépôt.
 
 L'édition des *Faits de Jésus Christ et du pape* imprimée par P. de Vingle se trouve dans le dépôt [HTR-SETAF-Pierre-de-Vingle](https://github.com/SETAFDH/HTR-SETAF-Pierre-de-Vingle).
 
@@ -21,7 +21,7 @@ Ce projet est financé par le Fonds national suisse (FNS). Numéro de projet : [
 
 ## Données
 
-Les données se trouvent au chemin ‘./data//.xml‘ et sont au format ALTO. Elles suivent les normes de segmentation [SegmOnto](https://segmonto.github.io) et sont cataloguées sur [HTR-United](https://htr-united.github.io). Les fichiers sont corrigés manuellement : la qualité de la segmentation des pages et de la transcription produite par l'OCR est indiqué dans le tableau CSV du dépôt ("gold" ou "en cours").
+Les données se trouvent au chemin ‘./data//.xml‘ et sont au format ALTO. Elles suivent les normes de segmentation de [SegmOnto](https://segmonto.github.io) et sont cataloguées sur [HTR-United](https://htr-united.github.io). Les fichiers sont corrigés manuellement : la qualité de la segmentation des pages et de la transcription produite par l'OCR est indiqué dans le tableau CSV du dépôt ("gold" ou "en cours").
 
 Le contrôle de la transcription produite par l'OCR se base sur un guide redigé par l'équipe du projet : Solfrini et al., _Guide de transcription pour les imprimés français du XVIe siècle en caractères gothiques_, Version A, 2023, https://hal.science/hal-04281804.
 
