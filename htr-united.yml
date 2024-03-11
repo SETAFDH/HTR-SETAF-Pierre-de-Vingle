@@ -62,8 +62,8 @@ characters:
   - b
   - ⁊
   - z
-  - ¬
   - x
+  - ¬
   - ':'
   - C
   - I
@@ -82,18 +82,18 @@ characters:
   - T
   - N
   - Q
-  - ͬ
   - '4'
-  - R
+  - ͬ
   - '5'
+  - R
   - U
   - '?'
   - ꝰ
-  - ','
   - '6'
   - O
   - '0'
   - H
+  - ','
   - G
   - B
   - (
@@ -104,14 +104,13 @@ characters:
   - ꝓ
   - F
   - ꝑ
-  - ◊
-  - '-'
   - ̈
   - ł
   -  
   - ꝯ
+  - '-'
+  - ◊
   - ð
-  - ;
   - ꝝ
   - "'"
   - ̀
@@ -126,6 +125,7 @@ characters:
   - J
   - ꝫ
   - w
+  - ;
   - ꝗ
   - ̇
   - ̌
@@ -162,11 +162,11 @@ transcription-guidelines: >-
   our rules is available on HAL  (https://hal.science/hal-04281804).
 url: https://github.com/SETAFDH/HTR-SETAF-Pierre-de-Vingle
 volume:
-- count: 662312
+- count: 648218
   metric: characters
-- count: 915
+- count: 895
   metric: files
-- count: 25220
+- count: 24701
   metric: lines
-- count: 2812
+- count: 2752
   metric: regions
