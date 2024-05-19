@@ -79,13 +79,13 @@ characters:
   - ¶
   - ͥ
   - '3'
-  - T
   - N
+  - T
   - Q
   - '4'
   - ͬ
-  - '5'
   - R
+  - '5'
   - U
   - '?'
   - ꝰ
@@ -162,11 +162,11 @@ transcription-guidelines: >-
   our rules is available on HAL  (https://hal.science/hal-04281804).
 url: https://github.com/SETAFDH/HTR-SETAF-Pierre-de-Vingle
 volume:
-- count: 654031
+- count: 661548
   metric: characters
-- count: 903
+- count: 913
   metric: files
-- count: 24912
+- count: 25192
   metric: lines
-- count: 2781
+- count: 2816
   metric: regions
