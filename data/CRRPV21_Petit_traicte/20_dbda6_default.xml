@@ -413,22 +413,6 @@
                     WC="0.999266740348604"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="eSc_line_d61aaae4"
-                    BASELINE="1033 583 873 332" 
-                    HPOS="853"
-                    VPOS="325"
-                    WIDTH="183"
-                    HEIGHT="277">
-            <Shape><Polygon POINTS="872 330 853 341 893 390 897 424 928 446 943 485 969 513 964 551 997 602 1036 579 1022 543 1006 532 1005 509 984 494 985 478 964 443 944 433 935 398 916 386 916 374 877 325 872 330"/></Shape>
-	    <String CONTENT="P"
-                    HPOS="853"
-                    VPOS="325"
-                    WIDTH="183"
-                    HEIGHT="277"
-                    WC="1.0"></String>
-          </TextLine>
-        </TextBlock>
       </PrintSpace>
     </Page>
   </Layout>
