@@ -89,8 +89,8 @@ characters:
   - '5'
   - '?'
   - ꝰ
-  - '6'
   - O
+  - '6'
   - H
   - '0'
   - ','
@@ -104,12 +104,12 @@ characters:
   - ꝓ
   - F
   - ꝑ
+  - ◊
   - ̈
   - ꝯ
   - ł
   -  
   - '-'
-  - ◊
   - ð
   - ꝝ
   - "'"
@@ -122,12 +122,13 @@ characters:
   - Y
   - V
   - X
-  - J
   - ꝫ
+  - J
   - w
   - ;
   - ꝗ
   - ̇
+  - ᵉ
   - ̌
   mode: NFD
 citation-file-link: https://github.com/SETAFDH/HTR-SETAF-Pierre-de-Vingle/blob/main/CITATION.cff
@@ -162,11 +163,11 @@ transcription-guidelines: >-
   our rules is available on HAL  (https://hal.science/hal-04281804).
 url: https://github.com/SETAFDH/HTR-SETAF-Pierre-de-Vingle
 volume:
-- count: 705804
+- count: 707316
   metric: characters
-- count: 979
+- count: 981
   metric: files
-- count: 26830
+- count: 26885
   metric: lines
-- count: 3013
+- count: 3020
   metric: regions
