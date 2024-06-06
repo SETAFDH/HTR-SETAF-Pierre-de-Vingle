@@ -400,17 +400,16 @@
           <TextLine ID="eSc_line_baf1db57"
                     TAGREFS="LT9"
                     BASELINE="363 306 525 302" 
-                    HPOS="360"
-                    VPOS="265"
-                    WIDTH="164"
-                    HEIGHT="57">
-            <Shape><Polygon POINTS="361 315 407 322 408 322 409 322 437 315 468 321 469 321 470 321 486 313 513 320 514 320 516 320 517 320 518 320 518 319 524 313 524 301 518 265 490 273 445 271 410 268 409 268 360 276 361 305"/></Shape>
-	    <String CONTENT="P"
-                    HPOS="360"
-                    VPOS="265"
-                    WIDTH="164"
-                    HEIGHT="57"
-                    WC="1.0"></String>
+                    HPOS="361"
+                    VPOS="146"
+                    WIDTH="167"
+                    HEIGHT="176">
+            <Shape><Polygon POINTS="361 315 407 322 408 322 409 322 437 315 468 321 469 321 470 321 486 313 513 320 514 320 516 320 517 320 518 320 518 319 524 313 528 303 527 260 526 146 446 148 423 148 398 148 368 148 361 305"/></Shape>
+	    <String CONTENT="E"
+                    HPOS="361"
+                    VPOS="146"
+                    WIDTH="167"
+                    HEIGHT="176"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="203"
