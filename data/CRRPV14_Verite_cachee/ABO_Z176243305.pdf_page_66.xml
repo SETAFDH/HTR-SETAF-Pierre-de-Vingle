@@ -23,52 +23,12 @@
                   WIDTH="998"
                   HEIGHT="1584">
         <TextBlock HPOS="59"
-                   VPOS="124"
+                   VPOS="122"
                    WIDTH="722"
-                   HEIGHT="1189"
+                   HEIGHT="1191"
                    ID="eSc_textblock_156b74e0"
                    TAGREFS="BT12">
-          <Shape><Polygon POINTS="59 124 59 1313 611 1311 781 124 496 124"/></Shape>
-          <TextLine ID="eSc_line_3e21b7b9"
-                    TAGREFS="LT10"
-                    BASELINE="278 315 454 314" 
-                    HPOS="278"
-                    VPOS="271"
-                    WIDTH="176"
-                    HEIGHT="57">
-            <Shape><Polygon POINTS="278 327 355 323 366 325 384 328 385 328 386 328 399 324 403 323 408 324 429 328 430 328 454 322 454 314 453 271 295 271 294 271 293 271 278 275 278 315"/></Shape>
-	    <String CONTENT="Ministre."
-                    HPOS="278"
-                    VPOS="271"
-                    WIDTH="176"
-                    HEIGHT="57"
-                    WC="0.9991911914613512"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_5f3b7b7d"
-                    TAGREFS="LT10"
-                    BASELINE="256 452 457 451" 
-                    HPOS="255"
-                    VPOS="413"
-                    WIDTH="202"
-                    HEIGHT="49">
-            <Shape><Polygon POINTS="256 462 456 461 457 451 454 413 255 413 256 452"/></Shape>
-	    <String CONTENT="Simonie."
-                    HPOS="255"
-                    VPOS="413"
-                    WIDTH="202"
-                    HEIGHT="49"
-                    WC="0.9997053369879723"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="661"
-                   VPOS="1285"
-                   WIDTH="92"
-                   HEIGHT="66"
-                   ID="eSc_textblock_d8629d3e"
-                   TAGREFS="BT17">
-          <Shape><Polygon POINTS="661 1285 661 1351 753 1351 753 1285"/></Shape>
-        </TextBlock>
-        <TextBlock ID="eSc_dummyblock_">
+          <Shape><Polygon POINTS="59 124 59 1313 611 1311 781 124 496 122"/></Shape>
           <TextLine ID="eSc_line_fd24ca51"
                     TAGREFS="LT8"
                     BASELINE="73 177 527 173" 
@@ -114,6 +74,21 @@
                     HEIGHT="64"
                     WC="0.9996214421356425"></String>
           </TextLine>
+          <TextLine ID="eSc_line_3e21b7b9"
+                    TAGREFS="LT10"
+                    BASELINE="278 315 454 314" 
+                    HPOS="278"
+                    VPOS="271"
+                    WIDTH="176"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="278 327 355 323 366 325 384 328 385 328 386 328 399 324 403 323 408 324 429 328 430 328 454 322 454 314 453 271 295 271 294 271 293 271 278 275 278 315"/></Shape>
+	    <String CONTENT="Ministre."
+                    HPOS="278"
+                    VPOS="271"
+                    WIDTH="176"
+                    HEIGHT="57"
+                    WC="0.9991911914613512"></String>
+          </TextLine>
           <TextLine ID="eSc_line_b5fa5b4f"
                     TAGREFS="LT8"
                     BASELINE="78 361 738 359" 
@@ -143,6 +118,21 @@
                     WIDTH="560"
                     HEIGHT="62"
                     WC="0.9974018085387445"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_5f3b7b7d"
+                    TAGREFS="LT10"
+                    BASELINE="256 452 457 451" 
+                    HPOS="255"
+                    VPOS="413"
+                    WIDTH="202"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="256 462 456 461 457 451 454 413 255 413 256 452"/></Shape>
+	    <String CONTENT="Simonie."
+                    HPOS="255"
+                    VPOS="413"
+                    WIDTH="202"
+                    HEIGHT="49"
+                    WC="0.9997053369879723"></String>
           </TextLine>
           <TextLine ID="eSc_line_e1d85c0c"
                     TAGREFS="LT8"
@@ -414,6 +404,14 @@
                     HEIGHT="100"
                     WC="0.9771514758467674"></String>
           </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="661"
+                   VPOS="1285"
+                   WIDTH="92"
+                   HEIGHT="66"
+                   ID="eSc_textblock_d8629d3e"
+                   TAGREFS="BT17">
+          <Shape><Polygon POINTS="661 1285 661 1351 753 1351 753 1285"/></Shape>
           <TextLine ID="eSc_line_bcdd22de"
                     TAGREFS="LT8"
                     BASELINE="682 1332 740 1332" 
