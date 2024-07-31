@@ -60,12 +60,11 @@
                     WIDTH="474"
                     HEIGHT="482">
             <Shape><Polygon POINTS="86 1258 535 1273 541 1238 560 812 105 791 89 1223"/></Shape>
-	    <String CONTENT="I"
+	    <String CONTENT="A"
                     HPOS="86"
                     VPOS="791"
                     WIDTH="474"
-                    HEIGHT="482"
-                    WC="1.0"></String>
+                    HEIGHT="482"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="62"
@@ -798,14 +797,6 @@
                     HEIGHT="125"
                     WC="0.9999105930328369"></String>
           </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="1560"
-                   VPOS="264"
-                   WIDTH="120"
-                   HEIGHT="8"
-                   ID="eSc_textblock_cd121ce9"
-                   >
-          <Shape><Polygon POINTS="1560 264 1560 272 1680 272 1680 264"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>
