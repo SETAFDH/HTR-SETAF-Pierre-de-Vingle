@@ -22,59 +22,6 @@
                   VPOS="0"
                   WIDTH="1058"
                   HEIGHT="1584">
-        <TextBlock HPOS="170"
-                   VPOS="142"
-                   WIDTH="150"
-                   HEIGHT="132"
-                   ID="eSc_textblock_636914d7"
-                   TAGREFS="BT13">
-          <Shape><Polygon POINTS="170 142 170 274 320 274 320 142"/></Shape>
-          <TextLine ID="eSc_line_d203c660"
-                    TAGREFS="LT8"
-                    BASELINE="186 181 323 178" 
-                    HPOS="182"
-                    VPOS="130"
-                    WIDTH="140"
-                    HEIGHT="69">
-            <Shape><Polygon POINTS="184 180 184 199 322 195 322 176 318 145 256 146 243 137 235 130 233 130 232 130 231 130 182 130 184 180"/></Shape>
-	    <String CONTENT="Ioã.13a"
-                    HPOS="182"
-                    VPOS="130"
-                    WIDTH="140"
-                    HEIGHT="69"
-                    WC="0.9980006515979767"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_12bf5b14"
-                    TAGREFS="LT8"
-                    BASELINE="186 222 315 221" 
-                    HPOS="183"
-                    VPOS="182"
-                    WIDTH="131"
-                    HEIGHT="56">
-            <Shape><Polygon POINTS="184 221 184 238 221 232 311 237 314 220 311 191 208 182 207 182 206 182 183 191 184 221"/></Shape>
-	    <String CONTENT="Ibide.c"
-                    HPOS="183"
-                    VPOS="182"
-                    WIDTH="131"
-                    HEIGHT="56"
-                    WC="0.999294536454337"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_a7b3bab4"
-                    TAGREFS="LT8"
-                    BASELINE="181 264 320 264" 
-                    HPOS="180"
-                    VPOS="232"
-                    WIDTH="139"
-                    HEIGHT="54">
-            <Shape><Polygon POINTS="180 264 180 286 319 279 319 264 319 234 180 232 180 264"/></Shape>
-	    <String CONTENT="rehez.16."
-                    HPOS="180"
-                    VPOS="232"
-                    WIDTH="139"
-                    HEIGHT="54"
-                    WC="0.9983864691522386"></String>
-          </TextLine>
-        </TextBlock>
         <TextBlock HPOS="318"
                    VPOS="72"
                    WIDTH="683"
@@ -456,6 +403,59 @@
                     WIDTH="659"
                     HEIGHT="97"
                     WC="0.9747497422827615"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="170"
+                   VPOS="142"
+                   WIDTH="150"
+                   HEIGHT="132"
+                   ID="eSc_textblock_636914d7"
+                   TAGREFS="BT13">
+          <Shape><Polygon POINTS="170 142 170 274 320 274 320 142"/></Shape>
+          <TextLine ID="eSc_line_d203c660"
+                    TAGREFS="LT8"
+                    BASELINE="186 181 323 178" 
+                    HPOS="182"
+                    VPOS="130"
+                    WIDTH="140"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="184 180 184 199 322 195 322 176 318 145 256 146 243 137 235 130 233 130 232 130 231 130 182 130 184 180"/></Shape>
+	    <String CONTENT="Ioã.13a"
+                    HPOS="182"
+                    VPOS="130"
+                    WIDTH="140"
+                    HEIGHT="69"
+                    WC="0.9980006515979767"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_12bf5b14"
+                    TAGREFS="LT8"
+                    BASELINE="186 222 315 221" 
+                    HPOS="183"
+                    VPOS="182"
+                    WIDTH="131"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="184 221 184 238 221 232 311 237 314 220 311 191 208 182 207 182 206 182 183 191 184 221"/></Shape>
+	    <String CONTENT="Ibide.c"
+                    HPOS="183"
+                    VPOS="182"
+                    WIDTH="131"
+                    HEIGHT="56"
+                    WC="0.999294536454337"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_a7b3bab4"
+                    TAGREFS="LT8"
+                    BASELINE="181 264 320 264" 
+                    HPOS="180"
+                    VPOS="232"
+                    WIDTH="139"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="180 264 180 286 319 279 319 264 319 234 180 232 180 264"/></Shape>
+	    <String CONTENT="rehez.16."
+                    HPOS="180"
+                    VPOS="232"
+                    WIDTH="139"
+                    HEIGHT="54"
+                    WC="0.9983864691522386"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="173"
