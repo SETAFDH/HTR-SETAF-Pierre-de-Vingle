@@ -511,12 +511,12 @@
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="1770"
-                   VPOS="2954"
-                   WIDTH="376"
-                   HEIGHT="93"
-                   ID="eSc_textblock_af4aaa74"
+                   VPOS="2958"
+                   WIDTH="384"
+                   HEIGHT="85"
+                   ID="eSc_textblock_468d2370"
                    TAGREFS="BT17">
-          <Shape><Polygon POINTS="2146 3047 2146 2954 1770 2954 1770 3047"/></Shape>
+          <Shape><Polygon POINTS="2134 3043 2154 2958 1770 2958 1770 3043"/></Shape>
           <TextLine ID="eSc_line_d44a2f95"
                     TAGREFS="LT8"
                     BASELINE="1795 3012 2134 3008" 
@@ -531,22 +531,6 @@
                     WIDTH="341"
                     HEIGHT="109"
                     WC="0.9999289843771193"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="eSc_line_3864d208"
-                    BASELINE="966 1988 1418 1996" 
-                    HPOS="962"
-                    VPOS="1926"
-                    WIDTH="455"
-                    HEIGHT="84">
-            <Shape><Polygon POINTS="965 1986 962 1995 992 1995 1022 1995 1051 1995 1081 1995 1081 2001 1411 2010 1417 1995 1417 1953 1357 1932 1354 1932 1351 1932 1292 1944 1265 1950 965 1926 965 1986"/></Shape>
-	    <String CONTENT="ion"
-                    HPOS="962"
-                    VPOS="1926"
-                    WIDTH="455"
-                    HEIGHT="84"
-                    WC="0.9999994436899821"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

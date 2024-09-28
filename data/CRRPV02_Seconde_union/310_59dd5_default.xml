@@ -503,29 +503,6 @@
                     WC="0.9864068841934204"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="1595"
-                   VPOS="180"
-                   WIDTH="213"
-                   HEIGHT="119"
-                   ID="eSc_textblock_203b33ef"
-                   TAGREFS="BT15">
-          <Shape><Polygon POINTS="1597 180 1595 299 1808 299 1808 180"/></Shape>
-          <TextLine ID="eSc_line_0fc142aa"
-                    TAGREFS="LT8"
-                    BASELINE="1615 259 1772 257" 
-                    HPOS="1613"
-                    VPOS="166"
-                    WIDTH="159"
-                    HEIGHT="132">
-            <Shape><Polygon POINTS="1615 259 1617 298 1665 283 1684 292 1686 292 1688 292 1742 283 1764 296 1772 257 1764 166 1734 180 1613 168 1615 259"/></Shape>
-	    <String CONTENT="364"
-                    HPOS="1613"
-                    VPOS="166"
-                    WIDTH="159"
-                    HEIGHT="132"
-                    WC="0.9999993244806925"></String>
-          </TextLine>
-        </TextBlock>
         <TextBlock HPOS="1541"
                    VPOS="1977"
                    WIDTH="328"
@@ -624,29 +601,6 @@
                     WC="0.9999999403953552"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="1579"
-                   VPOS="2558"
-                   WIDTH="253"
-                   HEIGHT="104"
-                   ID="eSc_textblock_4b00dbf1"
-                   TAGREFS="BT13">
-          <Shape><Polygon POINTS="1579 2558 1579 2662 1832 2660 1832 2558"/></Shape>
-          <TextLine ID="eSc_line_9053b0d0"
-                    TAGREFS="LT8"
-                    BASELINE="1594 2625 1821 2624" 
-                    HPOS="1589"
-                    VPOS="2535"
-                    WIDTH="229"
-                    HEIGHT="122">
-            <Shape><Polygon POINTS="1592 2624 1592 2657 1818 2645 1818 2621 1815 2556 1738 2535 1735 2535 1732 2535 1589 2541 1592 2624"/></Shape>
-	    <String CONTENT="Ioã.4.c"
-                    HPOS="1589"
-                    VPOS="2535"
-                    WIDTH="229"
-                    HEIGHT="122"
-                    WC="0.9971849322319031"></String>
-          </TextLine>
-        </TextBlock>
         <TextBlock HPOS="978"
                    VPOS="2972"
                    WIDTH="574"
@@ -728,7 +682,7 @@
                    WIDTH="253"
                    HEIGHT="104"
                    ID="eSc_textblock_6b9428d3"
-                   >
+                   TAGREFS="BT13">
           <Shape><Polygon POINTS="1579 2558 1579 2662 1832 2662 1832 2558"/></Shape>
         </TextBlock>
         <TextBlock HPOS="134"
@@ -744,8 +698,40 @@
                    WIDTH="211"
                    HEIGHT="119"
                    ID="eSc_textblock_8377ca32"
-                   >
+                   TAGREFS="BT15">
           <Shape><Polygon POINTS="1597 180 1597 299 1808 299 1808 180"/></Shape>
+        </TextBlock>
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_0fc142aa"
+                    TAGREFS="LT8"
+                    BASELINE="1615 259 1772 257" 
+                    HPOS="1613"
+                    VPOS="166"
+                    WIDTH="159"
+                    HEIGHT="132">
+            <Shape><Polygon POINTS="1615 259 1617 298 1665 283 1684 292 1686 292 1688 292 1742 283 1764 296 1772 257 1764 166 1734 180 1613 168 1615 259"/></Shape>
+	    <String CONTENT="364"
+                    HPOS="1613"
+                    VPOS="166"
+                    WIDTH="159"
+                    HEIGHT="132"
+                    WC="0.9999993244806925"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_9053b0d0"
+                    TAGREFS="LT8"
+                    BASELINE="1594 2625 1821 2624" 
+                    HPOS="1589"
+                    VPOS="2535"
+                    WIDTH="229"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="1592 2624 1592 2657 1818 2645 1818 2621 1815 2556 1738 2535 1735 2535 1732 2535 1589 2541 1592 2624"/></Shape>
+	    <String CONTENT="Ioã.4.c"
+                    HPOS="1589"
+                    VPOS="2535"
+                    WIDTH="229"
+                    HEIGHT="122"
+                    WC="0.9971849322319031"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>
