@@ -762,6 +762,29 @@
                     WC="0.9733852999550956"></String>
           </TextLine>
         </TextBlock>
+        <TextBlock HPOS="1578"
+                   VPOS="2261"
+                   WIDTH="255"
+                   HEIGHT="105"
+                   ID="eSc_textblock_d5a65ead"
+                   TAGREFS="BT13">
+          <Shape><Polygon POINTS="1578 2261 1578 2366 1833 2366 1833 2261"/></Shape>
+          <TextLine ID="eSc_line_30c569aa"
+                    TAGREFS="LT8"
+                    BASELINE="1586 2336 1661 2329 1819 2323" 
+                    HPOS="1577"
+                    VPOS="2238"
+                    WIDTH="241"
+                    HEIGHT="134">
+            <Shape><Polygon POINTS="1583 2333 1583 2372 1818 2360 1818 2321 1809 2244 1699 2259 1660 2241 1654 2238 1651 2238 1648 2238 1577 2238 1583 2333"/></Shape>
+	    <String CONTENT="Ps̈.10.b"
+                    HPOS="1577"
+                    VPOS="2238"
+                    WIDTH="241"
+                    HEIGHT="134"
+                    WC="0.9994334802031517"></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="1560"
                    VPOS="2520"
                    WIDTH="297"
@@ -881,31 +904,6 @@
                     WIDTH="350"
                     HEIGHT="136"
                     WC="0.9999608794848124"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="1578"
-                   VPOS="2261"
-                   WIDTH="255"
-                   HEIGHT="105"
-                   ID="eSc_textblock_d5a65ead"
-                   TAGREFS="BT13">
-          <Shape><Polygon POINTS="1578 2261 1578 2366 1833 2366 1833 2261"/></Shape>
-        </TextBlock>
-        <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="eSc_line_30c569aa"
-                    TAGREFS="LT8"
-                    BASELINE="1586 2336 1661 2329 1819 2323" 
-                    HPOS="1577"
-                    VPOS="2238"
-                    WIDTH="241"
-                    HEIGHT="134">
-            <Shape><Polygon POINTS="1583 2333 1583 2372 1818 2360 1818 2321 1809 2244 1699 2259 1660 2241 1654 2238 1651 2238 1648 2238 1577 2238 1583 2333"/></Shape>
-	    <String CONTENT="Ps̈.10.b"
-                    HPOS="1577"
-                    VPOS="2238"
-                    WIDTH="241"
-                    HEIGHT="134"
-                    WC="0.9994334802031517"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>
