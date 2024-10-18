@@ -22,6 +22,29 @@
                   VPOS="0"
                   WIDTH="2267"
                   HEIGHT="3563">
+        <TextBlock HPOS="1138"
+                   VPOS="171"
+                   WIDTH="585"
+                   HEIGHT="155"
+                   ID="eSc_textblock_d6b77354"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="1138 171 1138 326 1723 326 1723 171"/></Shape>
+          <TextLine ID="eSc_line_6b50b116"
+                    TAGREFS="LT10"
+                    BASELINE="1164 285 1698 279" 
+                    HPOS="1162"
+                    VPOS="184"
+                    WIDTH="536"
+                    HEIGHT="138">
+            <Shape><Polygon POINTS="1667 190 1657 188 1637 188 1617 188 1603 188 1546 197 1514 203 1403 203 1393 193 1385 186 1385 184 1383 184 1381 184 1379 184 1378 184 1360 192 1336 205 1288 205 1259 190 1251 186 1249 186 1247 186 1174 186 1162 197 1164 285 1164 320 1300 322 1302 322 1304 322 1320 314 1342 304 1457 304 1467 308 1490 320 1492 320 1494 320 1601 304 1645 318 1647 318 1649 318 1651 318 1653 318 1653 316 1669 300 1698 298 1698 279 1696 205 1678 193"/></Shape>
+	    <String CONTENT="De la royale"
+                    HPOS="1162"
+                    VPOS="184"
+                    WIDTH="536"
+                    HEIGHT="138"
+                    WC="0.9994385242462158"></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="713"
                    VPOS="316"
                    WIDTH="1480"
@@ -217,12 +240,11 @@
                     WIDTH="1385"
                     HEIGHT="110">
             <Shape><Polygon POINTS="748 1401 748 1425 2127 1416 2130 1386 2121 1315 745 1327 748 1401"/></Shape>
-	    <String CONTENT="A Mais si deuãt ⁊ apres les parolles nous dõ"
+	    <String CONTENT="* Mais si deuãt ⁊ apres les parolles nous dõ"
                     HPOS="745"
                     VPOS="1315"
                     WIDTH="1385"
-                    HEIGHT="110"
-                    WC="0.9987142474754996"></String>
+                    HEIGHT="110"></String>
           </TextLine>
           <TextLine ID="eSc_line_85e78cb4"
                     TAGREFS="LT8"
@@ -292,12 +314,11 @@
                     WIDTH="1370"
                     HEIGHT="112">
             <Shape><Polygon POINTS="784 1814 784 1840 2148 1837 2151 1799 2142 1728 781 1739 784 1814"/></Shape>
-	    <String CONTENT="ABienheureux est celuy qui aura faict ⁊ ensei"
+	    <String CONTENT="* Bienheureux est celuy qui aura faict ⁊ ensei"
                     HPOS="781"
                     VPOS="1728"
                     WIDTH="1370"
-                    HEIGHT="112"
-                    WC="0.9863015678193834"></String>
+                    HEIGHT="112"></String>
           </TextLine>
           <TextLine ID="eSc_line_1b0ecac4"
                     TAGREFS="LT8"
@@ -337,12 +358,11 @@
                     WIDTH="1392"
                     HEIGHT="109">
             <Shape><Polygon POINTS="758 2066 758 2084 857 2096 859 2096 932 2084 1088 2094 1090 2094 1251 2082 1273 2092 1275 2092 1277 2092 1498 2078 1756 2086 1758 2086 1760 2086 1799 2074 1970 2084 1971 2084 2148 2068 2148 2050 2144 1997 2078 1987 2076 1987 1968 1999 1952 1999 1946 1999 1914 1989 1912 1989 1910 1989 1847 1999 1845 1999 1813 1989 1811 1989 1809 1989 1807 1989 1805 1989 1787 2001 1775 1991 1774 1991 1772 1991 1655 1991 1653 1991 1568 2003 1558 2003 1550 2003 1453 1993 1451 1993 1387 2005 1381 2005 1374 2005 1273 1995 1271 1995 1269 1995 1237 2007 1233 2007 1225 2007 1156 1997 1154 1997 1092 2009 1083 2011 756 2011 758 2066"/></Shape>
-	    <String CONTENT="oeuure precedente: q̃ quãt aussi la doctrre ne"
+	    <String CONTENT="oeuure precedente: q̃ quãt aussi la doctrine ne"
                     HPOS="756"
                     VPOS="1987"
                     WIDTH="1392"
-                    HEIGHT="109"
-                    WC="0.989145518617427"></String>
+                    HEIGHT="109"></String>
           </TextLine>
           <TextLine ID="eSc_line_836ae7f9"
                     TAGREFS="LT8"
@@ -367,12 +387,11 @@
                     WIDTH="1388"
                     HEIGHT="107">
             <Shape><Polygon POINTS="766 2232 766 2252 958 2260 960 2260 1037 2250 1051 2248 1059 2250 1098 2258 1100 2258 1170 2248 1187 2246 1203 2248 1281 2256 1282 2256 1478 2244 1488 2244 1490 2244 1530 2254 1532 2254 1534 2254 1619 2242 1625 2242 1631 2242 1726 2252 1728 2252 1730 2252 1754 2240 1756 2240 1770 2240 1940 2250 1942 2250 2152 2234 2152 2218 2148 2165 2076 2153 2074 2153 1950 2165 1948 2165 1783 2155 1781 2155 1779 2155 1746 2167 1742 2167 1558 2157 1556 2157 1554 2157 1530 2169 1526 2169 1413 2159 1411 2159 1358 2171 1354 2171 1346 2171 1245 2161 1243 2161 1241 2161 1239 2161 1221 2171 823 2165 821 2165 764 2175 766 2232"/></Shape>
-	    <String CONTENT="enseigner ꝯlus cleremẽt q̃ le iour/ ceulx qui re"
+	    <String CONTENT="enseigner plus cleremẽt q̃ le iour/ ceulx qui re"
                     HPOS="764"
                     VPOS="2153"
                     WIDTH="1388"
-                    HEIGHT="107"
-                    WC="0.9874432524856256"></String>
+                    HEIGHT="107"></String>
           </TextLine>
           <TextLine ID="eSc_line_f41ddf9c"
                     TAGREFS="LT8"
@@ -427,12 +446,11 @@
                     WIDTH="1373"
                     HEIGHT="107">
             <Shape><Polygon POINTS="790 2562 790 2586 2160 2574 2160 2550 2154 2491 1470 2479 1467 2479 1464 2479 1461 2479 1441 2494 1298 2482 1295 2482 787 2500 790 2562"/></Shape>
-	    <String CONTENT="q̃ nous ne oyons de sainct Paul. Toy qͥ en¬"
+	    <String CONTENT="q̃ nous ne oyons de sainct Paul. * Toy qͥ en¬"
                     HPOS="787"
                     VPOS="2479"
                     WIDTH="1373"
-                    HEIGHT="107"
-                    WC="0.9929297400075335"></String>
+                    HEIGHT="107"></String>
           </TextLine>
           <TextLine ID="eSc_line_fef0a592"
                     TAGREFS="LT8"
@@ -508,29 +526,6 @@
                     WIDTH="1386"
                     HEIGHT="119"
                     WC="0.9961149340326135"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="1138"
-                   VPOS="171"
-                   WIDTH="585"
-                   HEIGHT="155"
-                   ID="eSc_textblock_d6b77354"
-                   TAGREFS="BT18">
-          <Shape><Polygon POINTS="1138 171 1138 326 1723 326 1723 171"/></Shape>
-          <TextLine ID="eSc_line_6b50b116"
-                    TAGREFS="LT10"
-                    BASELINE="1164 285 1698 279" 
-                    HPOS="1162"
-                    VPOS="184"
-                    WIDTH="536"
-                    HEIGHT="138">
-            <Shape><Polygon POINTS="1667 190 1657 188 1637 188 1617 188 1603 188 1546 197 1514 203 1403 203 1393 193 1385 186 1385 184 1383 184 1381 184 1379 184 1378 184 1360 192 1336 205 1288 205 1259 190 1251 186 1249 186 1247 186 1174 186 1162 197 1164 285 1164 320 1300 322 1302 322 1304 322 1320 314 1342 304 1457 304 1467 308 1490 320 1492 320 1494 320 1601 304 1645 318 1647 318 1649 318 1651 318 1653 318 1653 316 1669 300 1698 298 1698 279 1696 205 1678 193"/></Shape>
-	    <String CONTENT="De la royale"
-                    HPOS="1162"
-                    VPOS="184"
-                    WIDTH="536"
-                    HEIGHT="138"
-                    WC="0.9994385242462158"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="458"
@@ -699,12 +694,11 @@
                     WIDTH="362"
                     HEIGHT="104">
             <Shape><Polygon POINTS="1809 3056 1809 3074 1983 3089 1985 3089 1987 3089 2033 3078 2114 3087 2116 3087 2118 3087 2169 3070 2169 3052 2168 3002 2112 2986 2110 2986 2108 2986 2106 2986 2072 2996 1930 2985 1928 2985 1807 3004 1809 3056"/></Shape>
-	    <String CONTENT="a ussi nou"
+	    <String CONTENT="aussi nou"
                     HPOS="1807"
                     VPOS="2985"
                     WIDTH="362"
-                    HEIGHT="104"
-                    WC="0.9581305682659149"></String>
+                    HEIGHT="104"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>
