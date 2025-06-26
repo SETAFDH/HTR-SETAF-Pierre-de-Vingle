@@ -74,6 +74,21 @@
                     HEIGHT="73"
                     WC="0.9996836483478546"></String>
           </TextLine>
+          <TextLine ID="eSc_line_a4ed118c"
+                    TAGREFS="LT8"
+                    BASELINE="213 247 867 240" 
+                    HPOS="211"
+                    VPOS="192"
+                    WIDTH="654"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="212 246 214 262 229 258 246 269 263 258 287 258 317 269 413 268 440 256 476 256 484 263 490 263 500 254 595 254 619 265 704 263 722 253 750 264 784 262 795 252 864 256 865 239 862 202 828 202 816 192 810 192 797 202 773 194 731 203 707 193 685 203 637 198 606 204 573 194 562 204 501 205 471 196 447 206 384 206 372 197 334 197 312 208 275 200 259 208 247 198 211 198 212 246"/></Shape>
+            <String CONTENT="ilz dressoyent les tabernacles/ ⁊ les"
+                    HPOS="211"
+                    VPOS="192"
+                    WIDTH="654"
+                    HEIGHT="77"
+                    WC="0.9952937074609705"></String>
+          </TextLine>
           <TextLine ID="eSc_line_90d029f5"
                     TAGREFS="LT8"
                     BASELINE="209 304 866 296" 
@@ -503,23 +518,6 @@
                     WIDTH="139"
                     HEIGHT="75"
                     WC="0.9999808470408121"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="eSc_line_a4ed118c"
-                    TAGREFS="LT8"
-                    BASELINE="213 247 867 240" 
-                    HPOS="211"
-                    VPOS="192"
-                    WIDTH="654"
-                    HEIGHT="77">
-            <Shape><Polygon POINTS="212 246 214 262 229 258 246 269 263 258 287 258 317 269 413 268 440 256 476 256 484 263 490 263 500 254 595 254 619 265 704 263 722 253 750 264 784 262 795 252 864 256 865 239 862 202 828 202 816 192 810 192 797 202 773 194 731 203 707 193 685 203 637 198 606 204 573 194 562 204 501 205 471 196 447 206 384 206 372 197 334 197 312 208 275 200 259 208 247 198 211 198 212 246"/></Shape>
-            <String CONTENT="ilz dressoyent les tabernacles/ ⁊ les"
-                    HPOS="211"
-                    VPOS="192"
-                    WIDTH="654"
-                    HEIGHT="77"
-                    WC="0.9952937074609705"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>
