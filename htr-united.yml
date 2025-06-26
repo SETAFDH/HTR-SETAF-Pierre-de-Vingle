@@ -55,9 +55,9 @@ characters:
   - c
   - d
   - p
-  - m
-  - ̃
   - .
+  - ̃
+  - m
   - /
   - q
   - f
@@ -170,11 +170,11 @@ transcription-guidelines: >-
   our rules is available on HAL (https://hal.science/hal-04281804).
 url: https://github.com/SETAFDH/HTR-SETAF-Pierre-de-Vingle
 volume:
-- count: 1807262
+- count: 1822452
   metric: characters
-- count: 1955
+- count: 1975
   metric: files
-- count: 67913
+- count: 68490
   metric: lines
-- count: 9164
+- count: 9260
   metric: regions
