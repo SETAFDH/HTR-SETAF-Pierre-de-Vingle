@@ -217,7 +217,7 @@
                     WIDTH="310"
                     HEIGHT="24">
             <Shape><Polygon POINTS="489 784 477 784 465 784 453 784 441 784 429 784 417 784 405 784 393 784 381 784 369 784 357 784 345 784 332 784 320 784 308 784 296 784 284 784 272 784 260 784 248 784 236 784 224 784 212 784 200 784 188 784 189 786 189 803 224 807 225 807 226 807 253 800 265 807 266 807 267 807 269 808 314 808 314 807 419 800 478 807 480 807 481 807 498 798 498 785 497 784 489 784"/></Shape>
-            <String CONTENT="Dc 1"
+            <String CONTENT="me est menteur:"
                     HPOS="188"
                     VPOS="784"
                     WIDTH="310"
@@ -443,7 +443,7 @@
                     WIDTH="135"
                     HEIGHT="57">
             <Shape><Polygon POINTS="39 286 39 296 172 295 172 280 170 248 136 239 135 239 133 239 132 239 107 250 96 240 95 240 94 240 92 240 91 240 90 240 90 242 83 248 66 242 65 242 63 242 62 242 37 253 39 286"/></Shape>
-            <String CONTENT="Si em̃."
+            <String CONTENT="Siem̃."
                     HPOS="37"
                     VPOS="239"
                     WIDTH="135"
@@ -518,6 +518,21 @@
                     WIDTH="133"
                     HEIGHT="48"
                     WC="0.9999721305710929"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_be55621f"
+                    TAGREFS="LT8"
+                    BASELINE="46 789 175 788" 
+                    HPOS="44"
+                    VPOS="749"
+                    WIDTH="130"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="45 800 172 806 174 786 171 749 44 754 45 788"/></Shape>
+            <String CONTENT="psal.115."
+                    HPOS="44"
+                    VPOS="749"
+                    WIDTH="130"
+                    HEIGHT="57"
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_7e500afd"
                     TAGREFS="LT8"
