@@ -33,15 +33,15 @@
                     TAGREFS="LT9"
                     BASELINE="136 181 265 186" 
                     HPOS="132"
-                    VPOS="147"
+                    VPOS="57"
                     WIDTH="132"
-                    HEIGHT="57">
-            <Shape><Polygon POINTS="262 204 264 185 264 165 174 165 162 150 161 150 161 148 159 148 158 148 136 147 134 179 132 203"/></Shape>
-            <String CONTENT="L"
+                    HEIGHT="147">
+            <Shape><Polygon POINTS="262 204 264 185 256 57 152 61 149 62 161 150 161 148 159 148 148 62 136 147 134 179 132 203"/></Shape>
+            <String CONTENT="S"
                     HPOS="132"
-                    VPOS="147"
+                    VPOS="57"
                     WIDTH="132"
-                    HEIGHT="57"
+                    HEIGHT="147"
                     WC="0.9999998807907104"></String>
           </TextLine>
         </TextBlock>
@@ -459,7 +459,7 @@
                     WIDTH="134"
                     HEIGHT="43">
             <Shape><Polygon POINTS="910 657 902 657 894 657 888 656 878 660 847 656 846 656 791 660 791 690 791 697 878 699 879 699 925 693 925 687 923 659 915 657 910 657"/></Shape>
-            <String CONTENT="1.cor5.b"
+            <String CONTENT="1.cor5.b."
                     HPOS="791"
                     VPOS="656"
                     WIDTH="134"
