@@ -22,74 +22,6 @@
                   VPOS="0"
                   WIDTH="900"
                   HEIGHT="1224">
-        <TextBlock HPOS="280"
-                   VPOS="156"
-                   WIDTH="105"
-                   HEIGHT="170"
-                   ID="eSc_textblock_69e3dc85"
-                   TAGREFS="BT13">
-          <Shape><Polygon POINTS="280 156 280 323 385 326 382 156"/></Shape>
-          <TextLine ID="eSc_line_d39c1911"
-                    TAGREFS="LT8"
-                    BASELINE="282 188 378 189" 
-                    HPOS="282"
-                    VPOS="160"
-                    WIDTH="96"
-                    HEIGHT="41">
-            <Shape><Polygon POINTS="282 161 288 160 312 163 317 160 320 160 329 166 342 163 345 163 351 167 370 163 372 163 378 168 378 195 306 195 296 201 294 201 282 200"/></Shape>
-            <String CONTENT="Ro.4.a"
-                    HPOS="282"
-                    VPOS="160"
-                    WIDTH="96"
-                    HEIGHT="41"
-                    WC="0.9998641709486643"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_75eb4295"
-                    TAGREFS="LT8"
-                    BASELINE="289 252 378 254" 
-                    HPOS="288"
-                    VPOS="221"
-                    WIDTH="91"
-                    HEIGHT="40">
-            <Shape><Polygon POINTS="288 261 289 252 291 224 292 226 304 221 305 221 338 222 339 222 354 228 364 224 365 224 379 227 378 261"/></Shape>
-            <String CONTENT="Geñ.5.b"
-                    HPOS="288"
-                    VPOS="221"
-                    WIDTH="91"
-                    HEIGHT="40"
-                    WC="0.9998892992734909"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_f035e68f"
-                    TAGREFS="LT8"
-                    BASELINE="293 280 363 282 378 284" 
-                    HPOS="300"
-                    VPOS="258"
-                    WIDTH="80"
-                    HEIGHT="35">
-            <Shape><Polygon POINTS="300 258 355 259 356 259 363 265 369 261 372 261 380 263 377 293 300 291"/></Shape>
-            <String CONTENT="Gał.3.a"
-                    HPOS="300"
-                    VPOS="258"
-                    WIDTH="80"
-                    HEIGHT="35"
-                    WC="0.9980221561023167"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_42c1ddb4"
-                    TAGREFS="LT8"
-                    BASELINE="291 315 378 314" 
-                    HPOS="289"
-                    VPOS="283"
-                    WIDTH="94"
-                    HEIGHT="44">
-            <Shape><Polygon POINTS="291 327 305 327 305 326 306 326 306 325 312 320 353 323 379 313 383 294 320 290 315 286 315 285 314 285 289 283 291 315"/></Shape>
-            <String CONTENT="Iaco.2.d"
-                    HPOS="289"
-                    VPOS="283"
-                    WIDTH="94"
-                    HEIGHT="44"
-                    WC="0.9999523386359215"></String>
-          </TextLine>
-        </TextBlock>
         <TextBlock HPOS="361"
                    VPOS="126"
                    WIDTH="439"
@@ -180,12 +112,12 @@
                     WIDTH="388"
                     HEIGHT="44">
             <Shape><Polygon POINTS="389 323 388 331 453 330 464 334 465 334 465 334 492 331 520 335 521 335 521 335 522 335 522 334 526 331 544 334 544 334 568 331 578 335 578 335 579 335 580 335 590 331 594 335 595 335 595 335 596 335 627 333 630 335 630 336 631 336 631 336 632 336 698 332 713 337 714 337 714 337 753 337 753 337 754 337 763 333 774 337 776 326 774 296 763 302 736 302 725 297 725 297 724 297 700 301 688 295 687 295 687 295 658 301 637 295 636 295 636 295 635 295 621 301 601 295 600 295 583 295 582 295 582 295 570 300 565 295 565 295 565 295 564 295 544 294 543 294 516 298 503 295 502 295 502 295 501 295 500 295 494 299 462 293 461 293 461 293 460 293 460 294 454 299 444 299 431 293 431 293 430 293 389 298 389 323"/></Shape>
-            <String CONTENT="mais selon la debte. Mais celuy q"
+            <String CONTENT="mais selon la debte. Mais celuy qͥ"
                     HPOS="388"
                     VPOS="293"
                     WIDTH="388"
                     HEIGHT="44"
-                    WC="0.9999306978601398"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_e87a2773"
                     TAGREFS="LT8"
@@ -465,12 +397,80 @@
                     WIDTH="410"
                     HEIGHT="51">
             <Shape><Polygon POINTS="376 947 376 969 438 969 438 968 439 968 455 962 472 964 472 964 473 964 474 964 474 963 480 958 499 962 500 962 500 962 507 958 512 963 512 964 512 964 513 964 514 964 537 959 546 965 546 965 547 965 548 965 548 965 549 965 556 960 559 963 560 963 561 963 561 963 562 963 574 959 587 962 588 962 589 962 589 962 601 958 631 966 632 966 633 967 642 967 642 966 642 966 643 966 656 957 709 957 731 966 731 966 732 966 733 966 754 958 768 963 768 963 769 963 770 963 785 958 785 944 784 923 772 918 771 918 770 918 681 924 612 919 611 919 610 919 610 919 610 920 605 924 560 920 559 920 559 920 546 924 540 920 540 920 539 920 524 920 523 920 523 920 506 924 491 920 491 920 490 920 489 920 489 920 484 924 405 922 404 922 375 926 376 947"/></Shape>
-            <String CONTENT="oeuures de la loy. Pource nulse"
+            <String CONTENT="oeuures de la loy. Pource nulle"
                     HPOS="375"
                     VPOS="918"
                     WIDTH="410"
                     HEIGHT="51"
-                    WC="0.9906596579859334"></String>
+                    ></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="280"
+                   VPOS="156"
+                   WIDTH="105"
+                   HEIGHT="170"
+                   ID="eSc_textblock_69e3dc85"
+                   TAGREFS="BT13">
+          <Shape><Polygon POINTS="280 156 280 323 385 326 382 156"/></Shape>
+          <TextLine ID="eSc_line_d39c1911"
+                    TAGREFS="LT8"
+                    BASELINE="282 188 378 189" 
+                    HPOS="282"
+                    VPOS="160"
+                    WIDTH="96"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="282 161 288 160 312 163 317 160 320 160 329 166 342 163 345 163 351 167 370 163 372 163 378 168 378 195 306 195 296 201 294 201 282 200"/></Shape>
+            <String CONTENT="Ro.4.a"
+                    HPOS="282"
+                    VPOS="160"
+                    WIDTH="96"
+                    HEIGHT="41"
+                    WC="0.9998641709486643"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_75eb4295"
+                    TAGREFS="LT8"
+                    BASELINE="289 252 378 254" 
+                    HPOS="288"
+                    VPOS="221"
+                    WIDTH="91"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="288 261 289 252 291 224 292 226 304 221 305 221 338 222 339 222 354 228 364 224 365 224 379 227 378 261"/></Shape>
+            <String CONTENT="Geñ.5.b"
+                    HPOS="288"
+                    VPOS="221"
+                    WIDTH="91"
+                    HEIGHT="40"
+                    WC="0.9998892992734909"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_f035e68f"
+                    TAGREFS="LT8"
+                    BASELINE="293 280 363 282 378 284" 
+                    HPOS="300"
+                    VPOS="258"
+                    WIDTH="80"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="300 258 355 259 356 259 363 265 369 261 372 261 380 263 377 293 300 291"/></Shape>
+            <String CONTENT="Gał.3.a"
+                    HPOS="300"
+                    VPOS="258"
+                    WIDTH="80"
+                    HEIGHT="35"
+                    WC="0.9980221561023167"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_42c1ddb4"
+                    TAGREFS="LT8"
+                    BASELINE="291 315 378 314" 
+                    HPOS="289"
+                    VPOS="283"
+                    WIDTH="94"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="291 327 305 327 305 326 306 326 306 325 312 320 353 323 379 313 383 294 320 290 315 286 315 285 314 285 289 283 291 315"/></Shape>
+            <String CONTENT="Iaco.2.d"
+                    HPOS="289"
+                    VPOS="283"
+                    WIDTH="94"
+                    HEIGHT="44"
+                    WC="0.9999523386359215"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="279"
