@@ -427,12 +427,12 @@
                     WIDTH="390"
                     HEIGHT="37">
             <Shape><Polygon POINTS="174 916 174 926 381 926 391 929 391 929 392 929 393 929 393 929 397 925 433 925 466 930 467 930 483 926 552 930 553 930 553 930 563 925 564 918 563 900 529 894 528 894 527 894 516 899 506 894 505 894 504 894 504 894 503 894 497 900 461 900 451 894 451 894 450 894 449 894 439 899 436 895 435 895 435 894 434 894 433 894 419 894 418 894 365 898 350 894 349 894 348 894 348 894 334 898 329 894 328 894 327 894 310 894 310 894 309 894 301 898 295 893 295 893 294 893 280 893 279 893 278 893 278 893 272 898 223 898 219 894 219 893 218 893 217 893 216 893 216 893 203 898 188 893 187 893 187 893 186 893 174 897 174 916"/></Shape>
-            <String CONTENT="la soy/ prestantz laureille aux esperitz"
+            <String CONTENT="la foy/ prestantz laureille aux esperitz"
                     HPOS="174"
                     VPOS="893"
                     WIDTH="390"
                     HEIGHT="37"
-                    WC="0.9997575536370278"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_b6bfd606"
                     TAGREFS="LT8"
@@ -448,29 +448,6 @@
                     WIDTH="390"
                     HEIGHT="42"
                     WC="0.9887700444314538"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="570"
-                   VPOS="837"
-                   WIDTH="95"
-                   HEIGHT="36"
-                   ID="eSc_textblock_a91cd6d9"
-                   TAGREFS="BT13">
-          <Shape><Polygon POINTS="570 837 570 873 665 873 665 837"/></Shape>
-          <TextLine ID="eSc_line_45971f5d"
-                    TAGREFS="LT8"
-                    BASELINE="572 859 658 859" 
-                    HPOS="571"
-                    VPOS="836"
-                    WIDTH="86"
-                    HEIGHT="39">
-            <Shape><Polygon POINTS="571 875 657 875 657 858 656 836 571 836 571 858"/></Shape>
-            <String CONTENT="1.tim̃.4a"
-                    HPOS="571"
-                    VPOS="836"
-                    WIDTH="86"
-                    HEIGHT="39"
-                    WC="0.9062966108322144"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="410"
@@ -494,6 +471,29 @@
                     WIDTH="58"
                     HEIGHT="43"
                     WC="0.9191682835419973"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="570"
+                   VPOS="837"
+                   WIDTH="95"
+                   HEIGHT="36"
+                   ID="eSc_textblock_a91cd6d9"
+                   TAGREFS="BT13">
+          <Shape><Polygon POINTS="570 837 570 873 665 873 665 837"/></Shape>
+          <TextLine ID="eSc_line_45971f5d"
+                    TAGREFS="LT8"
+                    BASELINE="572 859 658 859" 
+                    HPOS="571"
+                    VPOS="836"
+                    WIDTH="86"
+                    HEIGHT="39">
+            <Shape><Polygon POINTS="571 875 657 875 657 858 656 836 571 836 571 858"/></Shape>
+            <String CONTENT="1.tim̃.4a"
+                    HPOS="571"
+                    VPOS="836"
+                    WIDTH="86"
+                    HEIGHT="39"
+                    WC="0.9062966108322144"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>
