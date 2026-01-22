@@ -94,15 +94,15 @@ characters:
   - '4'
   - R
   - '5'
-  - U
   - '6'
+  - U
   - '0'
   - H
   - '8'
   - O
+  - G
   - '7'
   - ','
-  - G
   - '9'
   - (
   - )
@@ -171,11 +171,11 @@ transcription-guidelines: >-
   our rules is available on HAL (https://hal.science/hal-04281804).
 url: https://github.com/SETAFDH/HTR-SETAF-Pierre-de-Vingle
 volume:
-- count: 1930869
+- count: 1939281
   metric: characters
-- count: 1966
+- count: 1976
   metric: files
-- count: 71848
+- count: 72143
   metric: lines
-- count: 9170
+- count: 9208
   metric: regions
